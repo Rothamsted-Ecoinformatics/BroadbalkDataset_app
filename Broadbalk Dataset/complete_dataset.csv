@@ -1,0 +1,2962 @@
+﻿harvest_year,plot,sub_plot,fertilizer_code,cultivar,grain,straw
+1852,2,*,FYM,old red cluster,1.92,3.88
+1852,3,*,Nil,old red cluster,0.97,1.78
+1852,5,*,PKNaMg,old red cluster,1.18,2.21
+1852,6,*,N1PKNaMg,old red cluster,1.45,2.91
+1852,7,*,N2PKNaMg,old red cluster,1.83,4.28
+1852,8,*,N3PKNaMg,old red cluster,1.88,4.25
+1852,9,a,N1*,old red cluster,1.78,4.16
+1852,9,b,N2*,old red cluster,1.69,3.78
+1852,10,*,N2,old red cluster,1.5,3.14
+1852,11,*,N2P,old red cluster,1.6,3.36
+1852,12,*,N2PNa*,old red cluster,1.68,3.64
+1852,13,*,N2PK,old red cluster,1.66,3.65
+1852,14,*,N2PMg*,old red cluster,1.71,4.01
+1852,15,a,N2PKNaMg,old red cluster,1.63,3.6
+1852,15,b,N1.5PKNaMg + rape cake,old red cluster,1.7,3.83
+1852,16,*,N4PKNaMg,old red cluster,1.96,5.21
+1852,17,*,N2,old red cluster,1.74,4.04
+1852,18,*,PKNaMg,old red cluster,1,1.94
+1852,19,*,N1.5P + rape cake,old red cluster,1.77,3.81
+1853,2,*,FYM,red rostock,1.26,3.78
+1853,3,*,Nil,red rostock,0.45,1.73
+1853,5,*,PKNaMg,red rostock,0.67,2.29
+1853,6,*,N1PKNaMg,red rostock,1.15,3.13
+1853,7,*,N2PKNaMg,red rostock,1.53,4.19
+1853,8,*,N3PKNaMg,red rostock,1.56,4.43
+1853,9,a,N1*,red rostock,0.77,2.69
+1853,9,b,N2*,red rostock,0.73,2.53
+1853,10,*,N2,red rostock,0.86,2.66
+1853,11,*,N2P,red rostock,1.17,2.93
+1853,12,*,N2PNa*,red rostock,1.49,4.13
+1853,13,*,N2PK,red rostock,1.53,4.27
+1853,14,*,N2PMg*,red rostock,1.5,4.06
+1853,15,a,N2PKNaMg,red rostock,1.28,3.77
+1853,15,b,N1.5PKNaMg + rape cake,red rostock,1.51,4.21
+1853,16,*,N4PKNaMg,red rostock,1.7,5.57
+1853,17,*,PKNaMg,red rostock,0.59,2.25
+1853,18,*,N2,red rostock,1.33,4.03
+1853,19,*,N1.5P + rape cake,red rostock,1.3,3.6
+1854,2,*,FYM,red rostock,3,4.99
+1854,3,*,Nil,red rostock,1.62,2.51
+1854,5,*,PKNaMg,red rostock,1.75,2.82
+1854,6,*,N1PKNaMg,red rostock,2.48,4.43
+1854,7,*,N2PKNaMg,red rostock,3.31,6.22
+1854,8,*,N3PKNaMg,red rostock,3.52,6.87
+1854,9,a,N1*,red rostock,2.75,4.64
+1854,9,b,N2*,red rostock,2.78,4.76
+1854,10,*,N2,red rostock,2.66,4.52
+1854,11,*,N2P,red rostock,3.15,5.7
+1854,12,*,N2PNa*,red rostock,3.31,6.16
+1854,13,*,N2PK,red rostock,3.24,6.14
+1854,14,*,N2PMg*,red rostock,3.26,6.15
+1854,15,a,N2PKNaMg,red rostock,3.14,5.49
+1854,15,b,N1.5PKNaMg + rape cake,red rostock,3.15,5.91
+1854,16,*,N4PKNaMg,red rostock,3.66,7.48
+1854,17,*,N2,red rostock,3.18,5.7
+1854,18,*,PKNaMg,red rostock,1.7,2.69
+1854,19,*,N1.5P + rape cake,red rostock,2.99,5.24
+1855,2,*,FYM,red rostock,2.51,4.31
+1855,3,*,Nil,red rostock,1.26,2.03
+1855,5,*,PKNaMg,red rostock,1.29,2.03
+1855,6,*,N1PKNaMg,red rostock,2,3.29
+1855,7,*,N2PKNaMg,red rostock,2.37,4.52
+1855,8,*,N3PKNaMg,red rostock,2.28,4.59
+1855,9,a,N2*PKNaMg,red rostock,2.17,4.42
+1855,9,b,N2*,red rostock,1.8,3.6
+1855,10,*,N2,red rostock,1.73,3.24
+1855,11,*,N2P,red rostock,1.57,3.16
+1855,12,*,N2PNa*,red rostock,2.3,4.24
+1855,13,*,N2PK,red rostock,2.27,4.14
+1855,14,*,N2PMg*,red rostock,2.31,4.25
+1855,15,a,N2PKNaMg,red rostock,2.28,4.29
+1855,15,b,N1.5PKNaMg + rape cake,red rostock,2.46,4.73
+1855,16,*,N4PKNaMg,red rostock,2.36,5.34
+1855,17,*,PKNaMg,red rostock,1.31,2.12
+1855,18,*,N2,red rostock,2.41,4.62
+1855,19,*,N1.5P + rape cake,red rostock,2.21,4.32
+1856,2,*,FYM,red rostock,2.55,4.84
+1856,3,*,Nil,red rostock,1.08,1.85
+1856,5,*,PKNaMg,red rostock,1.36,2.32
+1856,6,*,N1PKNaMg,red rostock,1.95,3.45
+1856,7,*,N2PKNaMg,red rostock,2.56,5.02
+1856,8,*,N3PKNaMg,red rostock,2.75,5.76
+1856,9,a,N2*PKNaMg,red rostock,2.26,4.34
+1856,9,b,N2*,red rostock,1.88,3.53
+1856,10,*,N2,red rostock,1.82,3.36
+1856,11,*,N2P,red rostock,2.21,3.9
+1856,12,*,N2PNa*,red rostock,2.35,4.25
+1856,13,*,N2PK,red rostock,2.27,4.15
+1856,14,*,N2PMg*,red rostock,2.44,4.67
+1856,15,a,N2PKNaMg,red rostock,2.16,3.95
+1856,15,b,N1.5PKNaMg + rape cake,red rostock,2.29,4.21
+1856,16,*,N4PKNaMg,red rostock,2.74,6.17
+1856,17,*,N2,red rostock,2.2,3.94
+1856,18,*,PKNaMg,red rostock,1.28,2.22
+1856,19,*,N1.5P + rape cake,red rostock,2.31,3.99
+1857,2,*,FYM,red rostock,2.9,3.73
+1857,3,*,Nil,red rostock,1.47,1.76
+1857,5,*,PKNaMg,red rostock,1.64,1.88
+1857,6,*,N1PKNaMg,red rostock,2.47,3.09
+1857,7,*,N2PKNaMg,red rostock,3.19,4.25
+1857,8,*,N3PKNaMg,red rostock,3.47,4.91
+1857,9,a,N2*PKNaMg,red rostock,3.1,4.33
+1857,9,b,N2*,red rostock,2.49,3.34
+1857,10,*,N2,red rostock,2.25,2.95
+1857,11,*,N2P,red rostock,2.71,3.29
+1857,12,*,N2PNa*,red rostock,3.07,4.06
+1857,13,*,N2PK,red rostock,3.06,4.13
+1857,14,*,N2PMg*,red rostock,3.08,4.1
+1857,15,a,N2PKNaMg,red rostock,3.01,4.13
+1857,15,b,N1.5PKNaMg + rape cake,red rostock,3.1,4.24
+1857,16,*,N4PKNaMg,red rostock,3.55,5.26
+1857,17,*,PKNaMg,red rostock,1.81,2.24
+1857,18,*,N2,red rostock,2.85,3.82
+1857,19,*,N1.5P + rape cake,red rostock,2.91,3.58
+1858,2,*,FYM,red rostock,2.82,4.3
+1858,3,*,Nil,red rostock,1.32,1.89
+1858,5,*,PKNaMg,red rostock,1.36,1.78
+1858,6,*,N1PKNaMg,red rostock,2.06,2.97
+1858,7,*,N2PKNaMg,red rostock,2.8,4.52
+1858,8,*,N3PKNaMg,red rostock,3,5.23
+1858,9,a,N2*PKNaMg,red rostock,2.67,4.84
+1858,9,b,N2*,red rostock,1.65,3.01
+1858,10,*,N2,red rostock,1.8,2.66
+1858,11,*,N2P,red rostock,2.29,3.26
+1858,12,*,N2PNa*,red rostock,2.71,4.12
+1858,13,*,N2PK,red rostock,2.68,4.13
+1858,14,*,N2PMg*,red rostock,2.72,4.18
+1858,15,a,N2PKNaMg,red rostock,2.56,3.94
+1858,15,b,N1.5PKNaMg + rape cake,red rostock,2.73,4.15
+1858,16,*,N4PKNaMg,red rostock,3.04,5.39
+1858,17,*,N2,red rostock,2.43,3.63
+1858,18,*,PKNaMg,red rostock,1.58,2.23
+1858,19,*,N1.5P + rape cake,red rostock,2.44,3.57
+1859,2,*,FYM,red rostock,2.54,5.39
+1859,3,*,Nil,red rostock,1.25,2.48
+1859,5,*,PKNaMg,red rostock,1.43,2.64
+1859,6,*,N1PKNaMg,red rostock,2.06,4.26
+1859,7,*,N2PKNaMg,red rostock,2.35,5.31
+1859,8,*,N3PKNaMg,red rostock,2.29,6.14
+1859,9,a,N2*PKNaMg,red rostock,2.02,5.91
+1859,9,b,N2*,red rostock,1.58,4.02
+1859,10,*,N2,red rostock,1.52,3.45
+1859,11,*,N2P,red rostock,1.86,3.98
+1859,12,*,N2PNa*,red rostock,2.34,5.21
+1859,13,*,N2PK,red rostock,2.31,5.35
+1859,14,*,N2PMg*,red rostock,2.31,5.31
+1859,15,a,N2PKNaMg,red rostock,2.3,5.35
+1859,15,b,N1.5PKNaMg + rape cake,red rostock,2.35,5.6
+1859,16,*,N4PKNaMg,red rostock,2.26,6.57
+1859,17,*,PKNaMg,red rostock,1.36,2.72
+1859,18,*,N2,red rostock,2.22,5.15
+1859,19,*,N1.5P + rape cake,red rostock,2.13,4.51
+1860,2,*,FYM,red rostock,2.09,3.86
+1860,3,*,Nil,red rostock,0.87,1.67
+1860,5,*,PKNaMg,red rostock,1.03,1.82
+1860,6,*,N1PKNaMg,red rostock,1.43,2.57
+1860,7,*,N2PKNaMg,red rostock,1.8,3.45
+1860,8,*,N3PKNaMg,red rostock,1.99,4.31
+1860,9,a,N2*PKNaMg,red rostock,2.08,5.36
+1860,9,b,N2*,red rostock,1.29,3.51
+1860,10,*,N2,red rostock,1.1,2.57
+1860,11,*,N2P,red rostock,1.45,2.92
+1860,12,*,N2PNa*,red rostock,1.81,3.54
+1860,13,*,N2PK,red rostock,1.78,3.38
+1860,14,*,N2PMg*,red rostock,1.76,3.45
+1860,15,a,N2PKNaMg,red rostock,1.69,3.23
+1860,15,b,N1.5PKNaMg + rape cake,red rostock,1.81,3.46
+1860,16,*,N4PKNaMg,red rostock,2.1,4.67
+1860,17,*,N2,red rostock,1.66,3.18
+1860,18,*,PKNaMg,red rostock,1.06,1.94
+1860,19,*,N1.5P + rape cake,red rostock,1.61,3.07
+1861,2,*,FYM,red rostock,2.47,3.48
+1861,3,*,Nil,red rostock,0.91,1.48
+1861,5,*,PKNaMg,red rostock,1.19,1.74
+1861,6,*,N1PKNaMg,red rostock,2.01,2.95
+1861,7,*,N2PKNaMg,red rostock,2.5,3.96
+1861,8,*,N3PKNaMg,red rostock,2.51,4.32
+1861,9,a,N2*PKNaMg,red rostock,2.42,4.98
+1861,9,b,N2*,red rostock,1.02,2.43
+1861,10,*,N2,red rostock,1.06,2.29
+1861,11,*,N2P,red rostock,1.7,2.93
+1861,12,*,N2PNa*,red rostock,2.33,3.66
+1861,13,*,N2PK,red rostock,2.51,3.82
+1861,14,*,N2PMg*,red rostock,2.41,3.75
+1861,15,a,N2PKNaMg,red rostock,2.45,3.72
+1861,15,b,N1.5PKNaMg + rape cake,red rostock,2.52,3.9
+1861,16,*,N4PKNaMg,red rostock,2.68,4.92
+1861,17,*,PKNaMg,red rostock,1.41,2.01
+1861,18,*,N2,red rostock,2.34,3.6
+1861,19,*,N1.5P + rape cake,red rostock,2.36,3.63
+1862,2,*,FYM,red rostock,2.74,4.7
+1862,3,*,Nil,red rostock,1.17,1.92
+1862,5,*,PKNaMg,red rostock,1.24,2.08
+1862,6,*,N1PKNaMg,red rostock,1.97,3.33
+1862,7,*,N2PKNaMg,red rostock,2.51,4.39
+1862,8,*,N3PKNaMg,red rostock,2.77,5.25
+1862,9,a,N2*PKNaMg,red rostock,3.01,6.78
+1862,9,b,N2*,red rostock,1.84,3.65
+1862,10,*,N2,red rostock,1.71,3.05
+1862,11,*,N2P,red rostock,1.93,3.21
+1862,12,*,N2PNa*,red rostock,2.31,4.07
+1862,13,*,N2PK,red rostock,2.23,4.07
+1862,14,*,N2PMg*,red rostock,2.18,3.9
+1862,15,a,N2PKNaMg,red rostock,2.1,3.81
+1862,15,b,N1.5PKNaMg + rape cake,red rostock,2.27,4.21
+1862,16,*,N4PKNaMg,red rostock,2.5,5.06
+1862,17,*,N2,red rostock,1.93,3.45
+1862,18,*,PKNaMg,red rostock,1.33,2.32
+1862,19,*,N1.5P + rape cake,red rostock,1.66,2.97
+1863,2,*,FYM,red rostock,3.24,4.8
+1863,3,*,Nil,red rostock,1.36,1.82
+1863,5,*,PKNaMg,red rostock,1.45,1.94
+1863,6,*,N1PKNaMg,red rostock,2.84,4.17
+1863,7,*,N2PKNaMg,red rostock,3.92,6.58
+1863,8,*,N3PKNaMg,red rostock,4.05,7.4
+1863,9,a,N2*PKNaMg,red rostock,4.01,7.08
+1863,9,b,N2*,red rostock,3.05,4.7
+1863,10,*,N2,red rostock,3.05,4.23
+1863,11,*,N2P,red rostock,3.39,4.88
+1863,12,*,N2PNa*,red rostock,3.92,6.06
+1863,13,*,N2PK,red rostock,3.87,6.47
+1863,14,*,N2PMg*,red rostock,3.91,6.03
+1863,15,a,N2PKNaMg,red rostock,3.49,5.79
+1863,15,b,N1.5PKNaMg + rape cake,red rostock,3.51,5.73
+1863,16,*,N4PKNaMg,red rostock,4.1,7.7
+1863,17,*,PKNaMg,red rostock,1.55,2.14
+1863,18,*,N2,red rostock,3.37,5.39
+1863,19,*,N1.5P + rape cake,red rostock,3.42,5.07
+1864,2,*,FYM,red rostock,2.91,4.36
+1864,3,*,Nil,red rostock,1.22,1.51
+1864,5,*,PKNaMg,red rostock,1.22,1.54
+1864,6,*,N1PKNaMg,red rostock,2.24,3.79
+1864,7,*,N2PKNaMg,red rostock,3.36,5.57
+1864,8,*,N3PKNaMg,red rostock,3.69,6.27
+1864,9,a,N2*PKNaMg,red rostock,3.73,6.71
+1864,9,b,N2*,red rostock,2.45,3.68
+1864,10,*,N2,red rostock,2.52,3.41
+1864,11,*,N2P,red rostock,2.58,4.11
+1864,12,*,N2PNa*,red rostock,3.23,4.86
+1864,13,*,N2PK,red rostock,3.18,5.1
+1864,14,*,N2PMg*,red rostock,3.08,4.55
+1864,15,a,N2PKNaMg,red rostock,2.76,4.49
+1864,15,b,N1.5PKNaMg + rape cake,red rostock,2.71,4.5
+1864,16,*,N4PKNaMg,red rostock,3.76,6.72
+1864,17,*,N2,red rostock,2.64,4.25
+1864,18,*,PKNaMg,red rostock,1.26,1.72
+1864,19,*,N1.5P + rape cake,red rostock,2.74,3.77
+1865,2,*,FYM,red rostock,2.67,3.48
+1865,3,*,Nil,red rostock,1,1.24
+1865,5,*,PKNaMg,red rostock,1.03,1.32
+1865,6,*,N1PKNaMg,red rostock,1.8,2.27
+1865,7,*,N2PKNaMg,red rostock,2.89,4.11
+1865,8,*,N3PKNaMg,red rostock,3.18,5.16
+1865,9,a,N2*PKNaMg,red rostock,3.23,5.25
+1865,9,b,N2*,red rostock,2.25,3.52
+1865,10,*,N2,red rostock,2.01,2.84
+1865,11,*,N2P,red rostock,1.95,2.84
+1865,12,*,N2PNa*,red rostock,2.52,3.49
+1865,13,*,N2PK,red rostock,2.71,3.79
+1865,14,*,N2PMg*,red rostock,2.66,3.55
+1865,15,a,N2PKNaMg,red rostock,2.57,3.52
+1865,15,b,N1.5PKNaMg + rape cake,red rostock,2.7,3.78
+1865,16,*,Nil,red rostock,2.38,3.24
+1865,17,*,PKNaMg,red rostock,1.23,1.65
+1865,18,*,N2,red rostock,2.23,3.18
+1865,19,*,N1.5P + rape cake,red rostock,2.34,3.35
+1866,2,*,FYM,red rostock,2.32,4.55
+1866,3,*,Nil,red rostock,0.92,1.51
+1866,5,*,PKNaMg,red rostock,0.94,1.64
+1866,6,*,N1PKNaMg,red rostock,1.45,2.52
+1866,7,*,N2PKNaMg,red rostock,2.12,4.36
+1866,8,*,N3PKNaMg,red rostock,2.31,5.96
+1866,9,a,N2*PKNaMg,red rostock,2.31,5.96
+1866,9,b,N2*,red rostock,2.22,5.25
+1866,10,*,N2,red rostock,1.99,3.28
+1866,11,*,N2P,red rostock,2.02,3.58
+1866,12,*,N2PNa*,red rostock,2.03,3.93
+1866,13,*,N2PK,red rostock,1.81,3.91
+1866,14,*,N2PMg*,red rostock,2.01,3.88
+1866,15,a,N2PKNaMg,red rostock,1.86,3.42
+1866,15,b,N1.5PKNaMg + rape cake,red rostock,1.89,3.7
+1866,16,*,Nil,red rostock,1.26,2.2
+1866,17,*,N2,red rostock,1.9,3.9
+1866,18,*,PKNaMg,red rostock,0.91,1.7
+1866,19,*,N1.5P + rape cake,red rostock,1.9,3.75
+1867,2,*,FYM,red rostock,1.97,3.52
+1867,3,*,Nil,red rostock,0.62,1.1
+1867,5,*,PKNaMg,red rostock,0.65,1.16
+1867,6,*,N1PKNaMg,red rostock,1.13,1.94
+1867,7,*,N2PKNaMg,red rostock,1.59,3.1
+1867,8,*,N3PKNaMg,red rostock,2.19,4.71
+1867,9,a,N2*PKNaMg,red rostock,2.08,5.51
+1867,9,b,N2*,red rostock,1.56,3.64
+1867,10,*,N2,red rostock,1.33,2.34
+1867,11,*,N2P,red rostock,1.56,2.59
+1867,12,*,N2PNa*,red rostock,1.73,2.98
+1867,13,*,N2PK,red rostock,1.68,3.07
+1867,14,*,N2PMg*,red rostock,1.6,2.88
+1867,15,a,N2PKNaMg,red rostock,1.6,2.99
+1867,15,b,N1.5PKNaMg + rape cake,red rostock,1.61,3.06
+1867,16,*,Nil,red rostock,1.01,1.81
+1867,17,*,PKNaMg,red rostock,0.75,1.38
+1867,18,*,N2,red rostock,1.59,2.94
+1867,19,*,N1.5P + rape cake,red rostock,1.59,2.94
+1868,2,*,FYM,red rostock,2.92,4.7
+1868,3,*,Nil,red rostock,1.23,1.31
+1868,5,*,PKNaMg,red rostock,1.27,1.51
+1868,6,*,N1PKNaMg,red rostock,2.06,2.88
+1868,7,*,N2PKNaMg,red rostock,2.77,4.32
+1868,8,*,N3PKNaMg,red rostock,3.29,5.39
+1868,9,a,N2*PKNaMg,red rostock,3.33,5.81
+1868,9,b,N2*,red rostock,2.02,3.07
+1868,10,*,N2,red rostock,1.95,2.54
+1868,11,*,N2P,red rostock,2.48,3.16
+1868,12,*,N2PNa*,red rostock,2.94,3.97
+1868,13,*,N2PK,red rostock,2.82,4.52
+1868,14,*,N2PMg*,red rostock,3.07,4.12
+1868,15,a,N2PKNaMg,red rostock,3.2,5.22
+1868,15,b,N1.5PKNaMg + rape cake,red rostock,3.02,4.73
+1868,16,*,Nil,red rostock,1.64,2.29
+1868,17,*,N2,red rostock,2.73,4.09
+1868,18,*,PKNaMg,red rostock,1.35,1.8
+1868,19,*,N1.5P + rape cake,red rostock,2.72,3.54
+1869,2,*,FYM,red rostock,2.53,4.41
+1869,3,*,Nil,red rostock,0.97,1.54
+1869,5,*,PKNaMg,red rostock,1.06,1.8
+1869,6,*,N1PKNaMg,red rostock,1.47,2.54
+1869,7,*,N2PKNaMg,red rostock,1.98,3.6
+1869,8,*,N3PKNaMg,red rostock,2.35,4.39
+1869,9,a,N2*PKNaMg,red rostock,2.65,5.53
+1869,9,b,N2*,red rostock,1.63,3.9
+1869,10,*,N2,red rostock,1.35,2.5
+1869,11,*,N2P,red rostock,1.51,2.76
+1869,12,*,N2PNa*,red rostock,1.89,3.17
+1869,13,*,N2PK,red rostock,1.94,3.42
+1869,14,*,N2PMg*,red rostock,1.95,3.41
+1869,15,a,N2PKNaMg,red rostock,1.83,3.31
+1869,15,b,N1.5PKNaMg + rape cake,red rostock,1.9,3.37
+1869,16,*,Nil,red rostock,1.12,1.85
+1869,17,*,PKNaMg,red rostock,1.13,1.91
+1869,18,*,N2,red rostock,1.6,2.75
+1869,19,*,N1.5P + rape cake,red rostock,1.62,2.88
+1870,2,*,FYM,red rostock,2.64,3.06
+1870,3,*,Nil,red rostock,1.11,1.21
+1870,5,*,PKNaMg,red rostock,1.35,1.53
+1870,6,*,N1PKNaMg,red rostock,2.22,2.64
+1870,7,*,N2PKNaMg,red rostock,2.94,3.61
+1870,8,*,N3PKNaMg,red rostock,3.32,4.11
+1870,9,a,N2*PKNaMg,red rostock,3.3,4.38
+1870,9,b,N2*,red rostock,1.94,2.33
+1870,10,*,N2,red rostock,1.64,1.89
+1870,11,*,N2P,red rostock,1.87,2.14
+1870,12,*,N2PNa*,red rostock,2.56,2.85
+1870,13,*,N2PK,red rostock,2.73,3.26
+1870,14,*,N2PMg*,red rostock,2.66,2.9
+1870,15,a,N2PKNaMg,red rostock,2.8,3.44
+1870,15,b,N1.5PKNaMg + rape cake,red rostock,2.86,3.5
+1870,16,*,Nil,red rostock,1.35,1.51
+1870,17,*,N2,red rostock,2.53,3
+1870,18,*,PKNaMg,red rostock,1.41,1.54
+1870,19,*,N1.5P + rape cake,red rostock,2.4,2.51
+1871,2,*,FYM,red rostock,2.8,5.05
+1871,3,*,Nil,red rostock,0.74,1.33
+1871,5,*,PKNaMg,red rostock,0.87,1.61
+1871,6,*,N1PKNaMg,red rostock,1.22,2.58
+1871,7,*,N2PKNaMg,red rostock,1.69,3.46
+1871,8,*,N3PKNaMg,red rostock,2.07,4.41
+1871,9,a,N2*PKNaMg,red rostock,2.5,5.5
+1871,9,b,N2*,red rostock,1.23,2.72
+1871,10,*,N2,red rostock,0.75,1.45
+1871,11,*,N2P,red rostock,0.82,1.53
+1871,12,*,N2PNa*,red rostock,1.52,2.89
+1871,13,*,N2PK,red rostock,2.17,4.24
+1871,14,*,N2PMg*,red rostock,1.81,3.36
+1871,15,a,N2PKNaMg,red rostock,2.14,4.03
+1871,15,b,N1.5PKNaMg + rape cake,red rostock,2.35,4.27
+1871,16,*,Nil,red rostock,0.94,1.73
+1871,17,*,PKNaMg,red rostock,1.1,2.04
+1871,18,*,N2,red rostock,2,3.75
+1871,19,*,N1.5P + rape cake,red rostock,1.58,3.01
+1872,2,*,FYM,red rostock,2.29,4.22
+1872,3,*,Nil,red rostock,0.8,1.33
+1872,5,*,PKNaMg,red rostock,0.94,1.5
+1872,6,*,N1PKNaMg,red rostock,1.47,2.88
+1872,7,*,N2PKNaMg,red rostock,2.17,4.29
+1872,8,*,N3PKNaMg,red rostock,2.61,5.69
+1872,9,a,N2*PKNaMg,red rostock,2.88,7.32
+1872,9,b,N2*,red rostock,1.61,3.6
+1872,10,*,N2,red rostock,1.36,2.84
+1872,11,*,N2P,red rostock,1.98,3.84
+1872,12,*,N2PNa*,red rostock,2.1,4.11
+1872,13,*,N2PK,red rostock,2.17,4.37
+1872,14,*,N2PMg*,red rostock,2.19,4.25
+1872,15,a,N2PKNaMg,red rostock,2.2,4.5
+1872,15,b,N1.5PKNaMg + rape cake,red rostock,2.35,4.63
+1872,16,*,Nil,red rostock,0.94,1.74
+1872,17,*,N2,red rostock,1.89,3.7
+1872,18,*,PKNaMg,red rostock,0.95,1.87
+1872,19,*,N1.5P + rape cake,red rostock,2.01,3.7
+1873,2,*,FYM,red rostock,1.82,2.76
+1873,3,*,Nil,red rostock,0.82,1.07
+1873,5,*,PKNaMg,red rostock,0.86,1.17
+1873,6,*,N1PKNaMg,red rostock,1.08,1.71
+1873,7,*,N2PKNaMg,red rostock,1.49,2.27
+1873,8,*,N3PKNaMg,red rostock,1.85,2.99
+1873,9,a,N2*PKNaMg,red rostock,2.42,4.41
+1873,9,b,N2*,red rostock,1.46,2.64
+1873,10,*,N2,red rostock,1.36,1.84
+1873,11,*,N2P,red rostock,1.29,1.77
+1873,12,*,N2PNa*,red rostock,1.55,2.23
+1873,13,*,N2PK,red rostock,1.59,2.32
+1873,14,*,N2PMg*,red rostock,1.62,2.41
+1873,15,*,N2PKNaMg,red rostock,2.19,3.45
+1873,16,*,Nil,red rostock,0.86,1.3
+1873,17,*,PKNaMg,red rostock,0.8,1.23
+1873,18,*,N2,red rostock,1.38,2.14
+1873,19,*,N1.5P + rape cake,red rostock,1.36,2.08
+1874,2,*,FYM,red rostock,2.73,4.98
+1874,3,*,Nil,red rostock,0.8,1.12
+1874,5,*,PKNaMg,red rostock,0.89,0.99
+1874,6,*,N1PKNaMg,red rostock,1.75,2.49
+1874,7,*,N2PKNaMg,red rostock,2.75,5.21
+1874,8,*,N3PKNaMg,red rostock,2.87,5.68
+1874,9,a,N2*PKNaMg,red rostock,2.7,5.62
+1874,9,b,N2*,red rostock,1.42,2.43
+1874,10,*,N2,red rostock,1.77,2.45
+1874,11,*,N2P,red rostock,2.28,3.5
+1874,12,*,N2PNa*,red rostock,2.72,4.37
+1874,13,*,N2PK,red rostock,2.58,4.46
+1874,14,*,N2PMg*,red rostock,2.51,4.03
+1874,15,*,N2PKNaMg,red rostock,2.03,3.11
+1874,16,*,Nil,red rostock,0.83,1.29
+1874,17,*,N2,red rostock,2.31,3.91
+1874,18,*,PKNaMg,red rostock,0.96,1.15
+1874,19,*,N1.5P + rape cake,red rostock,2.57,3.52
+1875,2,*,FYM,red rostock,2.12,4.17
+1875,3,*,Nil,red rostock,0.61,1.08
+1875,5,*,PKNaMg,red rostock,0.66,1.26
+1875,6,*,N1PKNaMg,red rostock,1.2,2.25
+1875,7,*,N2PKNaMg,red rostock,1.89,3.84
+1875,8,*,N3PKNaMg,red rostock,2.17,4.85
+1875,9,a,N2*PKNaMg,red rostock,2.2,5.32
+1875,9,b,N2*,red rostock,1.18,2.65
+1875,10,*,N2,red rostock,0.97,1.88
+1875,11,*,N2P,red rostock,1.26,2.59
+1875,12,*,N2PNa*,red rostock,1.77,3.41
+1875,13,*,N2PK,red rostock,1.93,3.66
+1875,14,*,N2PMg*,red rostock,1.87,3.5
+1875,15,*,N2PKNaMg,red rostock,1.92,3.59
+1875,16,*,Nil,red rostock,0.73,1.33
+1875,17,*,PKNaMg,red rostock,0.82,1.52
+1875,18,*,N2,red rostock,1.78,3.37
+1875,19,*,N1.5P + rape cake,red rostock,1.56,2.8
+1876,2,*,FYM,red rostock,1.73,2.4
+1876,3,*,Nil,red rostock,0.59,0.76
+1876,5,*,PKNaMg,red rostock,0.72,0.88
+1876,6,*,N1PKNaMg,red rostock,1.15,1.46
+1876,7,*,N2PKNaMg,red rostock,1.78,2.48
+1876,8,*,N3PKNaMg,red rostock,2.21,3.3
+1876,9,a,N2*PKNaMg,red rostock,2.53,4.02
+1876,9,b,N2*,red rostock,0.86,1.36
+1876,10,*,N2,red rostock,0.88,1.23
+1876,11,*,N2P,red rostock,1.01,1.43
+1876,12,*,N2PNa*,red rostock,1.38,1.89
+1876,13,*,N2PK,red rostock,1.82,2.73
+1876,14,*,N2PMg*,red rostock,1.57,2.18
+1876,15,*,N2PKNaMg,red rostock,1.86,2.72
+1876,16,*,Nil,red rostock,0.75,0.98
+1876,17,*,N2,red rostock,1.87,2.85
+1876,18,*,PKNaMg,red rostock,0.7,1.01
+1876,19,*,N1.5P + rape cake,red rostock,1.29,1.76
+1877,2,*,FYM,red rostock,1.66,2.54
+1877,3,*,Nil,red rostock,0.63,0.87
+1877,5,*,PKNaMg,red rostock,0.77,0.99
+1877,6,*,N1PKNaMg,red rostock,0.98,1.32
+1877,7,*,N2PKNaMg,red rostock,1.36,2.06
+1877,8,*,N3PKNaMg,red rostock,1.7,2.52
+1877,9,a,N2*PKNaMg,red rostock,2.67,4.32
+1877,9,b,N2*,red rostock,1.85,2.85
+1877,10,*,N2,red rostock,1.2,1.58
+1877,11,*,N2P,red rostock,1.25,1.58
+1877,12,*,N2PNa*,red rostock,1.26,1.67
+1877,13,*,N2PK,red rostock,1.28,1.76
+1877,14,*,N2PMg*,red rostock,1.25,1.76
+1877,15,*,N2PKNaMg,red rostock,2.25,3.13
+1877,16,*,Nil,red rostock,0.66,0.85
+1877,17,*,PKNaMg,red rostock,0.7,0.87
+1877,18,*,N2,red rostock,0.85,1.19
+1877,19,*,N1.5P + rape cake,red rostock,1.3,1.63
+1878,2,*,FYM,red rostock,2.12,4.53
+1878,3,*,Nil,red rostock,0.87,1.16
+1878,5,*,PKNaMg,red rostock,1.01,1.48
+1878,6,*,N1PKNaMg,red rostock,1.63,3.3
+1878,7,*,N2PKNaMg,red rostock,2.32,5.56
+1878,8,*,N3PKNaMg,red rostock,2.77,6.92
+1878,9,a,N2*PKNaMg,red rostock,2.62,6.3
+1878,9,b,N2*,red rostock,1.58,3.25
+1878,10,*,N2,red rostock,1.98,3.31
+1878,11,*,N2P,red rostock,2.13,4.81
+1878,12,*,N2PNa*,red rostock,2.17,5.22
+1878,13,*,N2PK,red rostock,2.14,5.26
+1878,14,*,N2PMg*,red rostock,2.29,5.5
+1878,15,*,N2PKNaMg,red rostock,1.59,3.45
+1878,16,*,Nil,red rostock,0.96,1.49
+1878,17,*,N2,red rostock,2.11,5.2
+1878,18,*,PKNaMg,red rostock,1.08,1.75
+1878,19,*,N1.5P + rape cake,red rostock,1.93,3.53
+1879,2,*,FYM,red rostock,1.19,2.51
+1879,3,*,Nil,red rostock,0.37,0.85
+1879,5,*,PKNaMg,red rostock,0.43,0.96
+1879,6,*,N1PKNaMg,red rostock,0.77,1.79
+1879,7,*,N2PKNaMg,red rostock,1.18,3.38
+1879,8,*,N3PKNaMg,red rostock,1.52,4.68
+1879,9,a,N2*PKNaMg,red rostock,1.64,4.87
+1879,9,b,N2*,red rostock,0.39,1.2
+1879,10,*,N2,red rostock,0.4,1.14
+1879,11,*,N2P,red rostock,0.82,2.27
+1879,12,*,N2PNa*,red rostock,1.05,2.77
+1879,13,*,N2PK,red rostock,1.21,3.42
+1879,14,*,N2PMg*,red rostock,1.23,3.25
+1879,15,*,N2PKNaMg,red rostock,0.42,1.02
+1879,16,*,Nil,red rostock,0.38,0.92
+1879,17,*,PKNaMg,red rostock,0.25,0.7
+1879,18,*,N2,red rostock,1.47,3.75
+1879,19,*,rape cake,red rostock,0.64,1.5
+1880,2,*,FYM,red rostock,2.66,4.37
+1880,3,*,Nil,red rostock,0.81,1.36
+1880,5,*,PKNaMg,red rostock,1.21,1.95
+1880,6,*,N1PKNaMg,red rostock,1.87,3.27
+1880,7,*,N2PKNaMg,red rostock,2.41,4.49
+1880,8,*,N3PKNaMg,red rostock,2.47,5.02
+1880,9,a,N2*PKNaMg,red rostock,2.39,4.93
+1880,9,b,N2*,red rostock,0.73,1.59
+1880,10,*,N2,red rostock,0.8,1.61
+1880,11,*,N2P,red rostock,1.79,3.2
+1880,12,*,N2PNa*,red rostock,2.05,3.66
+1880,13,*,N2PK,red rostock,2.3,4.21
+1880,14,*,N2PMg*,red rostock,2.14,3.73
+1880,15,*,N2PKNaMg,red rostock,2.56,4.52
+1880,16,*,Nil,red rostock,0.99,1.69
+1880,17,*,N2,red rostock,2.3,3.73
+1880,18,*,PKNaMg,red rostock,1.03,1.51
+1880,19,*,rape cake,red rostock,2.31,3.65
+1881,2,*,FYM,red rostock,2.14,2.65
+1881,3,*,Nil,red rostock,0.91,1.11
+1881,5,*,PKNaMg,red rostock,0.9,1.02
+1881,6,*,N1PKNaMg,red rostock,1.52,1.83
+1881,7,*,N2PKNaMg,red rostock,1.92,2.47
+1881,8,*,N3PKNaMg,red rostock,2.2,3.26
+1881,9,a,N2*PKNaMg,red rostock,2.55,4.08
+1881,9,b,N2*,red rostock,1.6,2.04
+1881,10,*,N2,red rostock,1.36,1.51
+1881,11,*,N2P,red rostock,1.53,1.79
+1881,12,*,N2PNa*,red rostock,1.62,2.11
+1881,13,*,N2PK,red rostock,1.93,2.55
+1881,14,*,N2PMg*,red rostock,1.86,2.46
+1881,15,*,N2PKNaMg,red rostock,1.7,2.21
+1881,16,*,Nil,red rostock,0.91,1.05
+1881,17,*,PKNaMg,red rostock,0.89,1.01
+1881,18,*,N2,red rostock,2.13,2.87
+1881,19,*,rape cake,red rostock,1.72,2.03
+1882,2,*,FYM,red club,2.25,4.48
+1882,3,*,Nil,red club,0.77,1.19
+1882,5,*,PKNaMg,red club,0.87,1.44
+1882,6,*,N1PKNaMg,red club,1.65,3.28
+1882,7,*,N2PKNaMg,red club,2.52,6.42
+1882,8,*,N3PKNaMg,red club,2.61,7.97
+1882,9,a,N2*PKNaMg,red club,2.26,7.03
+1882,9,b,N2*,red club,1.7,4.05
+1882,10,*,N2,red club,1.81,3.26
+1882,11,*,N2P,red club,2.23,4.34
+1882,12,*,N2PNa*,red club,2.49,5.37
+1882,13,*,N2PK,red club,2.33,5.48
+1882,14,*,N2PMg*,red club,2.45,5.34
+1882,15,*,N2PKNaMg,red club,2.08,4.6
+1882,16,*,Nil,red club,0.76,1.4
+1882,17,*,N2,red club,2.23,4.66
+1882,18,*,PKNaMg,red club,1.11,1.73
+1882,19,*,rape cake,red club,2.18,3.88
+1883,2,*,FYM,red club,2.52,3.28
+1883,3,*,Nil,red club,0.96,1.12
+1883,5,*,PKNaMg,red club,1.13,1.28
+1883,6,*,N1PKNaMg,red club,2,2.92
+1883,7,*,N2PKNaMg,red club,2.67,4.07
+1883,8,*,N3PKNaMg,red club,3.12,4.81
+1883,9,a,N2*PKNaMg,red club,3.26,5.75
+1883,9,b,N2*,red club,1.71,2.73
+1883,10,*,N2,red club,1.51,1.78
+1883,11,*,N2P,red club,1.94,2.59
+1883,12,*,N2PNa*,red club,2.3,3.1
+1883,13,*,N2PK,red club,2.52,3.78
+1883,14,*,N2PMg*,red club,2.48,3.41
+1883,15,*,N2PKNaMg,red club,2.45,3.65
+1883,16,*,Nil,red club,1.15,1.24
+1883,17,*,PKNaMg,red club,1.14,1.3
+1883,18,*,N2,red club,2.74,4.32
+1883,19,*,rape cake,red club,2.23,3.09
+1884,2,*,FYM,red club,2.36,3.81
+1884,3,*,Nil,red club,0.93,0.99
+1884,5,*,PKNaMg,red club,1.1,1.32
+1884,6,*,N1PKNaMg,red club,1.85,2.81
+1884,7,*,N2PKNaMg,red club,2.78,4.54
+1884,8,*,N3PKNaMg,red club,3.19,5.84
+1884,9,a,N2*PKNaMg,red club,2.9,5.5
+1884,9,b,N2*,red club,2.04,3.84
+1884,10,*,N2,red club,1.95,2.76
+1884,11,*,N2P,red club,2.31,3.53
+1884,12,*,N2PNa*,red club,2.61,4.11
+1884,13,*,N2PK,red club,2.43,4.09
+1884,14,*,N2PMg*,red club,2.62,4.04
+1884,15,*,N2PKNaMg,red club,2.51,4.97
+1884,16,*,N2*PKNaMg,red club,2.63,5.12
+1884,17,*,N2,red club,2.47,4.3
+1884,18,*,PKNaMg,red club,0.93,1.29
+1884,19,*,rape cake,red club,2.29,3.6
+1885,2.1,*,FYM,red club,1.64,2.23
+1885,2.2,*,FYM,red club,2.82,4.16
+1885,3,*,Nil,red club,0.96,1.17
+1885,5,*,PKNaMg,red club,1.02,1.36
+1885,6,*,N1PKNaMg,red club,1.52,2.22
+1885,7,*,N2PKNaMg,red club,2.21,3.7
+1885,8,*,N3PKNaMg,red club,2.6,5.18
+1885,9,a,N1*PKNaMg,red club,2.17,3.92
+1885,9,b,N1*,red club,1.67,2.73
+1885,10,*,N2,red club,1.67,2.35
+1885,11,*,N2P,red club,1.58,2.54
+1885,12,*,N2PNa*,red club,1.91,3.2
+1885,13,*,N2PK,red club,1.92,3.67
+1885,14,*,N2PMg*,red club,1.89,3.23
+1885,15,*,N2PKNaMg,red club,1.77,3.09
+1885,16,*,N2*PKNaMg,red club,2.63,5.45
+1885,17,*,PKNaMg,red club,0.87,1.18
+1885,18,*,N2,red club,2.3,3.59
+1885,19,*,rape cake,red club,2.06,2.97
+1886,2.1,*,FYM,red club,1.54,1.78
+1886,2.2,*,FYM,red club,2.62,3.1
+1886,3,*,Nil,red club,0.66,0.67
+1886,5,*,PKNaMg,red club,0.8,0.85
+1886,6,*,N1PKNaMg,red club,1.57,1.78
+1886,7,*,N2PKNaMg,red club,2.51,3.45
+1886,8,*,N3PKNaMg,red club,3.02,4.4
+1886,9,a,N1*PKNaMg,red club,2.3,3.04
+1886,9,b,N1*,red club,1.05,1.28
+1886,10,*,N2,red club,0.97,1
+1886,11,*,N2P,red club,1.18,1.42
+1886,12,*,N2PNa*,red club,1.84,2.19
+1886,13,*,N2PK,red club,2.63,3.6
+1886,14,*,N2PMg*,red club,2.15,2.71
+1886,15,*,N2PKNaMg,red club,1.82,2.33
+1886,16,*,N2*PKNaMg,red club,3.09,4.82
+1886,17,*,N2,red club,2.63,3.67
+1886,18,*,PKNaMg,red club,0.95,1.04
+1886,19,*,rape cake,red club,2,2.29
+1887,2.1,*,FYM,red club,1.84,2.54
+1887,2.2,*,FYM,red club,2.51,3.88
+1887,3,*,Nil,red club,0.99,0.97
+1887,5,*,PKNaMg,red club,1.02,1.14
+1887,6,*,N1PKNaMg,red club,1.66,2.08
+1887,7,*,N2PKNaMg,red club,2.11,3.03
+1887,8,*,N3PKNaMg,red club,2.5,4.06
+1887,9,a,N1*PKNaMg,red club,2.2,3.18
+1887,9,b,N1*,red club,1.62,2.14
+1887,10,*,N2,red club,1.54,2.03
+1887,11,*,N2P,red club,1.53,2.24
+1887,12,*,N2PNa*,red club,2.13,2.94
+1887,13,*,N2PK,red club,1.91,2.68
+1887,14,*,N2PMg*,red club,2.05,2.9
+1887,15,*,N2PKNaMg,red club,2.43,3.38
+1887,16,*,N2*PKNaMg,red club,2.87,4.56
+1887,17,*,PKNaMg,red club,0.75,1
+1887,18,*,N2,red club,2.24,3.15
+1887,19,*,rape cake,red club,1.93,2.63
+1888,2.1,*,FYM,red club,1.9,3.49
+1888,2.2,*,FYM,red club,2.62,4.52
+1888,3,*,Nil,red club,0.7,1
+1888,5,*,PKNaMg,red club,0.84,1.24
+1888,6,*,N1PKNaMg,red club,1.64,2.44
+1888,7,*,N2PKNaMg,red club,2.47,4.12
+1888,8,*,N3PKNaMg,red club,2.48,4.71
+1888,9,a,N1*PKNaMg,red club,1.93,3.51
+1888,9,b,N1*,red club,1.02,2.06
+1888,10,*,N2,red club,0.82,1.56
+1888,11,*,N2P,red club,0.81,1.55
+1888,12,*,N2PNa*,red club,1.62,2.76
+1888,13,*,N2PK,red club,2.27,3.63
+1888,14,*,N2PMg*,red club,1.76,2.97
+1888,15,*,N2PKNaMg,red club,1.98,3.32
+1888,16,*,N2*PKNaMg,red club,2.28,4.46
+1888,17,*,N2,red club,2.19,3.45
+1888,18,*,PKNaMg,red club,0.88,1.35
+1888,19,*,rape cake,red club,1.95,3.2
+1889,2.1,*,FYM,red club,2.11,3.4
+1889,2.2,*,FYM,red club,2.75,4.86
+1889,3,*,Nil,red club,0.86,1.1
+1889,5,*,PKNaMg,red club,1.05,1.31
+1889,6,*,N1PKNaMg,red club,1.59,2.16
+1889,7,*,N2PKNaMg,red club,2.12,3.66
+1889,8,*,N3PKNaMg,red club,2.41,4.58
+1889,9,a,N1*PKNaMg,red club,1.8,3.15
+1889,9,b,N1*,red club,0.83,1.58
+1889,10,*,N2,red club,0.87,1.51
+1889,11,*,N2P,red club,1.12,1.83
+1889,12,*,N2PNa*,red club,1.66,2.81
+1889,13,*,N2PK,red club,1.82,3.86
+1889,14,*,N2PMg*,red club,1.7,3.39
+1889,15,*,N2PKNaMg,red club,1.89,3.07
+1889,16,*,N2*PKNaMg,red club,2,4.56
+1889,17,*,PKNaMg,red club,0.7,1.05
+1889,18,*,N2,red club,1.62,3.48
+1889,19,*,rape cake,red club,1.5,3.4
+1890,2.1,*,FYM,red club,2.43,3.95
+1890,2.2,*,FYM,red club,3.49,6.11
+1890,3,*,Nil,red club,1.32,1.52
+1890,5,*,PKNaMg,red club,1.32,1.57
+1890,6,*,N1PKNaMg,red club,2.45,3.77
+1890,7,*,N2PKNaMg,red club,3.07,5.39
+1890,8,*,N3PKNaMg,red club,3.13,5.76
+1890,9,a,N1*PKNaMg,red club,2.7,4.86
+1890,9,b,N1*,red club,1.6,2.29
+1890,10,*,N2,red club,1.83,2.4
+1890,11,*,N2P,red club,2.35,3.73
+1890,12,*,N2PNa*,red club,2.87,4.58
+1890,13,*,N2PK,red club,3.17,5.61
+1890,14,*,N2PMg*,red club,2.72,4.33
+1890,15,*,N2PKNaMg,red club,3.3,5.82
+1890,16,*,N2*PKNaMg,red club,2.91,5.75
+1890,17,*,N2,red club,2.25,3.25
+1890,18,*,PKNaMg,red club,1.6,2.04
+1890,19,*,rape cake,red club,2.55,3.7
+1891,2.1,*,FYM,red club,2.3,4.74
+1891,2.2,*,FYM,red club,3.23,6.6
+1891,3,*,Nil,red club,0.88,1.32
+1891,5,*,PKNaMg,red club,0.79,1.24
+1891,6,*,N1PKNaMg,red club,1.76,3.25
+1891,7,*,N2PKNaMg,red club,2.72,5.8
+1891,8,*,N3PKNaMg,red club,2.66,7.44
+1891,9,a,N1*PKNaMg,red club,2.31,4.79
+1891,9,b,N1*,red club,1.71,3.23
+1891,10,*,N2,red club,1.57,2.28
+1891,11,*,N2P,red club,1.68,3.41
+1891,12,*,N2PNa*,red club,2.41,4.46
+1891,13,*,N2PK,red club,2.6,5.07
+1891,14,*,N2PMg*,red club,2.47,4.54
+1891,15,*,N2PKNaMg,red club,2.68,4.76
+1891,16,*,N2*PKNaMg,red club,2.83,6.69
+1891,17,*,PKNaMg,red club,1,1.52
+1891,18,*,N2,red club,2.16,3.98
+1891,19,*,rape cake,red club,1.93,3.46
+1892,2.1,*,FYM,red club,1.75,2.84
+1892,2.2,*,FYM,red club,2.37,3.81
+1892,3,*,Nil,red club,0.68,0.94
+1892,5,*,PKNaMg,red club,0.74,1.03
+1892,6,*,N1PKNaMg,red club,1.59,2.37
+1892,7,*,N2PKNaMg,red club,2.27,3.61
+1892,8,*,N3PKNaMg,red club,2.7,4.48
+1892,9,a,N1*PKNaMg,red club,1.8,2.97
+1892,9,b,N1*,red club,0.82,1.91
+1892,10,*,N2,red club,0.81,1.5
+1892,11,*,N2P,red club,1.11,1.97
+1892,12,*,N2PNa*,red club,1.7,2.49
+1892,13,*,N2PK,red club,2.11,3.26
+1892,14,*,N2PMg*,red club,1.71,2.66
+1892,15,*,N2PKNaMg,red club,2.05,3.23
+1892,16,*,N2*PKNaMg,red club,2.27,4.27
+1892,17,*,N2,red club,2.08,3.11
+1892,18,*,PKNaMg,red club,0.87,1.3
+1892,19,*,rape cake,red club,1.75,2.73
+1893,2.1,*,FYM,red club,1.91,1.99
+1893,2.2,*,FYM,red club,2.52,2.53
+1893,3,*,Nil,red club,0.79,0.71
+1893,5,*,PKNaMg,red club,1.03,0.89
+1893,6,*,N1PKNaMg,red club,1.42,1.29
+1893,7,*,N2PKNaMg,red club,1.49,1.48
+1893,8,*,N3PKNaMg,red club,1.58,1.75
+1893,9,a,N1*PKNaMg,red club,1.29,1.34
+1893,9,b,N1*,red club,0.72,0.82
+1893,10,*,N2,red club,0.6,0.71
+1893,11,*,N2P,red club,0.53,0.79
+1893,12,*,N2PNa*,red club,0.82,0.95
+1893,13,*,N2PK,red club,1.2,1.23
+1893,14,*,N2PMg*,red club,0.92,1.02
+1893,15,*,N2PKNaMg,red club,1.34,1.33
+1893,16,*,N2*PKNaMg,red club,1.41,1.45
+1893,17,*,PKNaMg,red club,0.9,0.85
+1893,18,*,N2,red club,1.5,1.41
+1893,19,*,rape cake,red club,1.27,1.29
+1894,2.1,*,FYM,red club,2.65,5.26
+1894,2.2,*,FYM,red club,3.23,6.34
+1894,3,*,Nil,red club,1.25,1.64
+1894,5,*,PKNaMg,red club,1.56,2.16
+1894,6,*,N1PKNaMg,red club,2.75,4.49
+1894,7,*,N2PKNaMg,red club,3.49,6.76
+1894,8,*,N3PKNaMg,red club,3.55,8.13
+1894,9,a,N1*PKNaMg,red club,3.12,6.08
+1894,9,b,N1*PKNaMg,red club,2.96,4.89
+1894,10,*,N2,red club,2.18,3.26
+1894,11,*,N2P,red club,2.87,4.83
+1894,12,*,N2PNa*,red club,3.39,5.32
+1894,13,*,N2PK,red club,3.39,6.26
+1894,14,*,N2PMg*,red club,3.19,5.44
+1894,15,*,N2PKNaMg,red club,2.94,5.67
+1894,16,*,N2*PKNaMg,red club,3.38,7.08
+1894,17,*,N2,red club,2.65,4.77
+1894,18,*,PKNaMg,red club,1.93,2.88
+1894,19,*,rape cake,red club,2.71,4.9
+1895,2.1,*,FYM,red club,2.8,3.49
+1895,2.2,*,FYM,red club,3.17,3.91
+1895,3,*,Nil,red club,0.79,0.81
+1895,5,*,PKNaMg,red club,1.12,1.16
+1895,6,*,N1PKNaMg,red club,1.56,1.71
+1895,7,*,N2PKNaMg,red club,2.31,2.76
+1895,8,*,N3PKNaMg,red club,2.92,3.78
+1895,9,a,N1*PKNaMg,red club,1.97,2.48
+1895,9,b,N1*PKNaMg,red club,1.64,1.98
+1895,10,*,N2,red club,0.71,0.93
+1895,11,*,N2P,red club,1.09,1.59
+1895,12,*,N2PNa*,red club,1.63,2.05
+1895,13,*,N2PK,red club,2.07,2.58
+1895,14,*,N2PMg*,red club,1.54,1.99
+1895,15,*,N2PKNaMg,red club,1.81,2.13
+1895,16,*,N2*PKNaMg,red club,2.37,3.2
+1895,17,*,PKNaMg,red club,0.9,0.96
+1895,18,*,N2,red club,2.07,2.62
+1895,19,*,rape cake,red club,1.62,1.99
+1896,2.1,*,FYM,red club,2.97,5.1
+1896,2.2,*,FYM,red club,3.26,5.56
+1896,3,*,Nil,red club,1.2,1.48
+1896,5,*,PKNaMg,red club,1.45,1.88
+1896,6,*,N1PKNaMg,red club,2.15,3.13
+1896,7,*,N2PKNaMg,red club,2.76,4.2
+1896,8,*,N3PKNaMg,red club,3.34,5.67
+1896,9,a,N1*PKNaMg,red club,2.34,3.59
+1896,9,b,N1*PKNaMg,red club,2.43,3.56
+1896,10,*,N2,red club,1.65,2.36
+1896,11,*,N2P,red club,1.78,2.87
+1896,12,*,N2PNa*,red club,2.52,3.71
+1896,13,*,N2PK,red club,2.48,3.82
+1896,14,*,N2PMg*,red club,2.18,3.22
+1896,15,*,N2PKNaMg,red club,2.24,3.35
+1896,16,*,N2*PKNaMg,red club,2.79,4.43
+1896,17,*,N2,red club,2.63,3.94
+1896,18,*,PKNaMg,red club,1.23,1.67
+1896,19,*,rape cake,red club,2.6,4.05
+1897,2.1,*,FYM,red club,2.32,3.7
+1897,2.2,*,FYM,red club,2.73,4.28
+1897,3,*,Nil,red club,0.69,1.01
+1897,5,*,PKNaMg,red club,0.93,1.31
+1897,6,*,N1PKNaMg,red club,1.43,2.14
+1897,7,*,N2PKNaMg,red club,2.09,3.55
+1897,8,*,N3PKNaMg,red club,2.73,4.9
+1897,9,a,N1*PKNaMg,red club,1.84,3.26
+1897,9,b,N1*PKNaMg,red club,1.71,2.93
+1897,10,*,N2,red club,1.25,2.05
+1897,11,*,N2P,red club,1.17,2.27
+1897,12,*,N2PNa*,red club,1.58,2.68
+1897,13,*,N2PK,red club,2,3.41
+1897,14,*,N2PMg*,red club,1.41,2.52
+1897,15,*,N2PKNaMg,red club,1.49,2.41
+1897,16,*,N2*PKNaMg,red club,2.01,4.13
+1897,17,*,PKNaMg,red club,0.82,1.27
+1897,18,*,N2,red club,2.24,3.67
+1897,19,*,rape cake,red club,1.64,2.64
+1898,2.1,*,FYM,red club,2.58,5.86
+1898,2.2,*,FYM,red club,3.03,6.99
+1898,3,*,Nil,red club,0.93,1.55
+1898,5,*,PKNaMg,red club,1.03,2.02
+1898,6,*,N1PKNaMg,red club,1.55,3.29
+1898,7,*,N2PKNaMg,red club,2.18,5.58
+1898,8,*,N3PKNaMg,red club,2.28,6.86
+1898,9,a,N1*PKNaMg,red club,1.93,4.1
+1898,9,b,N1*PKNaMg,red club,1.86,3.75
+1898,10,*,N2,red club,1.6,3.1
+1898,11,*,N2P,red club,1.35,3.12
+1898,12,*,N2PNa*,red club,1.9,4.54
+1898,13,*,N2PK,red club,2.01,5.09
+1898,14,*,N2PMg*,red club,1.78,4.33
+1898,15,*,N2PKNaMg,red club,2.19,5.71
+1898,16,*,N2*PKNaMg,red club,1.8,4.25
+1898,17,*,N2,red club,1.96,4.93
+1898,18,*,PKNaMg,red club,1.12,1.96
+1898,19,*,rape cake,red club,2.2,4.94
+1899,2.1,*,FYM,red club,2.45,5.48
+1899,2.2,*,FYM,red club,3.02,6.59
+1899,3,*,Nil,red club,0.86,1.18
+1899,5,*,PKNaMg,red club,0.94,1.5
+1899,6,*,N1PKNaMg,red club,1.34,2.4
+1899,7,*,N2PKNaMg,red club,2.23,5.07
+1899,8,*,N3PKNaMg,red club,2.79,7.53
+1899,9,*,N1*PKNaMg,red club,1.86,3.9
+1899,10,*,N2,red club,1.66,2.81
+1899,11,*,N2P,red club,1.53,2.6
+1899,12,*,N2PNa*,red club,2.04,3.73
+1899,13,*,N2PK,red club,1.87,4.49
+1899,14,*,N2PMg*,red club,1.99,3.85
+1899,15,*,N2PKNaMg,red club,1.89,4.03
+1899,16,*,N2*PKNaMg,red club,2.66,5.62
+1899,17,*,PKNaMg,red club,0.98,1.6
+1899,18,*,N2,red club,1.89,4.36
+1899,19,*,rape cake,red club,2.02,4.19
+1900,2.1,*,FYM,squarehead's master,2.04,3.93
+1900,2.2,*,FYM,squarehead's master,2.36,4.22
+1900,3,*,Nil,squarehead's master,0.86,1.13
+1900,5,*,PKNaMg,squarehead's master,0.93,1.3
+1900,6,*,N1PKNaMg,squarehead's master,1.37,2.11
+1900,7,*,N2PKNaMg,squarehead's master,2.09,3.29
+1900,8,*,N3PKNaMg,squarehead's master,3.09,4.99
+1900,9,*,N1*PKNaMg,squarehead's master,1.66,2.72
+1900,10,*,N2,squarehead's master,1.37,1.91
+1900,11,*,N2P,squarehead's master,1.26,1.83
+1900,12,*,N2PNa*,squarehead's master,1.72,2.29
+1900,13,*,N2PK,squarehead's master,2,2.87
+1900,14,*,N2PMg*,squarehead's master,1.59,2.26
+1900,15,*,N2PKNaMg,squarehead's master,1.44,2.25
+1900,16,*,N2*PKNaMg,squarehead's master,2.47,4.35
+1900,17,*,N2,squarehead's master,2.05,2.96
+1900,18,*,PKNaMg,squarehead's master,0.84,1.24
+1900,19,*,rape cake,squarehead's master,1.67,2.68
+1901,2.1,*,FYM,squarehead's master,2.69,4.42
+1901,2.2,*,FYM,squarehead's master,2.83,4.38
+1901,3,*,Nil,squarehead's master,0.85,0.98
+1901,5,*,PKNaMg,squarehead's master,1.06,1.24
+1901,6,*,N1PKNaMg,squarehead's master,1.62,2.2
+1901,7,*,N2PKNaMg,squarehead's master,2.12,2.75
+1901,8,*,N3PKNaMg,squarehead's master,3,4.34
+1901,9,*,N1*PKNaMg,squarehead's master,1.8,2.36
+1901,10,*,N2,squarehead's master,1.47,1.71
+1901,11,*,N2P,squarehead's master,1.43,1.74
+1901,12,*,N2PNa*,squarehead's master,1.9,2.31
+1901,13,*,N2PK,squarehead's master,2.11,3
+1901,14,*,N2PMg*,squarehead's master,1.6,2.05
+1901,15,*,N2PKNaMg,squarehead's master,2.13,3.01
+1901,16,*,N2*PKNaMg,squarehead's master,2.1,2.8
+1901,17,*,PKNaMg,squarehead's master,1.28,1.52
+1901,18,*,N2,squarehead's master,2.07,2.66
+1901,19,*,rape cake,squarehead's master,1.99,2.44
+1902,2.1,*,FYM,squarehead's master,2.38,5.43
+1902,2.2,*,FYM,squarehead's master,2.76,5.88
+1902,3,*,Nil,squarehead's master,0.9,1.17
+1902,5,*,PKNaMg,squarehead's master,1.07,1.43
+1902,6,*,N1PKNaMg,squarehead's master,1.75,2.6
+1902,7,*,N2PKNaMg,squarehead's master,2.53,5.01
+1902,8,*,N3PKNaMg,squarehead's master,2.94,6.04
+1902,9,*,N1*PKNaMg,squarehead's master,2.25,3.59
+1902,10,*,N2,squarehead's master,1.64,2.12
+1902,11,*,N2P,squarehead's master,1.56,2.48
+1902,12,*,N2PNa*,squarehead's master,2.25,4.04
+1902,13,*,N2PK,squarehead's master,2.59,4.72
+1902,14,*,N2PMg*,squarehead's master,2.2,3.42
+1902,15,*,N2PKNaMg,squarehead's master,2.68,4.67
+1902,16,*,N2*PKNaMg,squarehead's master,2.22,4.45
+1902,17,*,N2,squarehead's master,2.47,5.04
+1902,18,*,PKNaMg,squarehead's master,1.4,2.11
+1902,19,*,rape cake,squarehead's master,2.34,4.37
+1903,2.1,*,FYM,squarehead's master,1.9,3.15
+1903,2.2,*,FYM,squarehead's master,2.07,3.1
+1903,3,*,Nil,squarehead's master,0.54,0.53
+1903,5,*,PKNaMg,squarehead's master,0.58,0.72
+1903,6,*,N1PKNaMg,squarehead's master,1.23,1.96
+1903,7,*,N2PKNaMg,squarehead's master,1.83,2.99
+1903,8,*,N3PKNaMg,squarehead's master,2.37,4.29
+1903,9,*,N1*PKNaMg,squarehead's master,1.57,2.43
+1903,10,*,N2,squarehead's master,0.91,1.02
+1903,11,*,N2P,squarehead's master,1.05,1.37
+1903,12,*,N2PNa*,squarehead's master,1.18,1.4
+1903,13,*,N2PK,squarehead's master,1.86,2.76
+1903,14,*,N2PMg*,squarehead's master,1.16,1.69
+1903,15,*,N2PKNaMg,squarehead's master,1.43,1.78
+1903,16,*,N2*PKNaMg,squarehead's master,1.86,2.92
+1903,17,*,PKNaMg,squarehead's master,0.41,0.49
+1903,18,*,N2,squarehead's master,1.77,3.03
+1903,19,*,rape cake,squarehead's master,1.26,1.96
+1904,2.1,*,FYM,squarehead's master,1.58,2.75
+1904,2.2,*,FYM,squarehead's master,1.63,2.44
+1904,3,*,Nil,squarehead's master,0.32,0.58
+1904,5,*,PKNaMg,squarehead's master,0.51,0.68
+1904,6,*,N1PKNaMg,squarehead's master,0.84,1.34
+1904,7,*,N2PKNaMg,squarehead's master,1.43,2.4
+1904,8,*,N3PKNaMg,squarehead's master,1.8,3.03
+1904,9,*,N1*PKNaMg,squarehead's master,1.3,2.28
+1904,10,*,N2,squarehead's master,0.74,1.14
+1904,11,*,N2P,squarehead's master,0.89,1.62
+1904,12,*,N2PNa*,squarehead's master,1.13,2
+1904,13,*,N2PK,squarehead's master,1.52,2.78
+1904,14,*,N2PMg*,squarehead's master,1.22,1.68
+1904,15,*,N2PKNaMg,squarehead's master,1.69,2.53
+1904,16,*,N2*PKNaMg,squarehead's master,1.76,2.84
+1904,17,*,N2,squarehead's master,1.52,2.72
+1904,18,*,PKNaMg,squarehead's master,0.25,0.52
+1904,19,*,rape cake,squarehead's master,1.31,2.18
+1905,2.1,*,FYM,giant red,2.88,5.89
+1905,2.2,*,FYM,giant red,3.02,6.45
+1905,3,*,Nil,giant red,1.4,2.48
+1905,5,*,PKNaMg,giant red,1.84,3.08
+1905,6,*,N1PKNaMg,giant red,2.47,4.8
+1905,7,*,N2PKNaMg,giant red,3.15,5.86
+1905,8,*,N3PKNaMg,giant red,3.19,6.44
+1905,9,*,N1*PKNaMg,giant red,2.8,5.19
+1905,10,*,N2,giant red,1.33,2.6
+1905,11,*,N2P,giant red,1.69,3.47
+1905,12,*,N2PNa*,giant red,2.41,4.61
+1905,13,*,N2PK,giant red,3.05,5.57
+1905,14,*,N2PMg*,giant red,2.11,3.78
+1905,15,*,N2PKNaMg,giant red,2.89,5.27
+1905,16,*,N2*PKNaMg,giant red,2.76,5.85
+1905,17,*,PKNaMg,giant red,1.94,3.4
+1905,18,*,N2,giant red,2.4,4.5
+1905,19,*,rape cake,giant red,1.8,3.78
+1906,2.1,*,FYM,squarehead's master,3.12,4.52
+1906,2.2,*,FYM,squarehead's master,3.27,4.83
+1906,3,*,Nil,squarehead's master,1.14,1.28
+1906,5,*,PKNaMg,squarehead's master,1.3,1.57
+1906,6,*,N1PKNaMg,squarehead's master,2.14,2.86
+1906,7,*,N2PKNaMg,squarehead's master,2.92,4.07
+1906,8,*,N3PKNaMg,squarehead's master,3.66,5.28
+1906,9,*,N1*PKNaMg,squarehead's master,2.58,3.38
+1906,10,*,N2,squarehead's master,1.78,2.09
+1906,11,*,N2P,squarehead's master,1.82,2.23
+1906,12,*,N2PNa*,squarehead's master,2.43,3.03
+1906,13,*,N2PK,squarehead's master,3.18,4.52
+1906,14,*,N2PMg*,squarehead's master,2.47,3.15
+1906,15,*,N2PKNaMg,squarehead's master,3.31,4.52
+1906,16,*,N2*PKNaMg,squarehead's master,3.3,4.83
+1906,17,*,N2,squarehead's master,3.27,4.32
+1906,18,*,PKNaMg,squarehead's master,2.18,2.74
+1906,19,*,rape cake,squarehead's master,2.82,3.72
+1906,20,*,N2KNaMg,squarehead's master,1.94,2.37
+1907,2.1,*,FYM,squarehead's master,2.39,6.87
+1907,2.2,*,FYM,squarehead's master,2.75,7.33
+1907,3,*,Nil,squarehead's master,0.69,1.23
+1907,5,*,PKNaMg,squarehead's master,0.88,1.89
+1907,6,*,N1PKNaMg,squarehead's master,1.74,3.94
+1907,7,*,N2PKNaMg,squarehead's master,2.54,7.01
+1907,8,*,N3PKNaMg,squarehead's master,2.67,8.99
+1907,9,*,N1*PKNaMg,squarehead's master,2.19,5.77
+1907,10,*,N2,squarehead's master,2.04,4.15
+1907,11,*,N2P,squarehead's master,2.5,5.09
+1907,12,*,N2PNa*,squarehead's master,3.06,6.44
+1907,13,*,N2PK,squarehead's master,2.55,7.19
+1907,14,*,N2PMg*,squarehead's master,2.74,5.89
+1907,15,*,N2PKNaMg,squarehead's master,2.48,6.1
+1907,16,*,N2*PKNaMg,squarehead's master,2.66,8.25
+1907,17,*,PKNaMg,squarehead's master,0.81,1.63
+1907,18,*,N2,squarehead's master,2.26,5.56
+1907,19,*,rape cake,squarehead's master,2.15,4.93
+1907,20,*,N2KNaMg,squarehead's master,2,4.25
+1908,2.1,*,FYM,squarehead's master,2.78,3.79
+1908,2.2,*,FYM,squarehead's master,2.97,4.28
+1908,3,*,Nil,squarehead's master,0.91,0.96
+1908,5,*,PKNaMg,squarehead's master,1.21,1.36
+1908,6,*,N1PKNaMg,squarehead's master,1.65,2.38
+1908,7,*,N2PKNaMg,squarehead's master,2.49,3.79
+1908,8,*,N3PKNaMg,squarehead's master,3.47,5.52
+1908,9,*,N1*PKNaMg,squarehead's master,2.38,3.35
+1908,10,*,N2,squarehead's master,1.66,1.92
+1908,11,*,N2P,squarehead's master,1.67,2.44
+1908,12,*,N2PNa*,squarehead's master,2.49,3.03
+1908,13,*,N2PK,squarehead's master,2.64,3.72
+1908,14,*,N2PMg*,squarehead's master,1.99,2.68
+1908,15,*,N2PKNaMg,squarehead's master,2.37,3.23
+1908,16,*,N2*PKNaMg,squarehead's master,2.85,4.5
+1908,17,*,N2,squarehead's master,2.44,3.63
+1908,18,*,PKNaMg,squarehead's master,1.08,1.28
+1908,19,*,rape cake,squarehead's master,2.07,2.66
+1908,20,*,N2KNaMg,squarehead's master,1.59,1.81
+1909,2.1,*,FYM,squarehead's master,2.42,5.93
+1909,2.2,*,FYM,squarehead's master,2.78,6.37
+1909,3,*,Nil,squarehead's master,0.68,1.15
+1909,5,*,PKNaMg,squarehead's master,0.78,1.53
+1909,6,*,N1PKNaMg,squarehead's master,1.3,2.78
+1909,7,*,N2PKNaMg,squarehead's master,2.08,4.5
+1909,8,*,N3PKNaMg,squarehead's master,2.59,5.9
+1909,9,*,N1*PKNaMg,squarehead's master,1.82,3.76
+1909,10,*,N2,squarehead's master,0.87,2.18
+1909,11,*,N2P,squarehead's master,0.63,2.07
+1909,12,*,N2PNa*,squarehead's master,1.54,3.65
+1909,13,*,N2PK,squarehead's master,2.2,4.98
+1909,14,*,N2PMg*,squarehead's master,1.34,3.31
+1909,15,*,N2PKNaMg,squarehead's master,2.12,4.84
+1909,16,*,N2*PKNaMg,squarehead's master,2.24,5.37
+1909,17,*,PKNaMg,squarehead's master,0.72,1.43
+1909,18,*,N2,squarehead's master,2.29,4.46
+1909,19,*,rape cake,squarehead's master,1.62,3.71
+1909,20,*,N2KNaMg,squarehead's master,1.26,3.07
+1910,2.1,*,FYM,borwick red,2.05,4.77
+1910,2.2,*,FYM,borwick red,2.19,4.84
+1910,3,*,Nil,borwick red,0.57,1.17
+1910,5,*,PKNaMg,borwick red,0.77,1.31
+1910,6,*,N1PKNaMg,borwick red,1.32,2.59
+1910,7,*,N2PKNaMg,borwick red,1.96,4.35
+1910,8,*,N3PKNaMg,borwick red,2.16,5.65
+1910,9,*,N1*PKNaMg,borwick red,1.8,3.82
+1910,10,*,N2,borwick red,1.17,2.39
+1910,11,*,N2P,borwick red,1.7,3.47
+1910,12,*,N2PNa*,borwick red,2.08,4.1
+1910,13,*,N2PK,borwick red,1.93,4.27
+1910,14,*,N2PMg*,borwick red,1.9,3.83
+1910,15,*,N2PKNaMg,borwick red,1.59,3.49
+1910,16,*,N2*PKNaMg,borwick red,1.95,5.76
+1910,17,*,N2,borwick red,1.95,3.83
+1910,18,*,PKNaMg,borwick red,0.74,1.42
+1910,19,*,rape cake,borwick red,1.47,2.95
+1910,20,*,N2KNaMg,borwick red,1.66,3.46
+1911,2.1,*,FYM,little joss,2.61,4.56
+1911,2.2,*,FYM,little joss,2.84,4.69
+1911,3,*,Nil,little joss,0.94,1.23
+1911,5,*,PKNaMg,little joss,1.12,1.61
+1911,6,*,N1PKNaMg,little joss,1.32,2.24
+1911,7,*,N2PKNaMg,little joss,1.98,3.46
+1911,8,*,N3PKNaMg,little joss,2.83,4.48
+1911,9,*,N1*PKNaMg,little joss,2.32,3.64
+1911,10,*,N2,little joss,1.76,2.16
+1911,11,*,N2P,little joss,1.49,1.91
+1911,12,*,N2PNa*,little joss,1.98,2.59
+1911,13,*,N2PK,little joss,2.27,3.44
+1911,14,*,N2PMg*,little joss,1.8,2.38
+1911,15,*,N2PKNaMg,little joss,1.86,2.8
+1911,16,*,N2*PKNaMg,little joss,3.16,5.32
+1911,17,*,PKNaMg,little joss,1.05,1.47
+1911,18,*,N2,little joss,2.11,3.09
+1911,19,*,rape cake,little joss,2.2,3.1
+1911,20,*,N2KNaMg,little joss,1.71,2.26
+1912,2.1,*,FYM,little joss,1.17,1.96
+1912,2.2,*,FYM,little joss,1.39,2.44
+1912,3,*,Nil,little joss,0.35,0.71
+1912,5,*,PKNaMg,little joss,0.44,0.73
+1912,6,*,N1PKNaMg,little joss,0.21,0.49
+1912,7,*,N2PKNaMg,little joss,0.57,1.06
+1912,8,*,N3PKNaMg,little joss,0.81,1.69
+1912,9,*,N1*PKNaMg,little joss,0.76,1.4
+1912,10,*,N2,little joss,0.24,0.43
+1912,11,*,N2P,little joss,0.23,0.55
+1912,12,*,N2PNa*,little joss,0.47,1
+1912,13,*,N2PK,little joss,0.52,1.19
+1912,14,*,N2PMg*,little joss,0.29,0.73
+1912,15,*,N2PKNaMg,little joss,0.42,0.89
+1912,16,*,N2*PKNaMg,little joss,0.87,1.89
+1912,17,*,N2,little joss,0.51,0.94
+1912,18,*,PKNaMg,little joss,0.47,0.9
+1912,19,*,rape cake,little joss,0.58,1.09
+1912,20,*,N2KNaMg,little joss,*,*
+1913,2.1,*,FYM,squarehead's master,1.65,3.14
+1913,2.2,*,FYM,squarehead's master,1.7,3.75
+1913,3,*,Nil,squarehead's master,0.39,0.56
+1913,5,*,PKNaMg,squarehead's master,0.52,0.79
+1913,6,*,N1PKNaMg,squarehead's master,0.86,1.62
+1913,7,*,N2PKNaMg,squarehead's master,1.27,3.14
+1913,8,*,N3PKNaMg,squarehead's master,2,3.81
+1913,9,*,N1*PKNaMg,squarehead's master,1.21,2.45
+1913,10,*,N2,squarehead's master,0.86,1.65
+1913,11,*,N2P,squarehead's master,0.95,1.73
+1913,12,*,N2PNa*,squarehead's master,1.41,2.7
+1913,13,*,N2PK,squarehead's master,1.44,3.64
+1913,14,*,N2PMg*,squarehead's master,1.27,2.55
+1913,15,*,N2PKNaMg,squarehead's master,1.54,2.91
+1913,16,*,N2*PKNaMg,squarehead's master,1.71,4.12
+1913,17,*,PKNaMg,squarehead's master,0.55,0.88
+1913,18,*,N2,squarehead's master,1.51,3.44
+1913,19,*,rape cake,squarehead's master,1.48,2.75
+1913,20,*,N2KNaMg,squarehead's master,0.9,2.2
+1914,2.1,*,FYM,squarehead's master,2.27,4.24
+1914,2.2,*,FYM,squarehead's master,2.26,4.93
+1914,3,*,Nil,squarehead's master,0.45,0.65
+1914,5,*,PKNaMg,squarehead's master,0.74,0.97
+1914,6,*,N1PKNaMg,squarehead's master,1.31,2
+1914,7,*,N2PKNaMg,squarehead's master,1.85,3.43
+1914,8,*,N3PKNaMg,squarehead's master,2.2,5.26
+1914,9,*,N1*PKNaMg,squarehead's master,1.43,2.49
+1914,10,*,N2,squarehead's master,0.98,1.58
+1914,11,*,N2P,squarehead's master,1.23,2.04
+1914,12,*,N2PNa*,squarehead's master,1.79,2.76
+1914,13,*,N2PK,squarehead's master,1.49,2.72
+1914,14,*,N2PMg*,squarehead's master,1.2,2.13
+1914,15,*,N2PKNaMg,squarehead's master,1.53,2.83
+1914,16,*,N2*PKNaMg,squarehead's master,1.53,3.29
+1914,17,*,N2,squarehead's master,1.25,2.47
+1914,18,*,PKNaMg,squarehead's master,0.42,0.56
+1914,19,*,rape cake,squarehead's master,0.77,1.5
+1914,20,*,N2KNaMg,squarehead's master,*,*
+1915,2.1,*,FYM,squarehead's master,2.31,4.35
+1915,2.2,*,FYM,squarehead's master,2.78,5.15
+1915,3,*,Nil,squarehead's master,0.99,1.56
+1915,5,*,PKNaMg,squarehead's master,1.27,1.98
+1915,6,*,N1PKNaMg,squarehead's master,2.11,3.45
+1915,7,*,N2PKNaMg,squarehead's master,2.68,4.33
+1915,8,*,N3PKNaMg,squarehead's master,2.98,5.14
+1915,9,*,N1*PKNaMg,squarehead's master,2.47,4.04
+1915,10,*,N2,squarehead's master,1.63,2.56
+1915,11,*,N2P,squarehead's master,2.34,3.45
+1915,12,*,N2PNa*,squarehead's master,2.7,4.06
+1915,13,*,N2PK,squarehead's master,2.6,4.77
+1915,14,*,N2PMg*,squarehead's master,2.46,3.9
+1915,15,*,N2PKNaMg,squarehead's master,1.31,2.96
+1915,16,*,N2*PKNaMg,squarehead's master,2.61,5.33
+1915,17,*,PKNaMg,squarehead's master,1.27,2.36
+1915,18,*,N2,squarehead's master,1.9,3.51
+1915,19,*,rape cake,squarehead's master,2.04,3.42
+1915,20,*,N2KNaMg,squarehead's master,1.38,2.91
+1916,2.1,*,FYM,squarehead's master,1.88,4.05
+1916,2.2,*,FYM,squarehead's master,2.01,4.42
+1916,3,*,Nil,squarehead's master,0.85,1.45
+1916,5,*,PKNaMg,squarehead's master,1.24,2.05
+1916,6,*,N1PKNaMg,squarehead's master,1.38,2.54
+1916,7,*,N2PKNaMg,squarehead's master,1.86,4.35
+1916,8,*,N3PKNaMg,squarehead's master,1.76,4.65
+1916,9,*,N1*PKNaMg,squarehead's master,1.65,3.7
+1916,10,*,N2,squarehead's master,1.33,3.02
+1916,11,*,N2P,squarehead's master,1.09,3.01
+1916,12,*,N2PNa*,squarehead's master,1.44,3.64
+1916,13,*,N2PK,squarehead's master,1.61,4.02
+1916,14,*,N2PMg*,squarehead's master,1.33,3.46
+1916,15,*,N2PKNaMg,squarehead's master,1.32,2.79
+1916,16,*,N2*PKNaMg,squarehead's master,1.57,4.04
+1916,17,*,N2,squarehead's master,1.49,3.77
+1916,18,*,PKNaMg,squarehead's master,0.91,1.61
+1916,19,*,rape cake,squarehead's master,1.32,2.47
+1916,20,*,N2KNaMg,squarehead's master,1.1,2.89
+1917,2.1,*,FYM,red standard,0.98,1.5
+1917,2.2,*,FYM,red standard,1.23,1.93
+1917,3,*,Nil,red standard,0.62,0.7
+1917,5,*,PKNaMg,red standard,0.69,0.88
+1917,6,*,N1PKNaMg,red standard,1.42,1.82
+1917,7,*,N2PKNaMg,red standard,1.81,2.35
+1917,8,*,N3PKNaMg,red standard,2.13,3.22
+1917,9,*,N1*PKNaMg,red standard,1.57,2.32
+1917,10,*,N2,red standard,0.93,1.23
+1917,11,*,N2P,red standard,1.1,1.43
+1917,12,*,N2PNa*,red standard,1.35,1.72
+1917,13,*,N2PK,red standard,1.97,2.55
+1917,14,*,N2PMg*,red standard,1.41,1.79
+1917,15,*,N2PKNaMg,red standard,1.95,2.64
+1917,16,*,N2*PKNaMg,red standard,2,3
+1917,17,*,PKNaMg,red standard,0.8,0.95
+1917,18,*,N2,red standard,1.63,1.99
+1917,19,*,nil,red standard,0.88,1.21
+1917,20,*,N2KNaMg,red standard,1.21,1.78
+1918,2.1,*,FYM,red standard,2.57,4.66
+1918,2.2,*,FYM,red standard,2.88,5.22
+1918,3,*,Nil,red standard,0.86,1.19
+1918,5,*,PKNaMg,red standard,0.75,1.26
+1918,6,*,N1PKNaMg,red standard,1.3,2.44
+1918,7,*,N2PKNaMg,red standard,2.09,4.33
+1918,8,*,N3PKNaMg,red standard,2.39,5.64
+1918,9,*,N1*PKNaMg,red standard,1.9,3.56
+1918,10,*,N2,red standard,1.33,2.25
+1918,11,*,N2P,red standard,1.6,2.68
+1918,12,*,N2PNa*,red standard,2.03,3.34
+1918,13,*,N2PK,red standard,1.9,3.69
+1918,14,*,N2PMg*,red standard,2.04,3.54
+1918,15,*,N2PKNaMg,red standard,2.08,4.05
+1918,16,*,N2*PKNaMg,red standard,2.44,5.23
+1918,17,*,N2,red standard,1.7,3.08
+1918,18,*,PKNaMg,red standard,1.22,1.43
+1918,19,*,nil,red standard,1.35,1.91
+1918,20,*,N2KNaMg,red standard,1.52,2.49
+1919,2.1,*,FYM,red standard,1.67,2.37
+1919,2.2,*,FYM,red standard,2.12,2.71
+1919,3,*,Nil,red standard,0.73,0.9
+1919,5,*,PKNaMg,red standard,0.74,0.92
+1919,6,*,N1PKNaMg,red standard,1.38,1.86
+1919,7,*,N2PKNaMg,red standard,2.24,2.9
+1919,8,*,N3PKNaMg,red standard,2.6,3.7
+1919,9,*,N1*PKNaMg,red standard,1.66,2.28
+1919,10,*,N2,red standard,1.23,1.68
+1919,11,*,N2P,red standard,1.11,2
+1919,12,*,N2PNa*,red standard,1.47,2.27
+1919,13,*,N2PK,red standard,2.11,3.19
+1919,14,*,N2PMg*,red standard,1.77,2.69
+1919,15,*,N2PKNaMg,red standard,1.58,2.14
+1919,16,*,N2*PKNaMg,red standard,2.49,3.72
+1919,17,*,PKNaMg,red standard,0.96,1.1
+1919,18,*,N2,red standard,2.2,2.96
+1919,19,*,nil,red standard,0.96,1.3
+1919,20,*,N2KNaMg,red standard,1.66,2.33
+1920,2.1,*,FYM,red standard,2.24,4.62
+1920,2.2,*,FYM,red standard,2.4,5.55
+1920,3,*,Nil,red standard,0.66,1.04
+1920,5,*,PKNaMg,red standard,0.63,1.02
+1920,6,*,N1PKNaMg,red standard,1.12,1.96
+1920,7,*,N2PKNaMg,red standard,1.96,3.9
+1920,8,*,N3PKNaMg,red standard,2.2,5.5
+1920,9,*,N1*PKNaMg,red standard,1.85,3.33
+1920,10,*,N2,red standard,1.11,2.33
+1920,11,*,N2P,red standard,1.02,2.55
+1920,12,*,N2PNa*,red standard,1.48,3.52
+1920,13,*,N2PK,red standard,2.02,4.31
+1920,14,*,N2PMg*,red standard,1.36,3.45
+1920,15,*,N2PKNaMg,red standard,1.29,2.97
+1920,16,*,N2*PKNaMg,red standard,1.91,4.14
+1920,17,*,N2,red standard,1.44,2.55
+1920,18,*,PKNaMg,red standard,0.49,0.92
+1920,19,*,nil,red standard,0.94,1.59
+1920,20,*,N2KNaMg,red standard,1.15,2.34
+1921,2.1,*,FYM,red standard,2.11,3.8
+1921,2.2,*,FYM,red standard,2.23,4.7
+1921,3,*,Nil,red standard,0.77,0.98
+1921,5,*,PKNaMg,red standard,0.65,0.83
+1921,6,*,N1PKNaMg,red standard,1.15,1.96
+1921,7,*,N2PKNaMg,red standard,1.58,3.29
+1921,8,*,N3PKNaMg,red standard,1.7,4.02
+1921,9,*,N1*PKNaMg,red standard,1.23,2.43
+1921,10,*,N2,red standard,1.23,2.02
+1921,11,*,N2P,red standard,0.81,2.14
+1921,12,*,N2PNa*,red standard,1.22,2.73
+1921,13,*,N2PK,red standard,1.36,3.26
+1921,14,*,N2PMg*,red standard,1.34,2.78
+1921,15,*,N2PKNaMg,red standard,1.6,3.22
+1921,16,*,N2*PKNaMg,red standard,1.79,3.99
+1921,17,*,PKNaMg,red standard,0.78,1.09
+1921,18,*,N2,red standard,1.82,3.23
+1921,19,*,rape cake,red standard,1.4,2.48
+1921,20,*,N2KNaMg,red standard,1.02,2.6
+1922,2.1,*,FYM,red standard,2.53,4.01
+1922,2.2,*,FYM,red standard,2.74,4.47
+1922,3,*,Nil,red standard,0.63,0.97
+1922,5,*,PKNaMg,red standard,0.76,1.21
+1922,6,*,N1PKNaMg,red standard,1.14,1.84
+1922,7,*,N2PKNaMg,red standard,1.84,3.38
+1922,8,*,N3PKNaMg,red standard,1.86,4.2
+1922,9,*,N1*PKNaMg,red standard,1.46,2.37
+1922,10,*,N2,red standard,0.79,1.7
+1922,11,*,N2P,red standard,0.47,2.02
+1922,12,*,N2PNa*,red standard,0.74,2.39
+1922,13,*,N2PK,red standard,1.63,3.02
+1922,14,*,N2PMg*,red standard,0.78,2.25
+1922,15,*,N2PKNaMg,red standard,1.08,2.76
+1922,16,*,N2*PKNaMg,red standard,2.01,4.03
+1922,17,*,N2,red standard,1.58,2.9
+1922,18,*,PKNaMg,red standard,0.96,1.73
+1922,19,*,rape cake,red standard,1.19,2.64
+1922,20,*,N2KNaMg,red standard,1.75,2.72
+1923,2.1,*,FYM,red standard,1.35,3.11
+1923,2.2,*,FYM,red standard,1.51,4.43
+1923,3,*,Nil,red standard,0.32,0.47
+1923,5,*,PKNaMg,red standard,0.31,0.53
+1923,6,*,N1PKNaMg,red standard,0.57,1.23
+1923,7,*,N2PKNaMg,red standard,1.15,3.35
+1923,8,*,N3PKNaMg,red standard,1.37,4.33
+1923,9,*,N1*PKNaMg,red standard,0.75,2.36
+1923,10,*,N2,red standard,0.69,2.13
+1923,11,*,N2P,red standard,0.71,2.68
+1923,12,*,N2PNa*,red standard,0.87,2.7
+1923,13,*,N2PK,red standard,1.05,3.28
+1923,14,*,N2PMg*,red standard,1.02,3.02
+1923,15,*,N2PKNaMg,red standard,1.26,2.87
+1923,16,*,N2*PKNaMg,red standard,1.25,3.75
+1923,17,*,PKNaMg,red standard,0.34,0.87
+1923,18,*,N2,red standard,1.06,2.88
+1923,19,*,rape cake,red standard,1.18,2.82
+1923,20,*,N2KNaMg,red standard,0.74,2.25
+1924,2.1,*,FYM,red standard,1.08,2.56
+1924,2.2,*,FYM,red standard,1.01,2.63
+1924,3,*,Nil,red standard,0.17,0.41
+1924,5,*,PKNaMg,red standard,0.3,0.49
+1924,6,*,N1PKNaMg,red standard,0.71,1.18
+1924,7,*,N2PKNaMg,red standard,1.65,3.38
+1924,8,*,N3PKNaMg,red standard,1.77,4.33
+1924,9,*,N1*PKNaMg,red standard,0.95,2.02
+1924,10,*,N2,red standard,0.43,1.24
+1924,11,*,N2P,red standard,0.45,1.85
+1924,12,*,N2PNa*,red standard,0.75,2.06
+1924,13,*,N2PK,red standard,0.99,2.43
+1924,14,*,N2PMg*,red standard,0.77,2.06
+1924,15,*,N2PKNaMg,red standard,0.5,1.57
+1924,16,*,N2*PKNaMg,red standard,1.56,3.67
+1924,17,*,N2,red standard,0.57,1.3
+1924,18,*,PKNaMg,red standard,0.59,0.91
+1924,19,*,rape cake,red standard,0.46,1.64
+1924,20,*,N2KNaMg,red standard,0.15,0.71
+1925,2.1,*,FYM,red standard,0.93,2.31
+1925,2.2,*,FYM,red standard,1.34,2.77
+1925,3,*,Nil,red standard,0.46,0.77
+1925,5,*,PKNaMg,red standard,0.52,0.69
+1925,6,*,N1PKNaMg,red standard,0.76,1.09
+1925,7,*,N2PKNaMg,red standard,1.39,2.38
+1925,8,*,N3PKNaMg,red standard,1.49,2.95
+1925,9,*,N1*PKNaMg,red standard,1.1,2.1
+1925,10,*,N2,red standard,0.96,1.48
+1925,11,*,N2P,red standard,1.38,1.94
+1925,12,*,N2PNa*,red standard,1.43,2.33
+1925,13,*,N2PK,red standard,1.63,2.88
+1925,14,*,N2PMg*,red standard,1.47,2.65
+1925,15,*,N2PKNaMg,red standard,1.31,1.91
+1925,16,*,N2*PKNaMg,red standard,1.57,2.97
+1925,17,*,PKNaMg,red standard,0.75,0.95
+1925,18,*,N2,red standard,1.17,1.98
+1925,19,*,rape cake,red standard,0.7,1.48
+1925,20,*,N2KNaMg,red standard,0.57,1.46
+1968,2.1,*,FYM N2,Cappelle Desprez,4.14,6.02
+1968,2.2,*,FYM,Cappelle Desprez,3.16,3.02
+1968,3,*,Nil,Cappelle Desprez,1.04,0.64
+1968,5,*,PK(Na)Mg,Cappelle Desprez,1.07,0.85
+1968,6,*,N1PK(Na)Mg,Cappelle Desprez,2,2.03
+1968,7,*,N2PK(Na)Mg,Cappelle Desprez,3.05,3.43
+1968,8,*,N3PK(Na)Mg,Cappelle Desprez,3.5,4.27
+1968,9,*,N4PK(Na)Mg,Cappelle Desprez,3.82,3.98
+1968,10,*,N2,Cappelle Desprez,2.02,1.41
+1968,11,*,N2P,Cappelle Desprez,2.67,2.46
+1968,12,*,N2PK,Cappelle Desprez,2.95,2.65
+1968,13,*,N2PK,Cappelle Desprez,3.31,3.83
+1968,14,*,N2PKMg*,Cappelle Desprez,3.35,3.12
+1968,15,*,N3PK(Na)Mg,Cappelle Desprez,3.53,3.65
+1968,16,*,N2PK(Na)Mg,Cappelle Desprez,2.97,2.7
+1968,17,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,2.79,2.82
+1968,18,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,2.91,2.77
+1968,19,*,C,Cappelle Desprez,1.92,1.46
+1968,20,*,N2K(Na)Mg,Cappelle Desprez,1.02,0.74
+1969,2.1,*,FYM N2,Cappelle Desprez,6.76,8.18
+1969,2.2,*,FYM,Cappelle Desprez,5.11,4.44
+1969,3,*,Nil,Cappelle Desprez,1.84,1.78
+1969,5,*,PK(Na)Mg,Cappelle Desprez,1.97,1.86
+1969,6,*,N1PK(Na)Mg,Cappelle Desprez,3.8,3.56
+1969,7,*,N2PK(Na)Mg,Cappelle Desprez,5.42,5.46
+1969,8,*,N3PK(Na)Mg,Cappelle Desprez,5.63,5.7
+1969,9,*,N4PK(Na)Mg,Cappelle Desprez,5.82,5.48
+1969,10,*,N2,Cappelle Desprez,3.31,3.16
+1969,11,*,N2P,Cappelle Desprez,4.39,3.55
+1969,12,*,N2PK,Cappelle Desprez,4.56,3.85
+1969,13,*,N2PK,Cappelle Desprez,5.13,5.15
+1969,14,*,N2PKMg*,Cappelle Desprez,5.2,4.84
+1969,15,*,N3PK(Na)Mg,Cappelle Desprez,5.79,5.48
+1969,16,*,N2PK(Na)Mg,Cappelle Desprez,4.87,4.2
+1969,17,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,4.32,3.88
+1969,18,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,4.48,4.24
+1969,19,*,C,Cappelle Desprez,2.94,2.48
+1969,20,*,N2K(Na)Mg,Cappelle Desprez,3.7,3.3
+1970,2.1,*,FYM N2,Cappelle Desprez,6.32,4.66
+1970,2.2,*,FYM,Cappelle Desprez,5.9,4.35
+1970,3,*,Nil,Cappelle Desprez,1.79,0.98
+1970,5,*,PK(Na)Mg,Cappelle Desprez,1.96,1.15
+1970,6,*,N1PK(Na)Mg,Cappelle Desprez,3.6,1.81
+1970,7,*,N2PK(Na)Mg,Cappelle Desprez,4.82,2.36
+1970,8,*,N3PK(Na)Mg,Cappelle Desprez,5.1,2.34
+1970,9,*,N4PK(Na)Mg,Cappelle Desprez,5.76,2.98
+1970,10,*,N2,Cappelle Desprez,2.3,1.26
+1970,11,*,N2P,Cappelle Desprez,3.04,1.35
+1970,12,*,N2PK,Cappelle Desprez,4.33,1.98
+1970,13,*,N2PK,Cappelle Desprez,4.61,2.43
+1970,14,*,N2PKMg*,Cappelle Desprez,4.58,2.17
+1970,15,*,N3PK(Na)Mg,Cappelle Desprez,4.85,2.58
+1970,16,*,N2PK(Na)Mg,Cappelle Desprez,4.59,2.29
+1970,17,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,4.22,1.81
+1970,18,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,4.25,1.95
+1970,19,*,C,Cappelle Desprez,3.67,1.92
+1970,20,*,N2K(Na)Mg,Cappelle Desprez,2.23,1.16
+1971,2.1,*,FYM N2,Cappelle Desprez,5.38,6.04
+1971,2.2,*,FYM,Cappelle Desprez,6.68,8.01
+1971,3,*,Nil,Cappelle Desprez,2.08,2.13
+1971,5,*,PK(Na)Mg,Cappelle Desprez,2,2.09
+1971,6,*,N1PK(Na)Mg,Cappelle Desprez,4.29,3.99
+1971,7,*,N2PK(Na)Mg,Cappelle Desprez,5.57,4.98
+1971,8,*,N3PK(Na)Mg,Cappelle Desprez,5.36,5.83
+1971,9,*,N4PK(Na)Mg,Cappelle Desprez,5.37,5.8
+1971,10,*,N2,Cappelle Desprez,4.66,3.61
+1971,11,*,N2P,Cappelle Desprez,3.46,2.79
+1971,12,*,N2PK,Cappelle Desprez,5.55,4.21
+1971,13,*,N2PK,Cappelle Desprez,5.51,5.4
+1971,14,*,N2PKMg*,Cappelle Desprez,6.04,4.99
+1971,15,*,N3PK(Na)Mg,Cappelle Desprez,6,5.06
+1971,16,*,N2PK(Na)Mg,Cappelle Desprez,5.32,4.9
+1971,17,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,5.23,4.69
+1971,18,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,5.42,5.08
+1971,19,*,C,Cappelle Desprez,4.26,4.37
+1971,20,*,N2K(Na)Mg,Cappelle Desprez,4.64,4.17
+1972,2.1,*,FYM N2,Cappelle Desprez,7.24,10.33
+1972,2.2,*,FYM,Cappelle Desprez,6.82,9.25
+1972,3,*,Nil,Cappelle Desprez,1.76,1.83
+1972,5,*,PK(Na)Mg,Cappelle Desprez,1.68,1.91
+1972,6,*,N1PK(Na)Mg,Cappelle Desprez,4.15,3.95
+1972,7,*,N2PK(Na)Mg,Cappelle Desprez,5.3,5.89
+1972,8,*,N3PK(Na)Mg,Cappelle Desprez,5.46,7.21
+1972,9,*,N4PK(Na)Mg,Cappelle Desprez,5.86,7.51
+1972,10,*,N2,Cappelle Desprez,4.87,3.6
+1972,11,*,N2P,Cappelle Desprez,4.89,4.61
+1972,12,*,N2PK,Cappelle Desprez,5.65,4.82
+1972,13,*,N2PK,Cappelle Desprez,5.43,4.87
+1972,14,*,N2PKMg*,Cappelle Desprez,5.81,4.72
+1972,15,*,N3PK(Na)Mg,Cappelle Desprez,6.09,5.04
+1972,16,*,N2PK(Na)Mg,Cappelle Desprez,5.46,4.48
+1972,17,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,5.25,3.79
+1972,18,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,5.53,3.97
+1972,19,*,C,Cappelle Desprez,4.55,3.49
+1972,20,*,N2K(Na)Mg,Cappelle Desprez,4.51,3.03
+1973,2.1,*,FYM N2,Cappelle Desprez,4.82,7.78
+1973,2.2,*,FYM,Cappelle Desprez,6.22,6.85
+1973,3,*,Nil,Cappelle Desprez,1.87,1.2
+1973,5,*,PK(Na)Mg,Cappelle Desprez,1.81,1.47
+1973,6,*,N1PK(Na)Mg,Cappelle Desprez,3.79,2.68
+1973,7,*,N2PK(Na)Mg,Cappelle Desprez,5.43,4.51
+1973,8,*,N3PK(Na)Mg,Cappelle Desprez,5.05,4.75
+1973,9,*,N4PK(Na)Mg,Cappelle Desprez,5.26,5.3
+1973,10,*,N2,Cappelle Desprez,3.53,2.15
+1973,11,*,N2P,Cappelle Desprez,3.26,2.84
+1973,12,*,N2PK,Cappelle Desprez,4.92,3.44
+1973,13,*,N2PK,Cappelle Desprez,5.49,4.29
+1973,14,*,N2PKMg*,Cappelle Desprez,5.62,4.19
+1973,15,*,N3PK(Na)Mg,Cappelle Desprez,6.05,5.21
+1973,16,*,N2PK(Na)Mg,Cappelle Desprez,5.11,4.06
+1973,17,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,4.78,3.3
+1973,18,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,4.8,3.7
+1973,19,*,C,Cappelle Desprez,4.17,3.2
+1973,20,*,N2K(Na)Mg,Cappelle Desprez,3.72,2.62
+1974,2.1,*,FYM N2,Cappelle Desprez,6.57,6.37
+1974,2.2,*,FYM,Cappelle Desprez,6.43,6.37
+1974,3,*,Nil,Cappelle Desprez,1.95,1.44
+1974,5,*,PK(Na)Mg,Cappelle Desprez,1.7,1.31
+1974,6,*,N1PK(Na)Mg,Cappelle Desprez,3.93,2.96
+1974,7,*,N2PK(Na)Mg,Cappelle Desprez,5.37,3.51
+1974,8,*,N3PK(Na)Mg,Cappelle Desprez,5.65,3.94
+1974,9,*,N4PK(Na)Mg,Cappelle Desprez,6.25,4.22
+1974,10,*,N2,Cappelle Desprez,4.33,2.85
+1974,11,*,N2P,Cappelle Desprez,4.44,2.58
+1974,12,*,N2PK,Cappelle Desprez,5.51,3.45
+1974,13,*,N2PK,Cappelle Desprez,5.9,3.9
+1974,14,*,N2PKMg*,Cappelle Desprez,6.09,4.17
+1974,15,*,N3PK(Na)Mg,Cappelle Desprez,6.21,3.91
+1974,16,*,N2PK(Na)Mg,Cappelle Desprez,5.64,3.73
+1974,17,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,5.26,3.05
+1974,18,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,5.62,3.57
+1974,19,*,C,Cappelle Desprez,4.27,3.29
+1974,20,*,N2K(Na)Mg,Cappelle Desprez,4.29,3.08
+1975,2.1,*,FYM N2,Cappelle Desprez,6,6.91
+1975,2.2,*,FYM,Cappelle Desprez,3.79,3.99
+1975,3,*,Nil,Cappelle Desprez,1.21,0.94
+1975,5,*,PK(Na)Mg,Cappelle Desprez,1.49,1.21
+1975,6,*,N1PK(Na)Mg,Cappelle Desprez,3.02,2.02
+1975,7,*,N2PK(Na)Mg,Cappelle Desprez,3.72,3.3
+1975,8,*,N3PK(Na)Mg,Cappelle Desprez,4.88,3.81
+1975,9,*,N4PK(Na)Mg,Cappelle Desprez,5.75,4.97
+1975,10,*,N2,Cappelle Desprez,3.25,1.98
+1975,11,*,N2P,Cappelle Desprez,3.65,2.8
+1975,12,*,N2PK,Cappelle Desprez,3.69,3.03
+1975,13,*,N2PK,Cappelle Desprez,4.29,3.34
+1975,14,*,N2PKMg*,Cappelle Desprez,4.39,3.14
+1975,15,*,N3PK(Na)Mg,Cappelle Desprez,4.7,3.57
+1975,16,*,N2PK(Na)Mg,Cappelle Desprez,3.82,2.58
+1975,17,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,3.55,2.12
+1975,18,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,3.61,2.23
+1975,19,*,C,Cappelle Desprez,3.71,1.55
+1975,20,*,N2K(Na)Mg,Cappelle Desprez,2.76,1.52
+1976,2.1,*,FYM N2,Cappelle Desprez,4.46,6.05
+1976,2.2,*,FYM,Cappelle Desprez,4.62,5.77
+1976,3,*,Nil,Cappelle Desprez,1.61,1.2
+1976,5,*,PK(Na)Mg,Cappelle Desprez,1.48,1.14
+1976,6,*,N1PK(Na)Mg,Cappelle Desprez,2.61,2.08
+1976,7,*,N2PK(Na)Mg,Cappelle Desprez,3.72,3.63
+1976,8,*,N3PK(Na)Mg,Cappelle Desprez,4.02,4.27
+1976,9,*,N4PK(Na)Mg,Cappelle Desprez,4.3,4.66
+1976,10,*,N2,Cappelle Desprez,2.52,2.06
+1976,11,*,N2P,Cappelle Desprez,2.55,2.02
+1976,12,*,N2PK,Cappelle Desprez,3.15,2.92
+1976,13,*,N2PK,Cappelle Desprez,4.04,4.12
+1976,14,*,N2PKMg*,Cappelle Desprez,4.01,3.71
+1976,15,*,N3PK(Na)Mg,Cappelle Desprez,4.1,4.55
+1976,16,*,N2PK(Na)Mg,Cappelle Desprez,3.57,3.35
+1976,17,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,3.42,2.9
+1976,18,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,3.14,2.65
+1976,19,*,C,Cappelle Desprez,3.78,3.11
+1976,20,*,N2K(Na)Mg,Cappelle Desprez,2.37,1.67
+1977,2.1,*,FYM N2,Cappelle Desprez,3.92,5.83
+1977,2.2,*,FYM,Cappelle Desprez,5.38,4.13
+1977,3,*,Nil,Cappelle Desprez,1.64,1.23
+1977,5,*,PK(Na)Mg,Cappelle Desprez,1.24,1.23
+1977,6,*,N1PK(Na)Mg,Cappelle Desprez,2.98,3.15
+1977,7,*,N2PK(Na)Mg,Cappelle Desprez,4.23,3.49
+1977,8,*,N3PK(Na)Mg,Cappelle Desprez,4.99,4.22
+1977,9,*,N4PK(Na)Mg,Cappelle Desprez,4.96,4.21
+1977,10,*,N2,Cappelle Desprez,3.63,2.05
+1977,11,*,N2P,Cappelle Desprez,2.19,2.03
+1977,12,*,N2PK,Cappelle Desprez,3.75,2.64
+1977,13,*,N2PK,Cappelle Desprez,4.44,4.48
+1977,14,*,N2PKMg*,Cappelle Desprez,4.42,4.57
+1977,15,*,N3PK(Na)Mg,Cappelle Desprez,4.89,4.04
+1977,16,*,N2PK(Na)Mg,Cappelle Desprez,4.27,4.27
+1977,17,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,4.35,4.47
+1977,18,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,4.62,4.14
+1977,19,*,C,Cappelle Desprez,4.03,2.77
+1977,20,*,N2K(Na)Mg,Cappelle Desprez,4.87,3.02
+1978,2.1,*,FYM N2,Cappelle Desprez,7.06,8
+1978,2.2,*,FYM,Cappelle Desprez,6.83,6.37
+1978,3,*,Nil,Cappelle Desprez,1.6,1.54
+1978,5,*,PK(Na)Mg,Cappelle Desprez,1.66,1.77
+1978,6,*,N1PK(Na)Mg,Cappelle Desprez,2.92,2.17
+1978,7,*,N2PK(Na)Mg,Cappelle Desprez,5.13,3.46
+1978,8,*,N3PK(Na)Mg,Cappelle Desprez,5.65,4.22
+1978,9,*,N4PK(Na)Mg,Cappelle Desprez,5.89,4.26
+1978,10,*,N2,Cappelle Desprez,2.64,1.71
+1978,11,*,N2P,Cappelle Desprez,4.09,2.77
+1978,12,*,N2PK,Cappelle Desprez,4.54,3.25
+1978,13,*,N2PK,Cappelle Desprez,5.39,4.01
+1978,14,*,N2PKMg*,Cappelle Desprez,5.65,3.65
+1978,15,*,N3PK(Na)Mg,Cappelle Desprez,5.92,4.18
+1978,16,*,N2PK(Na)Mg,Cappelle Desprez,5.26,3.71
+1978,17,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,5.08,3.49
+1978,18,*,N2 1/2[PK(Na)Mg],Cappelle Desprez,5.05,3.48
+1978,19,*,C,Cappelle Desprez,4.01,2.68
+1978,20,*,N2K(Na)Mg,Cappelle Desprez,2.81,1.97
+1979,2.1,*,FYM N2,Flanders,7.31,5.2
+1979,2.2,*,FYM,Flanders,5.76,3.86
+1979,3,*,Nil,Flanders,1.15,0.6
+1979,5,*,PK(Na)Mg,Flanders,1.03,0.53
+1979,6,*,N1PK(Na)Mg,Flanders,3.67,1.74
+1979,7,*,N2PK(Na)Mg,Flanders,5.83,3.4
+1979,8,*,N3PK(Na)Mg,Flanders,6.33,3.32
+1979,9,*,N4PK(Na)Mg,Flanders,7.02,4.45
+1979,10,*,N2,Flanders,2.28,1.19
+1979,11,*,N2P,Flanders,3.94,1.61
+1979,12,*,N2PK,Flanders,5.14,2.05
+1979,13,*,N2PK,Flanders,6.13,3.97
+1979,14,*,N2PKMg*,Flanders,6.67,3.76
+1979,15,*,N3PK(Na)Mg,Flanders,6.92,3.74
+1979,16,*,N2PK(Na)Mg,Flanders,5.84,3.62
+1979,17,*,N2 1/2[PK(Na)Mg],Flanders,5.13,3.12
+1979,18,*,N2 1/2[PK(Na)Mg],Flanders,5.34,3.24
+1979,19,*,C,Flanders,2.88,1.19
+1979,20,*,N2K(Na)Mg,Flanders,1.58,0.86
+1980,2.1,*,FYM N2,Flanders,8.44,6.22
+1980,2.2,*,FYM,Flanders,6.71,5.76
+1980,3,*,Nil,Flanders,1.78,1.28
+1980,5,*,PK(Na)Mg,Flanders,1.49,1.2
+1980,6,*,N1PK(Na)Mg,Flanders,3.74,2.19
+1980,7,*,N2PK(Na)Mg,Flanders,6.25,3.73
+1980,8,*,N3PK(Na)Mg,Flanders,7.17,4.71
+1980,9,*,N4PK(Na)Mg,Flanders,7.56,4.61
+1980,10,*,N2,Flanders,3.69,2.08
+1980,11,*,N2P,Flanders,4.68,2.62
+1980,12,*,N2PK,Flanders,5.35,2.86
+1980,13,*,N2PK,Flanders,5.84,3.45
+1980,14,*,N2PKMg*,Flanders,6.13,3.69
+1980,15,*,N3PK(Na)Mg,Flanders,7.26,4.68
+1980,16,*,N2PK(Na)Mg,Flanders,5.69,5.78
+1980,17,*,N2 1/2[PK(Na)Mg],Flanders,6.63,4.43
+1980,18,*,N2 1/2[PK(Na)Mg],Flanders,6.01,3.57
+1980,19,*,C,Flanders,4.64,2
+1980,20,*,N2K(Na)Mg,Flanders,4.12,3.08
+1981,2.1,*,FYM N2,Flanders,8.57,7.6
+1981,2.2,*,FYM,Flanders,7.71,5.96
+1981,3,*,Nil,Flanders,1.66,1
+1981,5,*,PK(Na)Mg,Flanders,1.62,0.89
+1981,6,*,N1PK(Na)Mg,Flanders,4.28,2.83
+1981,7,*,N2PK(Na)Mg,Flanders,6.39,3.76
+1981,8,*,N3PK(Na)Mg,Flanders,6.36,3.85
+1981,9,*,N4PK(Na)Mg,Flanders,6.96,3.96
+1981,10,*,N2,Flanders,3.72,2.38
+1981,11,*,N2P,Flanders,3.58,1.97
+1981,12,*,N2PK,Flanders,4.58,2.84
+1981,13,*,N2PK,Flanders,6.2,4.01
+1981,14,*,N2PKMg*,Flanders,6.28,4.39
+1981,15,*,N3PK(Na)Mg,Flanders,6.71,4.43
+1981,16,*,N2PK(Na)Mg,Flanders,5.93,3.74
+1981,17,*,N2 1/2[PK(Na)Mg],Flanders,6.5,4.25
+1981,18,*,N2 1/2[PK(Na)Mg],Flanders,6.72,4.33
+1981,19,*,C,Flanders,4.25,2.76
+1981,20,*,N2K(Na)Mg,Flanders,3.07,1.93
+1982,2.1,*,FYM N2,Flanders,8.04,5.59
+1982,2.2,*,FYM,Flanders,5.59,3.62
+1982,3,*,Nil,Flanders,1.23,0.59
+1982,5,*,PK(Na)Mg,Flanders,1.1,0.75
+1982,6,*,N1PK(Na)Mg,Flanders,3.36,2.35
+1982,7,*,N2PK(Na)Mg,Flanders,5.47,3.14
+1982,8,*,N3PK(Na)Mg,Flanders,5.76,3.5
+1982,9,*,N4PK(Na)Mg,Flanders,6.6,3.97
+1982,10,*,N2,Flanders,2.78,2.03
+1982,11,*,N2P,Flanders,3.34,2.02
+1982,12,*,N2PK,Flanders,4.34,2.25
+1982,13,*,N2PK,Flanders,5.15,3.03
+1982,14,*,N2PKMg*,Flanders,5.31,3.07
+1982,15,*,N3PK(Na)Mg,Flanders,6.22,3.52
+1982,16,*,N2PK(Na)Mg,Flanders,5.34,2.87
+1982,17,*,N2 1/2[PK(Na)Mg],Flanders,6.44,3.72
+1982,18,*,N2 1/2[PK(Na)Mg],Flanders,6.03,2.83
+1982,19,*,C,Flanders,3.2,2
+1982,20,*,N2K(Na)Mg,Flanders,2.8,1.76
+1983,2.1,*,FYM N2,Flanders,7.33,7.45
+1983,2.2,*,FYM,Flanders,5.24,3.99
+1983,3,*,Nil,Flanders,1.69,0.82
+1983,5,*,PK(Na)Mg,Flanders,1.5,0.93
+1983,6,*,N1PK(Na)Mg,Flanders,3.52,3.01
+1983,7,*,N2PK(Na)Mg,Flanders,5.36,4.86
+1983,8,*,N3PK(Na)Mg,Flanders,5.78,4.97
+1983,9,*,N4PK(Na)Mg,Flanders,6.37,5.42
+1983,10,*,N2,Flanders,3.03,2.3
+1983,11,*,N2P,Flanders,3.82,2.07
+1983,12,*,N2PK,Flanders,4.67,2.69
+1983,13,*,N2PK,Flanders,5.4,4.4
+1983,14,*,N2PKMg*,Flanders,5.76,4.48
+1983,15,*,N3PK(Na)Mg,Flanders,6.17,4.77
+1983,16,*,N2PK(Na)Mg,Flanders,5.34,4.17
+1983,17,*,N2 1/2[PK(Na)Mg],Flanders,5.9,4.32
+1983,18,*,N2 1/2[PK(Na)Mg],Flanders,6.26,4.98
+1983,19,*,C,Flanders,3.56,2
+1983,20,*,N2K(Na)Mg,Flanders,2.8,1.65
+1984,2.1,*,FYM N2,Flanders,8.66,7.65
+1984,2.2,*,FYM,Flanders,6.59,5.22
+1984,3,*,Nil,Flanders,2.11,1.46
+1984,5,*,PK(Na)Mg,Flanders,1.97,1.52
+1984,6,*,N1PK(Na)Mg,Flanders,3.89,2.4
+1984,7,*,N2PK(Na)Mg,Flanders,5.92,3.1
+1984,8,*,N3PK(Na)Mg,Flanders,6.82,3.54
+1984,9,*,N4PK(Na)Mg,Flanders,6.61,3.84
+1984,10,*,N2,Flanders,3.58,2.32
+1984,11,*,N2P,Flanders,3.86,1.86
+1984,12,*,N2PK,Flanders,4.78,1.8
+1984,13,*,N2PK,Flanders,5.43,2.6
+1984,14,*,N2PKMg*,Flanders,5.56,2.56
+1984,15,*,N3PK(Na)Mg,Flanders,6.23,3.23
+1984,16,*,N2PK(Na)Mg,Flanders,5.44,2.79
+1984,17,*,N2 1/2[PK(Na)Mg],Flanders,6.76,4.05
+1984,18,*,N2 1/2[PK(Na)Mg],Flanders,6.13,3.09
+1984,19,*,C,Flanders,4,3.34
+1984,20,*,N2K(Na)Mg,Flanders,4.03,2.45
+1985,2.1,*,FYM N2,Brimstone,8.64,6.25
+1985,2.2,*,FYM,Brimstone,7.58,4.79
+1985,3,*,Nil,Brimstone,1.77,0.84
+1985,5,*,PKMg,Brimstone,1.54,0.84
+1985,6,*,N1PKMg,Brimstone,4.57,3.15
+1985,7,*,N2PKMg,Brimstone,7.54,3.57
+1985,8,*,N3PKMg,Brimstone,8.12,4.27
+1985,9,*,N4PKMg,Brimstone,8.21,4.78
+1985,10,*,N2,Brimstone,3.46,2.98
+1985,11,*,N2P,Brimstone,5.76,2.25
+1985,12,*,N2PK,Brimstone,5.65,2.31
+1985,13,*,N2PK,Brimstone,6.81,3.39
+1985,14,*,N2PKMg*,Brimstone,6.87,3.42
+1985,15,*,N5PKMg,Brimstone,8.34,5.41
+1985,16,*,N6PKMg,Brimstone,8.23,5.59
+1985,17,*,N0+3 1/2[PKMg](A),Brimstone,8.06,4.45
+1985,18,*,N1+3 1/2[PKMg](A),Brimstone,8.1,4.6
+1985,19,*,(C),Brimstone,3.5,2.1
+1985,20,*,N2KMg,Brimstone,3.05,1.6
+1986,2.1,*,FYM N2,Brimstone,6.15,3.67
+1986,2.2,*,FYM,Brimstone,4.68,3.03
+1986,3,*,Nil,Brimstone,1.12,0.41
+1986,5,*,PKMg,Brimstone,1.45,0.75
+1986,6,*,N1PKMg,Brimstone,2.7,1.78
+1986,7,*,N2PKMg,Brimstone,4.74,2.2
+1986,8,*,N3PKMg,Brimstone,5.2,2.35
+1986,9,*,N4PKMg,Brimstone,4.37,2.09
+1986,10,*,N2,Brimstone,0.41,0.27
+1986,11,*,N2P,Brimstone,4.09,1.52
+1986,12,*,N2PK,Brimstone,4.23,1.79
+1986,13,*,N2PK,Brimstone,5.1,2.36
+1986,14,*,N2PKMg*,Brimstone,5.02,2.15
+1986,15,*,N5PKMg,Brimstone,5.37,2.56
+1986,16,*,N6PKMg,Brimstone,4.86,2.22
+1986,17,*,N0+3 1/2[PKMg](A),Brimstone,5.09,2.13
+1986,18,*,N1+3 1/2[PKMg](A),Brimstone,4.32,1.71
+1986,19,*,(C),Brimstone,2.29,1.36
+1986,20,*,N2KMg,Brimstone,0.68,0.13
+1987,2.1,*,FYM N2,B & SHM*,8.54,6.21
+1987,2.2,*,FYM,B & SHM*,6.67,4.96
+1987,3,*,Nil,B & SHM*,1.47, 
+1987,5,*,PKMg,B & SHM*,1.41,0.97
+1987,6,*,N1PKMg,B & SHM*,3.21,2.5
+1987,7,*,N2PKMg,B & SHM*,5.32,2.8
+1987,8,*,N3PKMg,B & SHM*,5.94, 
+1987,9,*,N4PKMg,B & SHM*,6.18,4
+1987,10,*,N2,B & SHM*,3.18,3.33
+1987,11,*,N2P,B & SHM*,4.69,1.93
+1987,12,*,N2PK,B & SHM*,4.39,1.94
+1987,13,*,N2PK,B & SHM*,5.24,2.81
+1987,14,*,N2PKMg*,B & SHM*,5.22,2.71
+1987,15,*,N5PKMg,B & SHM*,6.84,3.76
+1987,16,*,N6PKMg,B & SHM*,7.54,4.59
+1987,17,*,N0+3 1/2[PKMg](A),B & SHM*,6.91,3.57
+1987,18,*,N1+3 1/2[PKMg](A),B & SHM*,7.1,4.42
+1987,19,*,(C),B & SHM*,3.68,3.32
+1987,20,*,N2KMg,B & SHM*,1.64,1.33
+1988,2.1,*,FYM N2,B & SHM*,8.01,5.84
+1988,2.2,*,FYM,B & SHM*,4.1,3.56
+1988,3,*,Nil,B & SHM*,0.68,0.4
+1988,5,*,PKMg,B & SHM*,0.86,0.48
+1988,6,*,N1PKMg,B & SHM*,2.88,2.73
+1988,7,*,N2PKMg,B & SHM*,4.1,3.43
+1988,8,*,N3PKMg,B & SHM*,5.6,3.48
+1988,9,*,N4PKMg,B & SHM*,6.53,5.05
+1988,10,*,N2,B & SHM*,2.46,1.85
+1988,11,*,N2P,B & SHM*,2.62,2.13
+1988,12,*,N2PK,B & SHM*,3.55,1.68
+1988,13,*,N2PK,B & SHM*,4.87,3.09
+1988,14,*,N2PKMg*,B & SHM*,5.9,3.2
+1988,15,*,N5PKMg,B & SHM*,6.6,4.67
+1988,16,*,N6PKMg,B & SHM*,6.71,5.06
+1988,17,*,N0+3 1/2[PKMg](A),B & SHM*,7.03,4.11
+1988,18,*,N1+3 1/2[PKMg](A),B & SHM*,6.63,4.11
+1988,19,*,(C),B & SHM*,2.18,2.24
+1988,20,*,N2KMg,B & SHM*,1.32,1.09
+1989,2.1,*,FYM N2,B & SHM*,7.54,2.9
+1989,2.2,*,FYM,B & SHM*,5.9,2.31
+1989,3,*,Nil,B & SHM*,0.9,0.3
+1989,5,*,PKMg,B & SHM*,1.12,0.3
+1989,6,*,N1PKMg,B & SHM*,2.34,0.8
+1989,7,*,N2PKMg,B & SHM*,4.4,1
+1989,8,*,N3PKMg,B & SHM*,4.06,0.94
+1989,9,*,N4PKMg,B & SHM*,4.55,1.46
+1989,10,*,N2,B & SHM*,2.48,1.1
+1989,11,*,N2P,B & SHM*,2.58,0.92
+1989,12,*,N2PK,B & SHM*,3.1,0.84
+1989,13,*,N2PK,B & SHM*,4.67,0.93
+1989,14,*,N2PKMg*,B & SHM*,4.65,1.02
+1989,15,*,N5PKMg,B & SHM*,5.85,1.3
+1989,16,*,N6PKMg,B & SHM*,4.63,1.11
+1989,17,*,N0+3 1/2[PKMg](A),B & SHM*,3.32,0.55
+1989,18,*,N1+3 1/2[PKMg](A),B & SHM*,3.69,1.08
+1989,19,*,(C),B & SHM*,1.92,0.71
+1989,20,*,N2KMg,B & SHM*,2.42,0.74
+1990,2.1,*,FYM N2,B & SHM*,7.22,4.65
+1990,2.2,*,FYM,B & SHM*,5.64,2.66
+1990,3,*,Nil,B & SHM*,1.12,0.39
+1990,5,*,PKMg,B & SHM*,1.41,0.39
+1990,6,*,N1PKMg,B & SHM*,3.26,1.24
+1990,7,*,N2PKMg,B & SHM*,5.45,2.53
+1990,8,*,N3PKMg,B & SHM*,6.74,2.68
+1990,9,*,N4PKMg,B & SHM*,6.74,2.75
+1990,10,*,N2,B & SHM*,4.73,1.82
+1990,11,*,N2P,B & SHM*,4.87,1.82
+1990,12,*,N2PK,B & SHM*,6.81,2.52
+1990,13,*,N2PK,B & SHM*,6.55,1.79
+1990,14,*,N2PKMg*,B & SHM*,6.76,2.2
+1990,15,*,N5PKMg,B & SHM*,7.6,2.83
+1990,16,*,N6PKMg,B & SHM*,7.03,2.75
+1990,17,*,N0+3 1/2[PKMg](A),B & SHM*,7.59,2.18
+1990,18,*,N1+3 1/2[PKMg](A),B & SHM*,7.33,2.3
+1990,19,*,(C),B & SHM*,2.58,0.57
+1990,20,*,N2KMg,B & SHM*,3.82,1.22
+1991,2.1,*,FYM N2,Apollo,8.98,8.67
+1991,2.2,*,FYM,Apollo,5.98,4.58
+1991,3,*,Nil,Apollo,1.25,1.06
+1991,5,*,PKMg,Apollo,1.29,0.92
+1991,6,*,N1PKMg,Apollo,3.39,3.01
+1991,7,*,N2PKMg,Apollo,6.29,4.75
+1991,8,*,N3PKMg,Apollo,7.8,5.56
+1991,9,*,N4PKMg,Apollo,7.65,5.9
+1991,10,*,N2,Apollo,3.14,3.78
+1991,11,*,N2P,Apollo,4.36,2.93
+1991,12,*,N2PK,Apollo,2.85,1.68
+1991,13,*,N2PK,Apollo,5.42,4.38
+1991,14,*,N2PKMg*,Apollo,5.77,3.98
+1991,15,*,N5PKMg,Apollo,8.66,6.78
+1991,16,*,N6PKMg,Apollo,8.16,6.34
+1991,17,*,N0+3 1/2[PKMg](A),Apollo,7.22,5.95
+1991,18,*,N1+3 1/2[PKMg](A),Apollo,7.28,6.46
+1991,19,*,(C),Apollo,2.02,1.52
+1991,20,*,N2KMg,Apollo,3.23,3.44
+1992,2.1,*,FYM N2,Apollo,8.52,7.01
+1992,2.2,*,FYM,Apollo,7.16,3.95
+1992,3,*,Nil,Apollo,1.21,0.16
+1992,5,*,PKMg,Apollo,1.81,0.24
+1992,6,*,N1PKMg,Apollo,4.18,1.52
+1992,7,*,N2PKMg,Apollo,5.68,2.52
+1992,8,*,N3PKMg,Apollo,7,3.43
+1992,9,*,N4PKMg,Apollo,7.08,2.65
+1992,10,*,N2,Apollo,3.39,2.06
+1992,11,*,N2P,Apollo,5.02,2.13
+1992,12,*,N2PK,Apollo,3.67,1.42
+1992,13,*,N2PK,Apollo,5.31,2.3
+1992,14,*,N2PKMg*,Apollo,5.55,2.2
+1992,15,*,N5PKMg,Apollo,8.04,3.52
+1992,16,*,N6PKMg,Apollo,7.59,4.07
+1992,17,*,N0+3 1/2[PKMg](A),Apollo,7.52,3.41
+1992,18,*,N1+3 1/2[PKMg](A),Apollo,7.34,3.1
+1992,19,*,(C),Apollo,2.27,0.4
+1992,20,*,N2KMg,Apollo,3.08,1.67
+1993,2.1,*,FYM N2,Apollo,8.99,4.56
+1993,2.2,*,FYM,Apollo,5.67,1.72
+1993,3,*,Nil,Apollo,1.01,0.17
+1993,5,*,PKMg,Apollo,1.15,0.25
+1993,6,*,N1PKMg,Apollo,3.06,1
+1993,7,*,N2PKMg,Apollo,4.8,1.83
+1993,8,*,N3PKMg,Apollo,5.51,1.98
+1993,9,*,N4PKMg,Apollo,5.99,2.32
+1993,10,*,N2,Apollo,1.92,0.91
+1993,11,*,N2P,Apollo,2.39,0.67
+1993,12,*,N2PK,Apollo,2.48,0.75
+1993,13,*,N2PK,Apollo,4.05,1.84
+1993,14,*,N2PKMg*,Apollo,4.85,1.99
+1993,15,*,N5PKMg,Apollo,6.61,2.69
+1993,16,*,N6PKMg,Apollo,7.38,3
+1993,17,*,N0+3 1/2[PKMg](A),Apollo,5.96,2.33
+1993,18,*,N1+3 1/2[PKMg](A),Apollo,6.37,2.47
+1993,19,*,(C),Apollo,1.47,0.34
+1993,20,*,N2KMg,Apollo,1.8,0.84
+1994,2.1,*,FYM N2,Apollo,7.22,4.58
+1994,2.2,*,FYM,Apollo,5.92,3.05
+1994,3,*,Nil,Apollo,0.68,0.1
+1994,5,*,PKMg,Apollo,0.75,0.13
+1994,6,*,N1PKMg,Apollo,2.89,1.38
+1994,7,*,N2PKMg,Apollo,5.14,2.56
+1994,8,*,N3PKMg,Apollo,6.32,3.47
+1994,9,*,N4PKMg,Apollo,5.93,3.36
+1994,10,*,N2,Apollo,2.38,1.89
+1994,11,*,N2P,Apollo,3.43,2.04
+1994,12,*,N2PK,Apollo,3.42,2.24
+1994,13,*,N2PK,Apollo,4.7,2.74
+1994,14,*,N2PKMg*,Apollo,5.22,2.45
+1994,15,*,N5PKMg,Apollo,7.33,4.31
+1994,16,*,N6PKMg,Apollo,7.08,4.17
+1994,17,*,N0+3 1/2[PKMg](A),Apollo,6.35,3.38
+1994,18,*,N1+3 1/2[PKMg](A),Apollo,5.37,2.66
+1994,19,*,(C),Apollo,1.12,0.18
+1994,20,*,N2KMg,Apollo,2.82,1.68
+1995,2.1,*,FYM N2,Apollo,8.44,4.83
+1995,2.2,*,FYM,Apollo,7.36,3.32
+1995,3,*,Nil,Apollo,1.13,0.37
+1995,5,*,PKMg,Apollo,1.32,0.31
+1995,6,*,N1PKMg,Apollo,3.6,0.92
+1995,7,*,N2PKMg,Apollo,5.25,1.93
+1995,8,*,N3PKMg,Apollo,6.08,2.59
+1995,9,*,N4PKMg,Apollo,6.16,2.72
+1995,10,*,N2,Apollo,2.56,1.57
+1995,11,*,N2P,Apollo,3.11,1.56
+1995,12,*,N2PK,Apollo,3.27,1.33
+1995,13,*,N2PK,Apollo,4.73,1.64
+1995,14,*,N2PKMg*,Apollo,5.35,1.54
+1995,15,*,N5PKMg,Apollo,6.94,2.85
+1995,16,*,N6PKMg,Apollo,7.37,2.86
+1995,17,*,N0+3 1/2[PKMg](A),Apollo,6.34,1.94
+1995,18,*,N1+3 1/2[PKMg](A),Apollo,7.03,2.33
+1995,19,*,(C),Apollo,2.4,0.27
+1995,20,*,N2KMg,Apollo,3.25,1.32
+1996,2.1,*,FYM N2,Hereward,8.53,6.2
+1996,2.2,*,FYM,Hereward,7.45,4.66
+1996,3,*,Nil,Hereward,1.93,0.68
+1996,5,*,PKMg,Hereward,1.77,0.58
+1996,6,*,N1PKMg,Hereward,3.66,1.27
+1996,7,*,N2PKMg,Hereward,6.27,2.79
+1996,8,*,N3PKMg,Hereward,7.48,3.98
+1996,9,*,N4PKMg,Hereward,8.04,4.69
+1996,10,*,N2,Hereward,3.8,1.41
+1996,11,*,N2P,Hereward,4.02,1.32
+1996,12,*,N2PK,Hereward,4.62,1.93
+1996,13,*,N2PK,Hereward,5.46,2.41
+1996,14,*,N2PKMg*,Hereward,5.83,2.46
+1996,15,*,N5PKMg,Hereward,8.24,4.92
+1996,16,*,N6PKMg,Hereward,7.97,4.95
+1996,17,*,N0+3 1/2[PKMg](A),Hereward,7.73,4.18
+1996,18,*,N1+3 1/2[PKMg](A),Hereward,7.23,3.58
+1996,19,*,(C),Hereward,2.54,0.76
+1996,20,*,N2KMg,Hereward,3.71,1.75
+1997,2.1,*,FYM N2,Hereward,7.89,4.84
+1997,2.2,*,FYM,Hereward,5.61,3.53
+1997,3,*,Nil,Hereward,1.03,0.49
+1997,5,*,PKMg,Hereward,1.01,0.69
+1997,6,*,N1PKMg,Hereward,2.95,1.33
+1997,7,*,N2PKMg,Hereward,5.63,2.26
+1997,8,*,N3PKMg,Hereward,6.96,2.86
+1997,9,*,N4PKMg,Hereward,7.12,2.72
+1997,10,*,N2,Hereward,2.59,1.16
+1997,11,*,N2P,Hereward,3.07,1
+1997,12,*,N2PK,Hereward,3.71,1
+1997,13,*,N2PK,Hereward,5.29,1.87
+1997,14,*,N2PKMg*,Hereward,5.31,1.63
+1997,15,*,N5PKMg,Hereward,8.47,3.22
+1997,16,*,N6PKMg,Hereward,8.46,3.8
+1997,17,*,N0+3 1/2[PKMg](A),Hereward,7.7,3.09
+1997,18,*,N1+3 1/2[PKMg](A),Hereward,7.61,2.82
+1997,19,*,(C),Hereward,1.93,0.83
+1997,20,*,N2KMg,Hereward,1.87,1.08
+1998,2.1,*,FYM N2,Hereward,8.84,7.5
+1998,2.2,*,FYM,Hereward,5.53,3.7
+1998,3,*,Nil,Hereward,1.64,1.32
+1998,5,*,PKMg,Hereward,1.5,0.93
+1998,6,*,N1PKMg,Hereward,3.15,2.61
+1998,7,*,N2PKMg,Hereward,4.49,3.99
+1998,8,*,N3PKMg,Hereward,5.61,4.4
+1998,9,*,N4PKMg,Hereward,6.95,5.4
+1998,10,*,N2,Hereward,3.24,2.3
+1998,11,*,N2P,Hereward,4.76,3.03
+1998,12,*,N2PK,Hereward,4.56,3.06
+1998,13,*,N2PK,Hereward,4.02,3.12
+1998,14,*,N2PKMg*,Hereward,5.25,4.38
+1998,15,*,N5PKMg,Hereward,7.59,5.37
+1998,16,*,N6PKMg,Hereward,8.57,6.19
+1998,17,*,N0+3 1/2[PKMg](A),Hereward,6.78,5.03
+1998,18,*,N1+3 1/2[PKMg](A),Hereward,6.21,4.54
+1998,19,*,(C),Hereward,1.97,1.48
+1998,20,*,N2KMg,Hereward,2.68,2.25
+1999,2.1,*,FYM N2,Hereward,7.59,5.2
+1999,2.2,*,FYM,Hereward,4.78,3.2
+1999,3,*,Nil,Hereward,0.81,0.51
+1999,5,*,PKMg,Hereward,1.17,1.04
+1999,6,*,N1PKMg,Hereward,3.04,2.03
+1999,7,*,N2PKMg,Hereward,5.19,2.69
+1999,8,*,N3PKMg,Hereward,4.8,2.44
+1999,9,*,N4PKMg,Hereward,7.07,3.66
+1999,10,*,N2,Hereward,1.58,0.76
+1999,11,*,N2P,Hereward,2.92,1.53
+1999,12,*,N2PK,Hereward,2.5,1.47
+1999,13,*,N2PK,Hereward,4.7,2.58
+1999,14,*,N2PKMg*,Hereward,5.46,3.19
+1999,15,*,N5PKMg,Hereward,7.59,3.96
+1999,16,*,N6PKMg,Hereward,8.01,4.59
+1999,17,*,N0+3 1/2[PKMg](A),Hereward,6.39,3.14
+1999,18,*,N1+3 1/2[PKMg](A),Hereward,5.73,2.92
+1999,19,*,(C),Hereward,1.45,0.69
+1999,20,*,N2KMg,Hereward,1.86,1.99
+2000,2.1,*,FYM N2,Hereward,8.13,5.96
+2000,2.2,*,FYM,Hereward,6.56,4.93
+2000,3,*,Nil,Hereward,0.87,0.8
+2000,5,*,PKMg,Hereward,0.95,0.61
+2000,6,*,N1PKMg,Hereward,3.12,1.91
+2000,7,*,N2PKMg,Hereward,4.84,2.74
+2000,8,*,N3PKMg,Hereward,5.66,3.11
+2000,9,*,N4PKMg,Hereward,6.61,3.58
+2000,10,*,N2,Hereward,2.26,1.75
+2000,11,*,N2P,Hereward,3.28,2.2
+2000,12,*,N2PK,Hereward,3.7,2.19
+2000,13,*,N2PK,Hereward,4.36,2.33
+2000,14,*,N2PKMg*,Hereward,4.65,2.54
+2000,15,*,N5PKMg,Hereward,6.22,3.75
+2000,16,*,N6PKMg,Hereward,6.99,3.94
+2000,17,*,N0+3 1/2[PKMg](A),Hereward,6.42,3.46
+2000,18,*,N1+3 1/2[PKMg](A),Hereward,5.67,2.66
+2000,19,*,(C),Hereward,1.66,0.81
+2000,20,*,N2KMg,Hereward,2.06,1.21
+2001,2.1,*,FYM N2,Hereward,4.58,3.63
+2001,2.2,*,FYM,Hereward,2.17,1.87
+2001,3,*,Nil,Hereward,0.39,0.48
+2001,5,*,(P)KMg,Hereward,0.43,0.45
+2001,6,*,N1(P)KMg,Hereward,2.32,2.22
+2001,7,*,N2(P)KMg,Hereward,2.86,2.33
+2001,8,*,N3(P)KMg,Hereward,3.63,2.78
+2001,9,*,N4(P)KMg,Hereward,4.89,2.85
+2001,10,*,N4,Hereward,1.49,0.94
+2001,11,*,N4PMg,Hereward,1.96,1.39
+2001,12,*,N1+3+1(P)K2Mg2,Hereward,5.24,3.32
+2001,13,*,N4PK,Hereward,4.27,2.86
+2001,14,*,N4PK*(Mg*),Hereward,4.95,2.84
+2001,15,*,N5(P)KMg,Hereward,4.95,2.8
+2001,16,*,N6(P)KMg,Hereward,5.17,3.18
+2001,17,*,N1+4+1PKMg,Hereward,5.39,4.11
+2001,18,*,N1+2+1PKMg,Hereward,4.93,3.84
+2001,19,*,N1+1+1KMg,Hereward,4.46,2.84
+2001,20,*,N4KMg,Hereward,1.3,0.97
+2002,2.1,*,FYM N2,Hereward,7.67,3.54
+2002,2.2,*,FYM,Hereward,5.45,2.74
+2002,3,*,Nil,Hereward,0.47,0.13
+2002,5,*,(P)KMg,Hereward,0.41,0.11
+2002,6,*,N1(P)KMg,Hereward,1.51,0.7
+2002,7,*,N2(P)KMg,Hereward,2.72,1.49
+2002,8,*,N3(P)KMg,Hereward,3.08,1.63
+2002,9,*,N4(P)KMg,Hereward,5.73,2.31
+2002,10,*,N4,Hereward,0.66,0.45
+2002,11,*,N4PMg,Hereward,4.45,1.9
+2002,12,*,N1+3+1(P)K2Mg2,Hereward,5.05,2.54
+2002,13,*,N4PK,Hereward,5.31,2.63
+2002,14,*,N4PK*(Mg*),Hereward,5.44,2.37
+2002,15,*,N5(P)KMg,Hereward,4.02,2.05
+2002,16,*,N6(P)KMg,Hereward,7.15,2.99
+2002,17,*,N1+4+1PKMg,Hereward,6.12,3.67
+2002,18,*,N1+2+1PKMg,Hereward,3.89,1.82
+2002,19,*,N1+1+1KMg,Hereward,2.55,2.03
+2002,20,*,N4KMg,Hereward,0.14,0.09
+2003,2.1,*,FYM N2,Hereward,7.4,4.33
+2003,2.2,*,FYM,Hereward,5.07,3.71
+2003,3,*,Nil,Hereward,1.01,0.24
+2003,5,*,(P)KMg,Hereward,1.49,0.79
+2003,6,*,N1(P)KMg,Hereward,4.27,1.98
+2003,7,*,N2(P)KMg,Hereward,6.64,2.92
+2003,8,*,N3(P)KMg,Hereward,6.9,2.96
+2003,9,*,N4(P)KMg,Hereward,6.72,2.8
+2003,10,*,N4,Hereward,2.7,1.37
+2003,11,*,N4PMg,Hereward,3.97,1.42
+2003,12,*,N1+3+1(P)K2Mg2,Hereward,7.15,3.32
+2003,13,*,N4PK,Hereward,6.57,2.97
+2003,14,*,N4PK*(Mg*),Hereward,7,2.88
+2003,15,*,N5(P)KMg,Hereward,7.72,3.33
+2003,16,*,N6(P)KMg,Hereward,6.94,2.86
+2003,17,*,N1+4+1PKMg,Hereward,6.62,2.36
+2003,18,*,N1+2+1PKMg,Hereward,5.73,1.96
+2003,19,*,N1+1+1KMg,Hereward,5.5,2.16
+2003,20,*,N4KMg,Hereward,2.87,1.14
+2004,2.1,*,FYM N2,Hereward,6.09,2.62
+2004,2.2,*,FYM,Hereward,4.04,2.36
+2004,3,*,Nil,Hereward,0.71,0.11
+2004,5,*,(P)KMg,Hereward,1.11,0.28
+2004,6,*,N1(P)KMg,Hereward,2.84,1.5
+2004,7,*,N2(P)KMg,Hereward,4.09,1.32
+2004,8,*,N3(P)KMg,Hereward,4.5,1.6
+2004,9,*,N4(P)KMg,Hereward,5.78,2.02
+2004,10,*,N4,Hereward,2.26,1.14
+2004,11,*,N4PMg,Hereward,4.86,1.88
+2004,12,*,N1+3+1(P)K2Mg2,Hereward,5.78,3.28
+2004,13,*,N4PK,Hereward,5.17,1.93
+2004,14,*,N4PK*(Mg*),Hereward,5.17,2.01
+2004,15,*,N5(P)KMg,Hereward,3.43,1.38
+2004,16,*,N6(P)KMg,Hereward,6.43,2.73
+2004,17,*,N1+4+1PKMg,Hereward,6.06,3.44
+2004,18,*,N1+2+1PKMg,Hereward,5.27,2.83
+2004,19,*,N1+1+1KMg,Hereward,4.03,2.72
+2004,20,*,N4KMg,Hereward,1.86,0.48
+2005,2.1,*,FYM N2,Hereward,7.51,4.16
+2005,2.2,*,FYM,Hereward,4.18,1.81
+2005,3,*,Nil,Hereward,1.05,0.23
+2005,5,*,(P)KMg,Hereward,1.09,0.16
+2005,6,*,N1(P)KMg,Hereward,3.27,0.88
+2005,7,*,N2(P)KMg,Hereward,5.12,1.67
+2005,8,*,N3(P)KMg,Hereward,5.82,1.69
+2005,9,*,N4(P)KMg,Hereward,7.1,2.57
+2005,10,*,N4,Hereward,3.05,0.69
+2005,11,*,N4PMg,Hereward,4.05,1.07
+2005,12,*,N1+3+1(P)K2Mg2,Hereward,7,2.95
+2005,13,*,N4PK,Hereward,6.23,1.99
+2005,14,*,N4PK*(Mg*),Hereward,7.04,2.85
+2005,15,*,N5(P)KMg,Hereward,7.14,2.27
+2005,16,*,N6(P)KMg,Hereward,7.41,3.56
+2005,17,*,N1+4+1PKMg,Hereward,7.13,3.32
+2005,18,*,N1+2+1PKMg,Hereward,6.03,2.85
+2005,19,*,N1+1+1KMg,Hereward,5.47,2.55
+2005,20,*,N4KMg,Hereward,1.63,0.38
+2006,2.1,*,FYM N3,Hereward,7.85,6.24
+2006,2.2,*,FYM,Hereward,5.65,4.7
+2006,3,*,Nil,Hereward,1.12,0.41
+2006,5,*,(P)KMg,Hereward,1.26,0.29
+2006,6,*,N1(P)KMg,Hereward,3.19,1.22
+2006,7,*,N2(P)KMg,Hereward,5.59,2.59
+2006,8,*,N3(P)KMg,Hereward,6.17,2.9
+2006,9,*,N4(P)KMg,Hereward,7.31,3.43
+2006,10,*,N4,Hereward,3.04,1.22
+2006,11,*,N4PMg,Hereward,5.54,2.14
+2006,12,*,N1+3+1(P)KMg,Hereward,8.22,4.49
+2006,13,*,N4PK,Hereward,7.03,3.57
+2006,14,*,N4PK*(Mg*),Hereward,7.52,3.34
+2006,15,*,N5(P)KMg,Hereward,7.46,3.77
+2006,16,*,N6(P)KMg,Hereward,8.15,4.37
+2006,17,*,N1+4+1PKMg,Hereward,7.34,4.06
+2006,18,*,N1+2+1PKMg,Hereward,6.69,3.43
+2006,19,*,N1+1+1KMg,Hereward,6.32,3.05
+2006,20,*,N4KMg,Hereward,1.17,0.46
+2007,2.1,*,FYM N3,Hereward,6.21,2.21
+2007,2.2,*,FYM,Hereward,3.94,1.93
+2007,3,*,Nil,Hereward,0.85,0.16
+2007,5,*,(P)KMg,Hereward,1.05,0.23
+2007,6,*,N1(P)KMg,Hereward,2.02,0.33
+2007,7,*,N2(P)KMg,Hereward,3.22,0.84
+2007,8,*,N3(P)KMg,Hereward,3.12,0.81
+2007,9,*,N4(P)KMg,Hereward,4.93,1.62
+2007,10,*,N4,Hereward,1.11,0.3
+2007,11,*,N4PMg,Hereward,2.54,0.56
+2007,12,*,N1+3+1(P)KMg,Hereward,4.82,1.38
+2007,13,*,N4PK,Hereward,4.29,1.23
+2007,14,*,N4PK*(Mg*),Hereward,4.31,0.92
+2007,15,*,N5(P)KMg,Hereward,3.91,1.19
+2007,16,*,N6(P)KMg,Hereward,5.29,1.6
+2007,17,*,N1+4+1PKMg,Hereward,5.16,1.39
+2007,18,*,N1+2+1PKMg,Hereward,3.77,1.04
+2007,19,*,N1+1+1KMg,Hereward,3.91,1.15
+2007,20,*,N4KMg,Hereward,0.41,0.02
+2008,2.1,*,FYM N3,Hereward,7.5,4.12
+2008,2.2,*,FYM,Hereward,5.02,2.19
+2008,3,*,Nil,Hereward,0.03,0.01
+2008,5,*,(P)KMg,Hereward,0.68,0.07
+2008,6,*,N1(P)KMg,Hereward,3.75,1.63
+2008,7,*,N2(P)KMg,Hereward,5.89,2.49
+2008,8,*,N3(P)KMg,Hereward,6.46,2.81
+2008,9,*,N4(P)KMg,Hereward,7.73,3.88
+2008,10,*,N4,Hereward,2.66,1.2
+2008,11,*,N4PMg,Hereward,3.39,1.14
+2008,12,*,N1+3+1(P)KMg,Hereward,8.41,4.08
+2008,13,*,N4PK,Hereward,7.62,3.55
+2008,14,*,N4PK*(Mg*),Hereward,7.74,3.16
+2008,15,*,N5(P)KMg,Hereward,7.65,3.83
+2008,16,*,N6(P)KMg,Hereward,8.29,4.14
+2008,17,*,N1+4+1PKMg,Hereward,7.87,3.83
+2008,18,*,N1+2+1PKMg,Hereward,7.06,4.07
+2008,19,*,N1+1+1KMg,Hereward,6.5,2.74
+2008,20,*,N4KMg,Hereward,0.82,0.37
+2009,2.1,*,FYM N3,Hereward,7.62,4.34
+2009,2.2,*,FYM,Hereward,5.56,4.4
+2009,3,*,Nil,Hereward,2.05,0.84
+2009,5,*,(P)KMg,Hereward,1.71,0.86
+2009,6,*,N1(P)KMg,Hereward,2.67,1.17
+2009,7,*,N2(P)KMg,Hereward,3.83,1.81
+2009,8,*,N3(P)KMg,Hereward,3.63,1.74
+2009,9,*,N4(P)KMg,Hereward,3.86,1.79
+2009,10,*,N4,Hereward,1.06,0.62
+2009,11,*,N4PMg,Hereward,4.59,1.88
+2009,12,*,N1+3+1(P)KMg,Hereward,4.98,2.66
+2009,13,*,N4PK,Hereward,3.81,1.66
+2009,14,*,N4PK*(Mg*),Hereward,3.66,1.76
+2009,15,*,N5(P)KMg,Hereward,4.64,2.64
+2009,16,*,N6(P)KMg,Hereward,4.53,2.65
+2009,17,*,N1+4+1PKMg,Hereward,4.76,2.94
+2009,18,*,N1+2+1PKMg,Hereward,3.62,2.25
+2009,19,*,N1+1+1KMg,Hereward,3.27,2.9
+2009,20,*,N4KMg,Hereward,0.68,0.36
+2010,2.1,*,FYM N3,Hereward,5.89,3.4
+2010,2.2,*,FYM,Hereward,3.79,2.15
+2010,3,*,Nil,Hereward,1.02,0.33
+2010,5,*,(P)KMg,Hereward,1.25,0.34
+2010,6,*,N1(P)KMg,Hereward,3.74,1.47
+2010,7,*,N2(P)KMg,Hereward,5.85,2.3
+2010,8,*,N3(P)KMg,Hereward,6.09,2.54
+2010,9,*,N4(P)KMg,Hereward,6.47,2.82
+2010,10,*,N4,Hereward,1.67,0.89
+2010,11,*,N4PMg,Hereward,4.98,1.94
+2010,12,*,N1+3+1(P)KMg,Hereward,7.12,3.61
+2010,13,*,N4PK,Hereward,6.23,2.75
+2010,14,*,N4PK*(Mg*),Hereward,6.6,3.06
+2010,15,*,N5(P)KMg,Hereward,6.55,3.06
+2010,16,*,N6(P)KMg,Hereward,6.86,3.29
+2010,17,*,N1+4+1PKMg,Hereward,6.6,3.56
+2010,18,*,N1+2+1PKMg,Hereward,6.15,3.28
+2010,19,*,N1+1+1KMg,Hereward,4.57,2.49
+2010,20,*,N4KMg,Hereward,0.66,0.22
+2011,2.1,*,FYM N3,Hereward,7.37,3.1
+2011,2.2,*,FYM,Hereward,5.89,2.22
+2011,3,*,Nil,Hereward,1.11,0.27
+2011,5,*,(P)KMg,Hereward,1.8,0.57
+2011,6,*,N1(P)KMg,Hereward,2.62,1.03
+2011,7,*,N2(P)KMg,Hereward,4.43,1.72
+2011,8,*,N3(P)KMg,Hereward,4.12,1.19
+2011,9,*,N4(P)KMg,Hereward,4.83,1.74
+2011,10,*,N4,Hereward,1.7,0.73
+2011,11,*,N4PMg,Hereward,4.33,1.54
+2011,12,*,N1+3+1(P)KMg,Hereward,5.44,2.17
+2011,13,*,N4PK,Hereward,4.62,1.8
+2011,14,*,N4PK*(Mg*),Hereward,5.33,2.04
+2011,15,*,N5(P)KMg,Hereward,5.15,2.08
+2011,16,*,N6(P)KMg,Hereward,5.3,2.27
+2011,17,*,N1+4+1PKMg,Hereward,5.38,2.14
+2011,18,*,N1+2+1PKMg,Hereward,4.72,1.94
+2011,19,*,N1+1+1KMg,Hereward,3.96,1.93
+2011,20,*,N4KMg,Hereward,0.78,0.25
+2012,2.1,*,FYM N3,Hereward,6.52,4.3
+2012,2.2,*,FYM,Hereward,5.09,4.3
+2012,3,*,Nil,Hereward,0.54,0.15
+2012,5,*,(P)KMg,Hereward,1.21,0.17
+2012,6,*,N1(P)KMg,Hereward,3.32,1.44
+2012,7,*,N2(P)KMg,Hereward,5.19,2.31
+2012,8,*,N3(P)KMg,Hereward,6.37,3.67
+2012,9,*,N4(P)KMg,Hereward,6.36,3.52
+2012,10,*,N4,Hereward,1.48,0.75
+2012,11,*,N4PMg,Hereward,3.29,1.28
+2012,12,*,N1+3+1(P)KMg,Hereward,6.49,4.02
+2012,13,*,N4PK,Hereward,6.12,3.03
+2012,14,*,N4PK*(Mg*),Hereward,6.15,3.18
+2012,15,*,N5(P)KMg,Hereward,7.12,4.56
+2012,16,*,N6(P)KMg,Hereward,7.06,4.41
+2012,17,*,N1+4+1PKMg,Hereward,6.76,4.62
+2012,18,*,N1+2+1PKMg,Hereward,6.62,4
+2012,19,*,N1+1+1KMg,Hereward,5.66,3.23
+2012,20,*,N4KMg,Hereward,0.14, 
+2013,2.1,*,FYM N3,Crusoe,5.95,2.65
+2013,2.2,*,FYM,Crusoe,4.84,1.69
+2013,3,*,Nil,Crusoe,1.6,0.34
+2013,5,*,(P)KMg,Crusoe,1.95,0.48
+2013,6,*,N1(P)KMg,Crusoe,3.58,1.12
+2013,7,*,N2(P)KMg,Crusoe,5.23,1.77
+2013,8,*,N3(P)KMg,Crusoe,5.95,2.59
+2013,9,*,N4(P)KMg,Crusoe,6.08,2.54
+2013,10,*,N4,Crusoe,2.88,0.58
+2013,11,*,N4PMg,Crusoe,4.35,1.39
+2013,12,*,N1+3+1(P)KMg,Crusoe,5.87,2.06
+2013,13,*,N4PK,Crusoe,5.84,1.85
+2013,14,*,N4PK*(Mg*),Crusoe,6.56,2.15
+2013,15,*,N5(P)KMg,Crusoe,6.76,2.98
+2013,16,*,N6(P)KMg,Crusoe,6.56,2.19
+2013,17,*,N1+4+1PKMg,Crusoe,6.72,3.2
+2013,18,*,N1+2+1PKMg,Crusoe,6.58,2.84
+2013,19,*,N1+1+1KMg,Crusoe,4.94,2.13
+2013,20,*,N4KMg,Crusoe,1.07,0.13
+2014,2.1,*,FYM N3,Crusoe,7.05,4.97
+2014,2.2,*,FYM,Crusoe,4.2,3.15
+2014,3,*,Nil,Crusoe,1.37,0.7
+2014,5,*,(P)KMg,Crusoe,1.47,0.62
+2014,6,*,N1(P)KMg,Crusoe,3.29,1.9
+2014,7,*,N2(P)KMg,Crusoe,4.71,2.57
+2014,8,*,N3(P)KMg,Crusoe,5.91,3.27
+2014,9,*,N4(P)KMg,Crusoe,7.51,4.27
+2014,10,*,N4,Crusoe,2.34,1.63
+2014,11,*,N4PMg,Crusoe,6.08,3.59
+2014,12,*,N1+3+1(P)KMg,Crusoe,8.35,5.26
+2014,13,*,N4PK,Crusoe,7.63,4.05
+2014,14,*,N4PK*(Mg*),Crusoe,5.48,3.2
+2014,15,*,N5(P)KMg,Crusoe,8.12,4.66
+2014,16,*,N6(P)KMg,Crusoe,7.65,4.88
+2014,17,*,N1+4+1PKMg,Crusoe,8.19,4.6
+2014,18,*,N1+2+1PKMg,Crusoe,6.02,3.86
+2014,19,*,N1+1+1KMg,Crusoe,5.33,3.62
+2014,20,*,N4KMg,Crusoe,1.02,0.97
+2015,2.1,*,FYM N3,Mulika,6.75,4.22
+2015,2.2,*,FYM,Mulika,6.55,3.11
+2015,3,*,Nil,Mulika,1.45,0.69
+2015,5,*,(P)KMg,Mulika,1.58,0.6
+2015,6,*,N1(P)KMg,Mulika,3.47,1.56
+2015,7,*,N2(P)KMg,Mulika,5.08,2.5
+2015,8,*,N3(P)KMg,Mulika,6.05,3.33
+2015,9,*,N4(P)KMg,Mulika,6.34,3.53
+2015,10,*,N4,Mulika,4.11,1.38
+2015,11,*,N4PMg,Mulika,4.9,1.82
+2015,12,*,N1+3+1(P)KMg,Mulika,6.59,3.4
+2015,13,*,N4PK,Mulika,5.41,3.36
+2015,14,*,N4PK*(Mg*),Mulika,7.01,2.91
+2015,15,*,N5(P)KMg,Mulika,5.81,2.76
+2015,16,*,N6(P)KMg,Mulika,5.45,2.93
+2015,17,*,N1+4+1PKMg,Mulika,6.63,3.29
+2015,18,*,N1+2+1PKMg,Mulika,6.79,3.67
+2015,19,*,N1+1+1KMg,Mulika,5.91,2.7
+2015,20,*,N4KMg,Mulika,1.24,0.54
+2016,2.1,*,FYM N3,Crusoe,8.91,4.75
+2016,2.2,*,FYM,Crusoe,3.89,2.25
+2016,3,*,Nil,Crusoe,0.9,0.18
+2016,5,*,(P)KMg,Crusoe,0.97,0.17
+2016,6,*,N1(P)KMg,Crusoe,2.85,1.33
+2016,7,*,N2(P)KMg,Crusoe,4.55,2.29
+2016,8,*,N3(P)KMg,Crusoe,5.66,2.52
+2016,9,*,N4(P)KMg,Crusoe,7.1,3.4
+2016,10,*,N4,Crusoe,1.43,0.68
+2016,11,*,N4PMg,Crusoe,5.71,2.56
+2016,12,*,N1+3+1(P)KMg,Crusoe,8.79,4.3
+2016,13,*,N4PK,Crusoe,7.73,3.5
+2016,14,*,N4PK*(Mg*),Crusoe,4.9,2.27
+2016,15,*,N5(P)KMg,Crusoe,7.79,3.51
+2016,16,*,N6(P)KMg,Crusoe,7.55,3.36
+2016,17,*,N1+4+1PKMg,Crusoe,8.25,3.81
+2016,18,*,N1+2+1PKMg,Crusoe,7.48,3.1
+2016,19,*,N1+1+1KMg,Crusoe,6.07,2.94
+2016,20,*,N4KMg,Crusoe,0.74,0.35
+2017,2.1,*,FYM N3,Crusoe,4.61,2.98
+2017,2.2,*,FYM,Crusoe,4.63,2.63
+2017,3,*,Nil,Crusoe,0.68,0.5
+2017,5,*,(P)KMg,Crusoe,0.97,0.54
+2017,6,*,N1(P)KMg,Crusoe,2.13,0.96
+2017,7,*,N2(P)KMg,Crusoe,2.57,1.43
+2017,8,*,N3(P)KMg,Crusoe,2.98,1.45
+2017,9,*,N4(P)KMg,Crusoe,2.69,1.3
+2017,10,*,N4,Crusoe,1.36,1.01
+2017,11,*,N4PMg,Crusoe,2.37,1.52
+2017,12,*,N1+3+1(P)KMg,Crusoe,3.73,2.4
+2017,13,*,N4PK,Crusoe,2.49,1.36
+2017,14,*,N4PK*(Mg*),Crusoe,4.15,2.03
+2017,15,*,N5(P)KMg,Crusoe,3.6,2.33
+2017,16,*,N6(P)KMg,Crusoe,4.16,2.98
+2017,17,*,N1+4+1PKMg,Crusoe,4.42,2.61
+2017,18,*,N1+2+1PKMg,Crusoe,3.51,2.07
+2017,19,*,N1+1+1KMg,Crusoe,3.09,1.94
+2017,20,*,N4KMg,Crusoe,0.37,0.41
+2018,2.1,*,FYM N3,Crusoe,8.26,5.46
+2018,2.2,*,FYM,Crusoe,6.89,2.68
+2018,3,*,Nil,Crusoe,0.52,0.2
+2018,5,*,(P)KMg,Crusoe,0.85,0.14
+2018,6,*,N1(P)KMg,Crusoe,2.17,0.87
+2018,7,*,N2(P)KMg,Crusoe,4.85,1.44
+2018,8,*,N3(P)KMg,Crusoe,5.2,1.82
+2018,9,*,N4(P)KMg,Crusoe,5.93,2.54
+2018,10,*,N4,Crusoe,1.21,0.64
+2018,11,*,N4(P*)Mg,Crusoe,5.88,2.15
+2018,12,*,N1+3+1(P)KMg,Crusoe,6.83,2.24
+2018,13,*,N4(P*)K,Crusoe,6.17,2.16
+2018,14,*,N4(P*)K*(Mg*),Crusoe,5.15,1.95
+2018,15,*,N5(P)KMg,Crusoe,6.4,2.41
+2018,16,*,N6(P)KMg,Crusoe,6.47,2.87
+2018,17,*,N1+4+1PKMg,Crusoe,6.23,2.66
+2018,18,*,N1+2+1PKMg,Crusoe,5.46,1.83
+2018,19,*,N1+1+1KMg,Crusoe,3.61,1.58
+2018,20,*,N4KMg,Crusoe,0.58,0.22
+1928,2.1,*,FYM,Red Standard,3.57,6.72
+1929,2.1,*,FYM,Squarehead's Master,1.89,4
+1930,2.1,*,FYM,Red Standard,1.28,3.4
+1931,2.1,*,FYM,Red Standard,1.2,4.65
+1933,2.1,*,FYM,Red Standard,3.3,8.02
+1934,2.1,*,FYM,Red Standard,3.47,7.57
+1935,2.1,*,FYM,Red Standard,2,6.81
+1936,2.1,*,FYM,Red Standard,0.88,4.75
+1938,2.1,*,FYM,Red Standard,5.42,7.73
+1939,2.1,*,FYM,Red Standard,2.32,5.03
+1940,2.1,*,FYM,Squarehead's Master,3.47,5.3
+1941,2.1,*,FYM,Squarehead's Master,1.19,3.19
+1943,2.1,*,FYM,Squarehead's Master,3.58,7.84
+1944,2.1,*,FYM,Red Standard,2.85,6.09
+1945,2.1,*,FYM,Red Standard,2.9,5.44
+1946,2.1,*,FYM,Squarehead's Master,2.24,5.66
+1948,2.1,*,FYM,Squarehead's Master,4.06,7.79
+1949,2.1,*,FYM,Squarehead's Master,3.29,6.61
+1950,2.1,*,FYM,Squarehead's Master,2.86,6.82
+1951,2.1,*,FYM,Squarehead's Master,2.38,3.73
+1953,2.1,*,FYM,Squarehead's Master,3.68,7.57
+1954,2.1,*,FYM,Squarehead's Master,2.85,6.15
+1955,2.1,*,FYM,Squarehead's Master,3.25,5.07
+1956,2.1,*,FYM,Squarehead's Master,2.84,5.52
+1958,2.1,*,FYM,Squarehead's Master,2.94,5.35
+1959,2.1,*,FYM,Squarehead's Master,3.16,2.67
+1960,2.1,*,FYM,Squarehead's Master,2.92,4.38
+1961,2.1,*,FYM,Squarehead's Master,2.24,2.85
+1963,2.1,*,FYM,Squarehead's Master,3.44,5.76
+1964,2.1,*,FYM,Squarehead's Master,3.81,4.17
+1965,2.1,*,FYM,Squarehead's Master,3.45,4.31
+1966,2.1,*,FYM,Squarehead's Master,3.76,3.72
+1928,2.2,*,FYM,Red Standard,3.55,7.11
+1929,2.2,*,FYM,Squarehead's Master,2.38,5.24
+1930,2.2,*,FYM,Red Standard,1.52,3.51
+1931,2.2,*,FYM,Red Standard,1.17,5.43
+1933,2.2,*,FYM,Red Standard,2.58,8.01
+1934,2.2,*,FYM,Red Standard,2.93,7.76
+1935,2.2,*,FYM,Red Standard,1.87,7.88
+1936,2.2,*,FYM,Red Standard,1.25,5.1
+1938,2.2,*,FYM,Red Standard,5.6,8.05
+1939,2.2,*,FYM,Red Standard,2.95,6.48
+1940,2.2,*,FYM,Squarehead's Master,4.05,5.84
+1941,2.2,*,FYM,Squarehead's Master,1.15,3.23
+1943,2.2,*,FYM,Squarehead's Master,3.73,8.27
+1944,2.2,*,FYM,Red Standard,3.45,6.47
+1945,2.2,*,FYM,Red Standard,3.14,5.83
+1946,2.2,*,FYM,Squarehead's Master,2.79,6.1
+1948,2.2,*,FYM,Squarehead's Master,4.52,8.65
+1949,2.2,*,FYM,Squarehead's Master,3.62,7.1
+1950,2.2,*,FYM,Squarehead's Master,3.05,7.49
+1951,2.2,*,FYM,Squarehead's Master,2.64,4.19
+1953,2.2,*,FYM,Squarehead's Master,3.11,7.28
+1954,2.2,*,FYM,Squarehead's Master,3.07,6.74
+1955,2.2,*,FYM,Squarehead's Master,2.68,5.71
+1956,2.2,*,FYM,Squarehead's Master,2.53,4.86
+1958,2.2,*,FYM,Squarehead's Master,3.03,6.83
+1959,2.2,*,FYM,Squarehead's Master,3.48,3.08
+1960,2.2,*,FYM,Squarehead's Master,2.66,4.75
+1961,2.2,*,FYM,Squarehead's Master,2.74,3.66
+1963,2.2,*,FYM,Squarehead's Master,3.39,5.87
+1964,2.2,*,FYM,Squarehead's Master,3.16,4.29
+1965,2.2,*,FYM,Squarehead's Master,3.34,5.3
+1966,2.2,*,FYM,Squarehead's Master,4.25,4.12
+1928,3,*,Nil,Red Standard,1.91,3.07
+1929,3,*,Nil,Squarehead's Master,0.7,1.37
+1930,3,*,Nil,Red Standard,0.57,0.71
+1931,3,*,Nil,Red Standard,0.53,1.31
+1933,3,*,Nil,Red Standard,2.5,3.63
+1934,3,*,Nil,Red Standard,1.32,1.74
+1935,3,*,Nil,Red Standard,0.39,1.19
+1936,3,*,Nil,Red Standard,0.78,2.37
+1938,3,*,Nil,Red Standard,2.83,3.21
+1939,3,*,Nil,Red Standard,0.96,2.13
+1940,3,*,Nil,Squarehead's Master,1.58,2.1
+1941,3,*,Nil,Squarehead's Master,0.59,0.98
+1943,3,*,Nil,Squarehead's Master,3.13,4.76
+1944,3,*,Nil,Red Standard,1.04,1.51
+1945,3,*,Nil,Red Standard,0.81,1.36
+1946,3,*,Nil,Squarehead's Master,0.92,1.99
+1948,3,*,Nil,Squarehead's Master,2.18,4
+1949,3,*,Nil,Squarehead's Master,1.3,1.94
+1950,3,*,Nil,Squarehead's Master,0.9,1.63
+1951,3,*,Nil,Squarehead's Master,1.02,1.39
+1953,3,*,Nil,Squarehead's Master,2.07,4.41
+1954,3,*,Nil,Squarehead's Master,0.98,2.11
+1955,3,*,Nil,Squarehead's Master,1.4,2.25
+1956,3,*,Nil,Squarehead's Master,1.09,1.64
+1958,3,*,Nil,Squarehead's Master,2.57,2.91
+1959,3,*,Nil,Squarehead's Master,1.49,1.09
+1960,3,*,Nil,Squarehead's Master,1.27,1.66
+1961,3,*,Nil,Squarehead's Master,1.6,1.32
+1963,3,*,Nil,Squarehead's Master,1.43,2.55
+1964,3,*,Nil,Squarehead's Master,1.62,1.59
+1965,3,*,Nil,Squarehead's Master,1.03,1.59
+1966,3,*,Nil,Squarehead's Master,1.47,1.32
+1928,5,*,PKNaMg,Red Standard,2.39,3.79
+1929,5,*,PKNaMg,Squarehead's Master,0.68,1.15
+1930,5,*,PKNaMg,Red Standard,0.54,1.09
+1931,5,*,PKNaMg,Red Standard,0.68,1.78
+1933,5,*,PKNaMg,Red Standard,2.38,4.14
+1934,5,*,PKNaMg,Red Standard,1.22,1.65
+1935,5,*,PKNaMg,Red Standard,0.59,2
+1936,5,*,PKNaMg,Red Standard,0.77,3.66
+1938,5,*,PKNaMg,Red Standard,3.78,4.69
+1939,5,*,PKNaMg,Red Standard,1.24,3.13
+1940,5,*,PKNaMg,Squarehead's Master,1.81,2.24
+1941,5,*,PKNaMg,Squarehead's Master,0.75,1.26
+1943,5,*,PKNaMg,Squarehead's Master,3.13,5.44
+1944,5,*,PKNaMg,Red Standard,1.12,1.48
+1945,5,*,PKNaMg,Red Standard,1.24,1.67
+1946,5,*,PKNaMg,Squarehead's Master,1.26,3.05
+1948,5,*,PKNaMg,Squarehead's Master,2.63,4.8
+1949,5,*,PKNaMg,Squarehead's Master,0.92,1.87
+1950,5,*,PKNaMg,Squarehead's Master,1.02,2.93
+1951,5,*,PKNaMg,Squarehead's Master,1.31,2.37
+1953,5,*,PKNaMg,Squarehead's Master,1.45,4.09
+1954,5,*,PKNaMg,Squarehead's Master,1.82,4.49
+1955,5,*,PKNaMg,Squarehead's Master,1.59,3.2
+1956,5,*,PKNaMg,Squarehead's Master,1.65,2.56
+1958,5,*,PKNaMg,Squarehead's Master,1.77,2.56
+1959,5,*,PKNaMg,Squarehead's Master,2.22,2.23
+1960,5,*,PKNaMg,Squarehead's Master,1.44,2.4
+1961,5,*,PKNaMg,Squarehead's Master,1.76,2.27
+1963,5,*,PKNaMg,Squarehead's Master,1.78,3.77
+1964,5,*,PKNaMg,Squarehead's Master,2.14,2.35
+1965,5,*,PKNaMg,Squarehead's Master,1.17,1.01
+1966,5,*,PKNaMg,Squarehead's Master,1.95,1.87
+1928,6,*,N1PKNaMg,Red Standard,3.16,5.18
+1929,6,*,N1PKNaMg,Squarehead's Master,1.23,2.09
+1930,6,*,N1PKNaMg,Red Standard,0.72,1.48
+1931,6,*,N1PKNaMg,Red Standard,1,2.8
+1933,6,*,N1PKNaMg,Red Standard,2.46,4.7
+1934,6,*,N1PKNaMg,Red Standard,2.36,3.78
+1935,6,*,N1PKNaMg,Red Standard,0.98,2.68
+1936,6,*,N1PKNaMg,Red Standard,1.04,3.36
+1938,6,*,N1PKNaMg,Red Standard,4.12,5.12
+1939,6,*,N1PKNaMg,Red Standard,1.74,4.25
+1940,6,*,N1PKNaMg,Squarehead's Master,2.23,2.97
+1941,6,*,N1PKNaMg,Squarehead's Master,0.96,1.76
+1943,6,*,N1PKNaMg,Squarehead's Master,3.14,5.81
+1944,6,*,N1PKNaMg,Red Standard,1.46,2.34
+1945,6,*,N1PKNaMg,Red Standard,1.43,2.44
+1946,6,*,N1PKNaMg,Squarehead's Master,1.1,3.37
+1948,6,*,N1PKNaMg,Squarehead's Master,2.71,5.27
+1949,6,*,N1PKNaMg,Squarehead's Master,1.54,2.76
+1950,6,*,N1PKNaMg,Squarehead's Master,1.12,3.38
+1951,6,*,N1PKNaMg,Squarehead's Master,1.53,2.88
+1953,6,*,N1PKNaMg,Squarehead's Master,2.24,5.84
+1954,6,*,N1PKNaMg,Squarehead's Master,2.06,4.83
+1955,6,*,N1PKNaMg,Squarehead's Master,2.06,3.42
+1956,6,*,N1PKNaMg,Squarehead's Master,1.98,2.81
+1958,6,*,N1PKNaMg,Squarehead's Master,2.37,4.28
+1959,6,*,N1PKNaMg,Squarehead's Master,2.42,2.51
+1960,6,*,N1PKNaMg,Squarehead's Master,1.66,2.59
+1961,6,*,N1PKNaMg,Squarehead's Master,2.05,2.46
+1963,6,*,N1PKNaMg,Squarehead's Master,1.86,3.69
+1964,6,*,N1PKNaMg,Squarehead's Master,2.61,2.95
+1965,6,*,N1PKNaMg,Squarehead's Master,1.85,2.5
+1966,6,*,N1PKNaMg,Squarehead's Master,2.83,2.84
+1928,7,*,N2PKNaMg,Red Standard,4.62,7.26
+1929,7,*,N2PKNaMg,Squarehead's Master,1.63,3.77
+1930,7,*,N2PKNaMg,Red Standard,1.18,2.68
+1931,7,*,N2PKNaMg,Red Standard,1.17,4.23
+1933,7,*,N2PKNaMg,Red Standard,2.57,5.82
+1934,7,*,N2PKNaMg,Red Standard,3.58,6.06
+1935,7,*,N2PKNaMg,Red Standard,2.02,4.09
+1936,7,*,N2PKNaMg,Red Standard,1.22,3.35
+1938,7,*,N2PKNaMg,Red Standard,4.28,5.59
+1939,7,*,N2PKNaMg,Red Standard,2.42,5.45
+1940,7,*,N2PKNaMg,Squarehead's Master,3.07,4.73
+1941,7,*,N2PKNaMg,Squarehead's Master,1.41,2.79
+1943,7,*,N2PKNaMg,Squarehead's Master,3.58,6.83
+1944,7,*,N2PKNaMg,Red Standard,2.42,4.63
+1945,7,*,N2PKNaMg,Red Standard,2.03,3.7
+1946,7,*,N2PKNaMg,Squarehead's Master,1.8,4.57
+1948,7,*,N2PKNaMg,Squarehead's Master,3.28,6.01
+1949,7,*,N2PKNaMg,Squarehead's Master,2.27,3.76
+1950,7,*,N2PKNaMg,Squarehead's Master,2.13,4.04
+1951,7,*,N2PKNaMg,Squarehead's Master,1.77,3.61
+1953,7,*,N2PKNaMg,Squarehead's Master,2.05,5.89
+1954,7,*,N2PKNaMg,Squarehead's Master,2.7,5.53
+1955,7,*,N2PKNaMg,Squarehead's Master,2.45,4.37
+1956,7,*,N2PKNaMg,Squarehead's Master,2.26,3.7
+1958,7,*,N2PKNaMg,Squarehead's Master,2.74,4.52
+1959,7,*,N2PKNaMg,Squarehead's Master,3.23,3.4
+1960,7,*,N2PKNaMg,Squarehead's Master,2.35,3.69
+1961,7,*,N2PKNaMg,Squarehead's Master,2.34,3.31
+1963,7,*,N2PKNaMg,Squarehead's Master,2.04,5.45
+1964,7,*,N2PKNaMg,Squarehead's Master,3.28,4.36
+1965,7,*,N2PKNaMg,Squarehead's Master,2.9,4.34
+1966,7,*,N2PKNaMg,Squarehead's Master,3.53,3.35
+1928,8,*,N3PKNaMg,Red Standard,4.6,8.03
+1929,8,*,N3PKNaMg,Squarehead's Master,1.4,6.4
+1930,8,*,N3PKNaMg,Red Standard,1.6,4.38
+1931,8,*,N3PKNaMg,Red Standard,1.28,6.36
+1933,8,*,N3PKNaMg,Red Standard,2.4,6.37
+1934,8,*,N3PKNaMg,Red Standard,4.24,7.59
+1935,8,*,N3PKNaMg,Red Standard,1.89,8
+1936,8,*,N3PKNaMg,Red Standard,1.5,5.21
+1938,8,*,N3PKNaMg,Red Standard,4.82,6.55
+1939,8,*,N3PKNaMg,Red Standard,2.71,6.87
+1940,8,*,N3PKNaMg,Squarehead's Master,3.43,5.97
+1941,8,*,N3PKNaMg,Squarehead's Master,2.04,4.4
+1943,8,*,N3PKNaMg,Squarehead's Master,3.42,7.38
+1944,8,*,N3PKNaMg,Red Standard,2.97,5.57
+1945,8,*,N3PKNaMg,Red Standard,2.83,5.14
+1946,8,*,N3PKNaMg,Squarehead's Master,2.13,6.61
+1948,8,*,N3PKNaMg,Squarehead's Master,3.57,6.93
+1949,8,*,N3PKNaMg,Squarehead's Master,3.03,5.3
+1950,8,*,N3PKNaMg,Squarehead's Master,2.18,5.15
+1951,8,*,N3PKNaMg,Squarehead's Master,2.59,5.62
+1953,8,*,N3PKNaMg,Squarehead's Master,2.75,6.13
+1954,8,*,N3PKNaMg,Squarehead's Master,3.25,6.38
+1955,8,*,N3PKNaMg,Squarehead's Master,2.99,5.23
+1956,8,*,N3PKNaMg,Squarehead's Master,2.42,3.65
+1958,8,*,N3PKNaMg,Squarehead's Master,3.12,3.2
+1959,8,*,N3PKNaMg,Squarehead's Master,3.87,3.88
+1960,8,*,N3PKNaMg,Squarehead's Master,2.95,4.16
+1961,8,*,N3PKNaMg,Squarehead's Master,2.98,4.69
+1963,8,*,N3PKNaMg,Squarehead's Master,2.1,5.67
+1964,8,*,N3PKNaMg,Squarehead's Master,3.51,6.33
+1965,8,*,N3PKNaMg,Squarehead's Master,2.91,4.85
+1966,8,*,N3PKNaMg,Squarehead's Master,3.94,4.22
+1928,9,*,N1*PKNaMg,Red Standard,4.08,6.41
+1929,9,*,N1*PKNaMg,Squarehead's Master,1.72,3.91
+1930,9,*,N1*PKNaMg,Red Standard,1.18,2.81
+1931,9,*,N1*PKNaMg,Red Standard,1.21,3.55
+1933,9,*,N1*PKNaMg,Red Standard,2.53,5.29
+1934,9,*,N1*PKNaMg,Red Standard,2.75,4.43
+1935,9,*,N1*PKNaMg,Red Standard,1.43,4.02
+1936,9,*,N1*PKNaMg,Red Standard,1.04,3.27
+1938,9,*,N1*PKNaMg,Red Standard,4.39,5.46
+1939,9,*,N1*PKNaMg,Red Standard,2.04,4.41
+1940,9,*,N1*PKNaMg,Squarehead's Master,2.63,4.15
+1941,9,*,N1*PKNaMg,Squarehead's Master,1.46,2.86
+1943,9,*,N1*PKNaMg,Squarehead's Master,3.32,5.87
+1944,9,*,N1*PKNaMg,Red Standard,1.75,2.79
+1945,9,*,N1*PKNaMg,Red Standard,1.66,2.83
+1946,9,*,N1*PKNaMg,Squarehead's Master,1.51,4.01
+1948,9,*,N1*PKNaMg,Squarehead's Master,2.78,5.03
+1949,9,*,N1*PKNaMg,Squarehead's Master,1.74,2.93
+1950,9,*,N1*PKNaMg,Squarehead's Master,1.67,3.17
+1951,9,*,N1*PKNaMg,Squarehead's Master,1.67,3.05
+1953,9,*,N1*PKNaMg,Squarehead's Master,2.49,5.75
+1954,9,*,N1*PKNaMg,Squarehead's Master,2.11,4.01
+1955,9,*,N1*PKNaMg,Squarehead's Master,2.38,3.52
+1956,9,*,N1*PKNaMg,Squarehead's Master,1.54,2.4
+1958,9,*,N1*PKNaMg,Squarehead's Master,3.28,5.88
+1959,9,*,N1*PKNaMg,Squarehead's Master,2.42,2.75
+1960,9,*,N1*PKNaMg,Squarehead's Master,1.88,2.76
+1961,9,*,N1*PKNaMg,Squarehead's Master,2.16,2.44
+1963,9,*,N1*PKNaMg,Squarehead's Master,1.59,4.61
+1964,9,*,N1*PKNaMg,Squarehead's Master,2.41,3.26
+1965,9,*,N1*PKNaMg,Squarehead's Master,2.41,3.52
+1966,9,*,N1*PKNaMg,Squarehead's Master,3.01,3.26
+1928,10,*,N2,Red Standard,3.18,5.1
+1929,10,*,N2,Squarehead's Master,1.66,3.69
+1930,10,*,N2,Red Standard,1.02,2.15
+1931,10,*,N2,Red Standard,1.58,3.67
+1933,10,*,N2,Red Standard,2.79,4.88
+1934,10,*,N2,Red Standard,3.49,4.62
+1935,10,*,N2,Red Standard,1.53,3.86
+1936,10,*,N2,Red Standard,1.02,2.6
+1938,10,*,N2,Red Standard,3.17,3.3
+1939,10,*,N2,Red Standard,2.46,4.47
+1940,10,*,N2,Squarehead's Master,2.2,2.75
+1941,10,*,N2,Squarehead's Master,1.53,2.19
+1943,10,*,N2,Squarehead's Master,3.02,4.57
+1944,10,*,N2,Red Standard,2.31,3.44
+1945,10,*,N2,Red Standard,1.92,3.03
+1946,10,*,N2,Squarehead's Master,2.12,4.15
+1948,10,*,N2,Squarehead's Master,1.78,4.04
+1949,10,*,N2,Squarehead's Master,2.57,3.9
+1950,10,*,N2,Squarehead's Master,1.94,3.02
+1951,10,*,N2,Squarehead's Master,1.73,2.8
+1953,10,*,N2,Squarehead's Master,2.06,4.36
+1954,10,*,N2,Squarehead's Master,2.17,3.51
+1955,10,*,N2,Squarehead's Master,1.88,2.64
+1956,10,*,N2,Squarehead's Master,1.01,1.95
+1958,10,*,N2,Squarehead's Master,2.32,2.85
+1959,10,*,N2,Squarehead's Master,2.72,1.57
+1960,10,*,N2,Squarehead's Master,2.17,2.4
+1961,10,*,N2,Squarehead's Master,2.61,2.73
+1963,10,*,N2,Squarehead's Master, , 
+1964,10,*,N2,Squarehead's Master,3.06,3.76
+1965,10,*,N2,Squarehead's Master,2.3,1.95
+1966,10,*,N2,Squarehead's Master,2.35,2.29
+1928,11,*,N2P,Red Standard,3.91,6.17
+1929,11,*,N2P,Squarehead's Master,1.36,3.13
+1930,11,*,N2P,Red Standard,0.87,1.84
+1931,11,*,N2P,Red Standard,1.86,4
+1933,11,*,N2P,Red Standard,2.35,4.07
+1934,11,*,N2P,Red Standard,2.77,4.89
+1935,11,*,N2P,Red Standard,1.26,3.93
+1936,11,*,N2P,Red Standard,0.59,1.87
+1938,11,*,N2P,Red Standard,3.14,3.54
+1939,11,*,N2P,Red Standard,2.38,4.48
+1940,11,*,N2P,Squarehead's Master,2.51,3.17
+1941,11,*,N2P,Squarehead's Master,1.39,2.26
+1943,11,*,N2P,Squarehead's Master,2.98,4.55
+1944,11,*,N2P,Red Standard,1.97,3.28
+1945,11,*,N2P,Red Standard,1.75,2.88
+1946,11,*,N2P,Squarehead's Master,1.82,4.03
+1948,11,*,N2P,Squarehead's Master,2.04,3.62
+1949,11,*,N2P,Squarehead's Master,2.56,3.96
+1950,11,*,N2P,Squarehead's Master,1.63,3.51
+1951,11,*,N2P,Squarehead's Master,1.84,2.82
+1953,11,*,N2P,Squarehead's Master,2.01,3.98
+1954,11,*,N2P,Squarehead's Master,2.3,4.47
+1955,11,*,N2P,Squarehead's Master,2.13,3.28
+1956,11,*,N2P,Squarehead's Master,1.33,2.28
+1958,11,*,N2P,Squarehead's Master,1.82,2.53
+1959,11,*,N2P,Squarehead's Master,3.18,2.53
+1960,11,*,N2P,Squarehead's Master,2.4,2.77
+1961,11,*,N2P,Squarehead's Master,2.07,2.26
+1963,11,*,N2P,Squarehead's Master, , 
+1964,11,*,N2P,Squarehead's Master,2.77,3.56
+1965,11,*,N2P,Squarehead's Master,2.07,2.74
+1966,11,*,N2P,Squarehead's Master,2.37,1.94
+1928,12,*,N2PNa*,Red Standard,4.13,6.41
+1929,12,*,N2PNa*,Squarehead's Master,1.8,4.1
+1930,12,*,N2PNa*,Red Standard,0.77,1.66
+1931,12,*,N2PNa*,Red Standard,1.7,4.42
+1933,12,*,N2PNa*,Red Standard,2.69,4.49
+1934,12,*,N2PNa*,Red Standard,3.4,5.56
+1935,12,*,N2PNa*,Red Standard,1.41,4.38
+1936,12,*,N2PNa*,Red Standard,0.9,2.68
+1938,12,*,N2PNa*,Red Standard,3.66,4.43
+1939,12,*,N2PNa*,Red Standard,2.56,5.04
+1940,12,*,N2PNa*,Squarehead's Master,2.88,3.88
+1941,12,*,N2PNa*,Squarehead's Master,1.73,2.54
+1943,12,*,N2PNa*,Squarehead's Master,3.25,5.55
+1944,12,*,N2PNa*,Red Standard,2.07,3.17
+1945,12,*,N2PNa*,Red Standard,2.13,3.46
+1946,12,*,N2PNa*,Squarehead's Master,2,4.17
+1948,12,*,N2PNa*,Squarehead's Master,2.53,4.17
+1949,12,*,N2PNa*,Squarehead's Master,2.65,4.35
+1950,12,*,N2PNa*,Squarehead's Master,2,3.51
+1951,12,*,N2PNa*,Squarehead's Master,1.98,2.98
+1953,12,*,N2PNa*,Squarehead's Master,2.34,4.56
+1954,12,*,N2PNa*,Squarehead's Master,2.29,4.48
+1955,12,*,N2PNa*,Squarehead's Master,2.62,3.8
+1956,12,*,N2PNa*,Squarehead's Master,1.51,2.48
+1958,12,*,N2PNa*,Squarehead's Master,1.94,2.86
+1959,12,*,N2PNa*,Squarehead's Master,2.91,2.63
+1960,12,*,N2PNa*,Squarehead's Master,2.48,3.09
+1961,12,*,N2PNa*,Squarehead's Master,2.06,2.62
+1963,12,*,N2PNa*,Squarehead's Master, , 
+1964,12,*,N2PNa*,Squarehead's Master,2.68,3.9
+1965,12,*,N2PNa*,Squarehead's Master,2.14,2.53
+1966,12,*,N2PNa*,Squarehead's Master,2.78,2.24
+1928,13,*,N2PK,Red Standard,4.18,6.89
+1929,13,*,N2PK,Squarehead's Master,1.88,4.13
+1930,13,*,N2PK,Red Standard,0.89,1.92
+1931,13,*,N2PK,Red Standard,1.23,4.48
+1933,13,*,N2PK,Red Standard,2.6,5.44
+1934,13,*,N2PK,Red Standard,3.59,6.44
+1935,13,*,N2PK,Red Standard,1.8,4.97
+1936,13,*,N2PK,Red Standard,1.53,3.58
+1938,13,*,N2PK,Red Standard,4.37,5.9
+1939,13,*,N2PK,Red Standard,2.2,5.28
+1940,13,*,N2PK,Squarehead's Master,2.83,4.22
+1941,13,*,N2PK,Squarehead's Master,1.42,2.33
+1943,13,*,N2PK,Squarehead's Master,3.76,6.74
+1944,13,*,N2PK,Red Standard,2.53,4.6
+1945,13,*,N2PK,Red Standard,1.89,3.51
+1946,13,*,N2PK,Squarehead's Master,1.85,4.77
+1948,13,*,N2PK,Squarehead's Master,3.29,5.5
+1949,13,*,N2PK,Squarehead's Master,1.95,4.06
+1950,13,*,N2PK,Squarehead's Master,1.84,3.77
+1951,13,*,N2PK,Squarehead's Master,2.17,4.17
+1953,13,*,N2PK,Squarehead's Master,3.04,5.85
+1954,13,*,N2PK,Squarehead's Master,2.31,4.51
+1955,13,*,N2PK,Squarehead's Master,2.63,4.14
+1956,13,*,N2PK,Squarehead's Master,2.03,3.32
+1958,13,*,N2PK,Squarehead's Master,3.27,5.41
+1959,13,*,N2PK,Squarehead's Master,2.84,3.1
+1960,13,*,N2PK,Squarehead's Master,2.19,3.64
+1961,13,*,N2PK,Squarehead's Master,2.45,3.69
+1963,13,*,N2PK,Squarehead's Master,2.11,5.29
+1964,13,*,N2PK,Squarehead's Master,2.64,4.1
+1965,13,*,N2PK,Squarehead's Master,2.51,3.96
+1966,13,*,N2PK,Squarehead's Master,3.83,3.73
+1928,14,*,N2PMg*,Red Standard,4.21,6.48
+1929,14,*,N2PMg*,Squarehead's Master,1.7,3.6
+1930,14,*,N2PMg*,Red Standard,0.71,1.55
+1931,14,*,N2PMg*,Red Standard,1.23,4
+1933,14,*,N2PMg*,Red Standard,2.55,4.94
+1934,14,*,N2PMg*,Red Standard,3.4,5.6
+1935,14,*,N2PMg*,Red Standard,1.48,4.25
+1936,14,*,N2PMg*,Red Standard,1.03,2.79
+1938,14,*,N2PMg*,Red Standard,3.27,4.08
+1939,14,*,N2PMg*,Red Standard,2.49,4.43
+1940,14,*,N2PMg*,Squarehead's Master,2.78,3.81
+1941,14,*,N2PMg*,Squarehead's Master,1.55,2.31
+1943,14,*,N2PMg*,Squarehead's Master,3.32,5.16
+1944,14,*,N2PMg*,Red Standard,2.01,3.51
+1945,14,*,N2PMg*,Red Standard,1.81,3.15
+1946,14,*,N2PMg*,Squarehead's Master,1.9,4.09
+1948,14,*,N2PMg*,Squarehead's Master,2.43,4.36
+1949,14,*,N2PMg*,Squarehead's Master,2.79,4.5
+1950,14,*,N2PMg*,Squarehead's Master,1.98,3.56
+1951,14,*,N2PMg*,Squarehead's Master,2.01,3.14
+1953,14,*,N2PMg*,Squarehead's Master,2.11,4.76
+1954,14,*,N2PMg*,Squarehead's Master,2.02,4.15
+1955,14,*,N2PMg*,Squarehead's Master,2.38,3.43
+1956,14,*,N2PMg*,Squarehead's Master,1.3,2.05
+1958,14,*,N2PMg*,Squarehead's Master,2.11,2.64
+1959,14,*,N2PMg*,Squarehead's Master,3.09,2.39
+1960,14,*,N2PMg*,Squarehead's Master,2.26,2.5
+1961,14,*,N2PMg*,Squarehead's Master,1.78,2.45
+1963,14,*,N2PMg*,Squarehead's Master, , 
+1964,14,*,N2PMg*,Squarehead's Master,2.67,3.3
+1965,14,*,N2PMg*,Squarehead's Master,2.37,2.58
+1966,14,*,N2PMg*,Squarehead's Master,2.81,2.3
+1928,15,*,N2PMg*,Red Standard,3.87,6.72
+1929,15,*,N2PKNaMg,Squarehead's Master,1.95,4.48
+1930,15,*,N2PKNaMg,Red Standard,0.86,1.46
+1931,15,*,N2PKNaMg,Red Standard,1.45,3.61
+1933,15,*,N2PKNaMg,Red Standard,2.42,4.9
+1934,15,*,N2PKNaMg,Red Standard,3.61,5.87
+1935,15,*,N2PKNaMg,Red Standard,1.42,3.38
+1936,15,*,N2PKNaMg,Red Standard,1.68,4.33
+1938,15,*,N2PKNaMg,Red Standard,4.25,5.71
+1939,15,*,N2PKNaMg,Red Standard,2.07,4.3
+1940,15,*,N2PKNaMg,Squarehead's Master,2.84,4.19
+1941,15,*,N2PKNaMg,Squarehead's Master,1.23,1.79
+1943,15,*,N2PKNaMg,Squarehead's Master,3.33,5.66
+1944,15,*,N2PKNaMg,Red Standard,2.43,4.01
+1945,15,*,N2PKNaMg,Red Standard,2.22,3.85
+1946,15,*,N2PKNaMg,Squarehead's Master,1.84,4.33
+1948,15,*,N2PKNaMg,Squarehead's Master,2.71,5.22
+1949,15,*,N2PKNaMg,Squarehead's Master,1.91,4.22
+1950,15,*,N2PKNaMg,Squarehead's Master,1.94,3.8
+1951,15,*,N2PKNaMg,Squarehead's Master,1.66,2.5
+1953,15,*,N2PKNaMg,Squarehead's Master,3.23,6.47
+1954,15,*,N2PKNaMg,Squarehead's Master,2.01,4.05
+1955,15,*,N2PKNaMg,Squarehead's Master,2.03,3.38
+1956,15,*,N2PKNaMg,Squarehead's Master,1.97,3.5
+1958,15,*,N2PKNaMg,Squarehead's Master,3.48,5.46
+1959,15,*,N2PKNaMg,Squarehead's Master,2.25,2.05
+1960,15,*,N2PKNaMg,Squarehead's Master,2.25,3.1
+1961,15,*,N2PKNaMg,Squarehead's Master,2.01,2.89
+1963,15,*,N2PKNaMg,Squarehead's Master,2.33,4.73
+1964,15,*,N2PKNaMg,Squarehead's Master,2.77,3.54
+1965,15,*,N2PKNaMg,Squarehead's Master,2.3,3.32
+1966,15,*,N2PKNaMg,Squarehead's Master,2.4,2.12
+1928,16,*,N2*PKNaMg,Red Standard,4.18,6.57
+1929,16,*,N2*PKNaMg,Squarehead's Master,2.26,4.87
+1930,16,*,N2*PKNaMg,Red Standard,0.85,3.15
+1931,16,*,N2*PKNaMg,Red Standard,1.37,5.69
+1933,16,*,N2*PKNaMg,Red Standard,2.9,5.54
+1934,16,*,N2*PKNaMg,Red Standard,3.82,6.38
+1935,16,*,N2*PKNaMg,Red Standard,1.88,6.31
+1936,16,*,N2*PKNaMg,Red Standard,1.62,4.7
+1938,16,*,N2*PKNaMg,Red Standard,4.56,5.92
+1939,16,*,N2*PKNaMg,Red Standard,2.32,6.14
+1940,16,*,N2*PKNaMg,Squarehead's Master,3.72,5.4
+1941,16,*,N2*PKNaMg,Squarehead's Master,1.97,3.89
+1943,16,*,N2*PKNaMg,Squarehead's Master,4.17,7.05
+1944,16,*,N2*PKNaMg,Red Standard,2.94,3.87
+1945,16,*,N2*PKNaMg,Red Standard,2.62,4.94
+1946,16,*,N2*PKNaMg,Squarehead's Master,2.04,5.41
+1948,16,*,N2*PKNaMg,Squarehead's Master,3.53,6.21
+1949,16,*,N2*PKNaMg,Squarehead's Master,2.88,4.71
+1950,16,*,N2*PKNaMg,Squarehead's Master,2.47,4.82
+1951,16,*,N2*PKNaMg,Squarehead's Master,2.91,4.75
+1953,16,*,N2*PKNaMg,Squarehead's Master,3.03,6.52
+1954,16,*,N2*PKNaMg,Squarehead's Master,2.95,5.45
+1955,16,*,N2*PKNaMg,Squarehead's Master,3.17,4.64
+1956,16,*,N2*PKNaMg,Squarehead's Master,1.93,3.2
+1958,16,*,N2*PKNaMg,Squarehead's Master,3.12,4.65
+1959,16,*,N2*PKNaMg,Squarehead's Master,3.58,3.38
+1960,16,*,N2*PKNaMg,Squarehead's Master,2.75,3.41
+1961,16,*,N2*PKNaMg,Squarehead's Master,2.68,4.13
+1963,16,*,N2*PKNaMg,Squarehead's Master,1.94,5.67
+1964,16,*,N2*PKNaMg,Squarehead's Master,2.66,4.13
+1965,16,*,N2*PKNaMg,Squarehead's Master,2.57,4.49
+1966,16,*,N2*PKNaMg,Squarehead's Master,3.84,4.41
+1928,17,*,N2PKNaMg(A),Red Standard,4.16,6.83
+1929,17,*,N2PKNaMg(A),Squarehead's Master,0.58,1.21
+1930,17,*,N2PKNaMg(A),Red Standard,0.75,1.78
+1931,17,*,N2PKNaMg(A),Red Standard,0.76,1.63
+1933,17,*,N2PKNaMg(A),Red Standard,2.54,4.48
+1934,17,*,N2PKNaMg(A),Red Standard,3.11,5.67
+1935,17,*,N2PKNaMg(A),Red Standard,0.75,1.93
+1936,17,*,N2PKNaMg(A),Red Standard,1.77,4.28
+1938,17,*,N2PKNaMg(A),Red Standard,4.25,5.22
+1939,17,*,N2PKNaMg(A),Red Standard,1.27,3.06
+1940,17,*,N2PKNaMg(A),Squarehead's Master,3.29,4.93
+1941,17,*,N2PKNaMg(A),Squarehead's Master,0.52,0.8
+1943,17,*,N2PKNaMg(A),Squarehead's Master,2.92,4.57
+1944,17,*,N2PKNaMg(A),Red Standard,2.38,3.54
+1945,17,*,N2PKNaMg(A),Red Standard,0.97,1.55
+1946,17,*,N2PKNaMg(A),Squarehead's Master,2,4.52
+1948,17,*,N2PKNaMg(A),Squarehead's Master,2.57,5.35
+1949,17,*,N2PKNaMg(A),Squarehead's Master,0.95,1.56
+1950,17,*,N2PKNaMg(A),Squarehead's Master,1.9,3.13
+1951,17,*,N2PKNaMg(A),Squarehead's Master,0.79,1.25
+1953,17,*,N2PKNaMg(A),Squarehead's Master,2.53,4.55
+1954,17,*,N2PKNaMg(A),Squarehead's Master,2.21,4.23
+1955,17,*,N2PKNaMg(A),Squarehead's Master,1.27,1.72
+1956,17,*,N2PKNaMg(A),Squarehead's Master,1.75,2.68
+1958,17,*,N2PKNaMg(A),Squarehead's Master,3.41,5.19
+1959,17,*,N2PKNaMg(A),Squarehead's Master,1.34,1.73
+1960,17,*,N2PKNaMg(A),Squarehead's Master,2.04,2.98
+1961,17,*,N2PKNaMg(A),Squarehead's Master,1.25,1.53
+1963,17,*,N2PKNaMg(A),Squarehead's Master,1.8,3.23
+1964,17,*,N2PKNaMg(A),Squarehead's Master,2.9,4.06
+1965,17,*,N2PKNaMg(A),Squarehead's Master,0.99,1.21
+1966,17,*,N2PKNaMg(A),Squarehead's Master,3.77,3.98
+1928,18,*,N2PKNaMg(A),Red Standard,2.94,4.8
+1929,18,*,N2PKNaMg(A),Squarehead's Master,1.28,2.67
+1930,18,*,N2PKNaMg(A),Red Standard,0.26,0.41
+1931,18,*,N2PKNaMg(A),Red Standard,1.6,4.6
+1933,18,*,N2PKNaMg(A),Red Standard,2.38,5.13
+1934,18,*,N2PKNaMg(A),Red Standard,1.44,1.94
+1935,18,*,N2PKNaMg(A),Red Standard,1.55,4.44
+1936,18,*,N2PKNaMg(A),Red Standard,0.82,2.88
+1938,18,*,N2PKNaMg(A),Red Standard,3.46,4.06
+1939,18,*,N2PKNaMg(A),Red Standard,2.14,4.78
+1940,18,*,N2PKNaMg(A),Squarehead's Master,1.44,2.18
+1941,18,*,N2PKNaMg(A),Squarehead's Master,1.27,2.26
+1943,18,*,N2PKNaMg(A),Squarehead's Master,3.5,5.69
+1944,18,*,N2PKNaMg(A),Red Standard,1.12,1.16
+1945,18,*,N2PKNaMg(A),Red Standard,2.16,3.57
+1946,18,*,N2PKNaMg(A),Squarehead's Master, , 
+1948,18,*,N2PKNaMg(A),Squarehead's Master,2.17,3.87
+1949,18,*,N2PKNaMg(A),Squarehead's Master,1.95,3.34
+1950,18,*,N2PKNaMg(A),Squarehead's Master,0.92,1.44
+1951,18,*,N2PKNaMg(A),Squarehead's Master,2.2,3.8
+1953,18,*,N2PKNaMg(A),Squarehead's Master,3,6.18
+1954,18,*,N2PKNaMg(A),Squarehead's Master,0.71,1.39
+1955,18,*,N2PKNaMg(A),Squarehead's Master,2.84,4.56
+1956,18,*,N2PKNaMg(A),Squarehead's Master,0.76,1.28
+1958,18,*,N2PKNaMg(A),Squarehead's Master,2.68,4.22
+1959,18,*,N2PKNaMg(A),Squarehead's Master,2.16,2.13
+1960,18,*,N2PKNaMg(A),Squarehead's Master,0.84,1.48
+1961,18,*,N2PKNaMg(A),Squarehead's Master,2.64,3.63
+1963,18,*,N2PKNaMg(A),Squarehead's Master,1.84,4.23
+1964,18,*,N2PKNaMg(A),Squarehead's Master,0.94,1
+1965,18,*,N2PKNaMg(A),Squarehead's Master,2.32,3.08
+1966,18,*,N2PKNaMg(A),Squarehead's Master,1.17,1.3
+1928,19,*,C,Red Standard,4.07,6.51
+1929,19,*,C,Squarehead's Master,1.75,3.56
+1930,19,*,C,Red Standard,1,1.87
+1931,19,*,C,Red Standard,1.61,3.48
+1933,19,*,C,Red Standard,3.14,5.1
+1934,19,*,C,Red Standard,3.05,4.46
+1935,19,*,C,Red Standard,1.25,3.1
+1936,19,*,C,Red Standard,1.35,2.88
+1938,19,*,C,Red Standard,4.26,4.86
+1939,19,*,C,Red Standard,2.2,4.1
+1940,19,*,C,Squarehead's Master,2.64,3.67
+1941,19,*,C,Squarehead's Master,1.16,1.45
+1943,19,*,C,Squarehead's Master,3.63,5.47
+1944,19,*,C,Red Standard,2.28,3.57
+1945,19,*,C,Red Standard,1.87,3.16
+1946,19,*,C,Squarehead's Master,1.66,3.48
+1948,19,*,C,Squarehead's Master,2.46,4.88
+1949,19,*,C,Squarehead's Master,2.27,5.04
+1950,19,*,C,Squarehead's Master,1.87,2.81
+1951,19,*,C,Squarehead's Master,1.91,2.44
+1953,19,*,C,Squarehead's Master,2.43,4.78
+1954,19,*,C,Squarehead's Master,2.03,3.65
+1955,19,*,C,Squarehead's Master,1.82,2.85
+1956,19,*,C,Squarehead's Master,1.72,2.84
+1958,19,*,C,Squarehead's Master,3.17,4.3
+1959,19,*,C,Squarehead's Master,2.13,1.85
+1960,19,*,C,Squarehead's Master,2.19,3.3
+1961,19,*,C,Squarehead's Master,1.83,2.23
+1963,19,*,C,Squarehead's Master,1.71,3.53
+1964,19,*,C,Squarehead's Master,2.36,3.1
+1965,19,*,C,Squarehead's Master,2.4,3.23
+1966,19,*,C,Squarehead's Master,2.34,2.1
+1931,20,*,N2KNaMg,Red Standard,1.09,3.46
+1933,20,*,N2KNaMg,Red Standard,2.12,3.57
+1934,20,*,N2KNaMg,Red Standard,3.11,4.17
+1935,20,*,N2KNaMg,Red Standard,0.78,2.93
+1936,20,*,N2KNaMg,Red Standard,0.93,3.88
+1938,20,*,N2KNaMg,Red Standard,3.21,4
+1939,20,*,N2KNaMg,Red Standard,2.42,5.35
+1940,20,*,N2KNaMg,Squarehead's Master,2.56,3.19
+1941,20,*,N2KNaMg,Squarehead's Master,1.46,2.46
+1943,20,*,N2KNaMg,Squarehead's Master,2.91,4.55
+1944,20,*,N2KNaMg,Red Standard,2.59,4.2
+1945,20,*,N2KNaMg,Red Standard,1.71,3.53
+1946,20,*,N2KNaMg,Squarehead's Master,1.39,3.52
+1948,20,*,N2KNaMg,Squarehead's Master,1.76,3.69
+1949,20,*,N2KNaMg,Squarehead's Master,1.97,3.81
+1950,20,*,N2KNaMg,Squarehead's Master,1.96,3.47
+1951,20,*,N2KNaMg,Squarehead's Master,1.91,3.51
+1953,20,*,N2KNaMg,Squarehead's Master,2.64,4.46
+1954,20,*,N2KNaMg,Squarehead's Master,1.81,3.78
+1955,20,*,N2KNaMg,Squarehead's Master,2.18,2.97
+1956,20,*,N2KNaMg,Squarehead's Master,1.08,2.08
+1958,20,*,N2KNaMg,Squarehead's Master,2.66,3.51
+1959,20,*,N2KNaMg,Squarehead's Master,1.76,1.41
+1960,20,*,N2KNaMg,Squarehead's Master,1.82,2.84
+1961,20,*,N2KNaMg,Squarehead's Master,1.74,2.3
+1963,20,*,N2KNaMg,Squarehead's Master,1.73,3.08
+1964,20,*,N2KNaMg,Squarehead's Master,2.51,3.42
+1965,20,*,N2KNaMg,Squarehead's Master,1.53,1.8
+1966,20,*,N2KNaMg,Squarehead's Master,2.18,2.44
