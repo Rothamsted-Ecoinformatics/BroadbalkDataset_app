@@ -35,8 +35,7 @@ def get_data_csv():
     df['sub_plot'] = df['sub_plot'].replace(np.nan, '')
     df['grain'] = pd.to_numeric(df['grain'], errors= 'coerce')
     df['straw'] = pd.to_numeric(df['straw'], errors= 'coerce')
-    df['plot'] = df['plot']
-    df['complete_plot'] = df['plot'].astype(str) + ' ' + df['sub_plot']
+    df['complete_strip'] = df['plot'].astype(str) + ' ' + df['sub_plot']
     df = df.sort_values(by=["plot", "sub_plot", "harvest_year"])
     return df
 df = get_data_csv()
@@ -45,6 +44,13 @@ df = get_data_csv()
 def download_csv(df):
     return df.to_csv().encode('utf-8')
 
+
+
+
+
+
+#===== Weather forcasts =====
+"""
 from datetime import date
 from datetime import timedelta
 
@@ -73,6 +79,12 @@ def get_rainfall_data_csv(site, date):
     df_rainfall = df_rainfall[['ValidDate', 'average']]
     df_rainfall = df_rainfall.groupby(by=['ValidDate']).max().reset_index()
     return df_rainfall
+"""
+
+
+
+
+
 
 # --- SIDEBAR ---
 
@@ -82,24 +94,24 @@ st.sidebar.info("**Data source:** [Era@Rothamsted](%s)" % url)
 
 st.sidebar.header('Filter Here')
 
-all_plots = st.sidebar.checkbox('Select all plots', value=True)
-if all_plots == True:
-    df_plot = df
+all_strips = st.sidebar.checkbox('Select all strips', value=True)
+if all_strips == True:
+    df_strip = df
 else:
-    plot = st.sidebar.multiselect(
-        'Selected plots:',
-        options=df['complete_plot'].unique(),
+    strip = st.sidebar.multiselect(
+        'Selected strips:',
+        options=df['complete_strip'].unique(),
         default=[])
-    df_plot = df.query("complete_plot == @plot")
+    df_strip = df.query("complete_strip == @strip")
     st.sidebar.markdown('##')
     
     
 
-if df_plot.empty:
+if df_strip.empty:
     correct = False
 else:
-    max_year = int(df_plot['harvest_year'].max())
-    min_year = int(df_plot['harvest_year'].min())
+    max_year = int(df_strip['harvest_year'].max())
+    min_year = int(df_strip['harvest_year'].min())
 
     year = st.sidebar.slider('Pick a period', min_year, max_year, (min_year, max_year), step=1)
     down_year = year[0]
@@ -108,7 +120,7 @@ else:
         st.sidebar.write(f'from {down_year} to {up_year}')
     else:
         st.sidebar.write(f'in {up_year}')
-    df_year = df_plot.query('harvest_year >= @down_year & harvest_year <= @up_year')
+    df_year = df_strip.query('harvest_year >= @down_year & harvest_year <= @up_year')
     st.sidebar.markdown('##')
     
     
@@ -124,10 +136,7 @@ else:
     for index in range(len(fertilizer_list)):
         if check_list[index] == True:
             checked_fert.append(fertilizer_list[index])
-            
-            
-            
-            
+
     df_selection = df_year.query("fertilizer_code == @checked_fert")
         
     if df_selection.empty:
@@ -138,6 +147,11 @@ else:
 
 # --- MAINPAGE ---
 
+
+
+
+#===== Weather forcasts =====
+"""
 st.title(':sunny: Weather')
 
 selectbox = st.selectbox('Select a Site',
@@ -182,6 +196,11 @@ col3.metric("Rainfall",
             str(tomorrow_rainfall.values[0][0]))
 
 st.markdown('##')
+"""
+
+
+
+
 
 
 if (correct == True):
@@ -192,17 +211,17 @@ if (correct == True):
 if (correct == True):
     search = False
     nb_collect = int(df_selection['grain'].count())
-    max_grain_size = float(df_selection['grain'].max())
+    max_grain_yield = float(df_selection['grain'].max())
     average_biomass = float((df_selection['grain'] + df_selection['straw']).mean())
-    star_grain = ':star:' * (int(max_grain_size/2)+1)
+    star_grain = ':star:' * (int(max_grain_yield/2)+1)
     
     col1, col2 = st.columns(2)
     with col1:
         st.subheader('Filtered Results')
         st.subheader(nb_collect)
     with col2:
-        st.subheader('Maximum Grain Size')
-        st.subheader(f'{max_grain_size} {star_grain}')
+        st.subheader('Maximum Grain Yield')
+        st.subheader(f'{max_grain_yield} {star_grain}')
     st.markdown('---')
     
     #st.dataframe(df_selection)
@@ -216,67 +235,67 @@ if (correct == True):
                          horizontal=True)
         
         if average == 'Each year':
-            main_plot = px.line(data_frame=df_selection,
+            main_strip = px.line(data_frame=df_selection,
                                 x='harvest_year',
-                                y='grain', color='complete_plot', 
+                                y='grain', color='complete_strip', 
                                 title='<b>First Chart</b>',
-                                range_y=[0, max_grain_size + 1],
+                                range_y=[0, max_grain_yield + 1],
                                 range_x=[down_year, up_year],
                                 line_group="plot", hover_name="plot",
                                 line_shape=shape, render_mode="svg"
             )
-            st.plotly_chart(main_plot)
+            st.plotly_chart(main_strip)
         elif average == '5 years':
             df_interval = df_selection.copy()
             df_interval['plot'] = df_interval['plot'].astype(float)
             df_interval['five_years'] = (df_interval['harvest_year'].astype(int)//5)*5
-            df_interval['plot_5y'] = df_interval['five_years'].astype(str) + '_' + df_interval['complete_plot']
-            df_5y = df_interval['grain'].groupby(by=df_interval['plot_5y']).mean().rename('average yield')
-            df_interval = pd.merge(df_interval, df_5y, on='plot_5y')
+            df_interval['strip_5y'] = df_interval['five_years'].astype(str) + '_' + df_interval['complete_strip']
+            df_5y = df_interval['grain'].groupby(by=df_interval['strip_5y']).mean().rename('average yield')
+            df_interval = pd.merge(df_interval, df_5y, on='strip_5y')
 
-            df_group = df_interval.groupby(by=['plot_5y']).first().sort_values(by=['plot', 'sub_plot']).reset_index()
-            main_plot = px.line(data_frame=df_group,
+            df_group = df_interval.groupby(by=['strip_5y']).first().sort_values(by=['plot', 'sub_plot']).reset_index()
+            main_strip = px.line(data_frame=df_group,
                                 x='harvest_year',
-                                y='average yield', color='complete_plot', 
+                                y='average yield', color='complete_strip', 
                                 title='<b>First Chart</b>',
-                                range_y=[0, max_grain_size + 1],
+                                range_y=[0, max_grain_yield + 1],
                                 range_x=[down_year, up_year],
                                 line_group="plot", hover_name="plot",
                                 line_shape=shape, render_mode="svg"
             )
-            st.plotly_chart(main_plot)
+            st.plotly_chart(main_strip)
         else:
             df_interval = df_selection.copy()
             df_interval['plot'] = df_interval['plot'].astype(float)
             df_interval['ten_years'] = (df_interval['harvest_year'].astype(int)//10)*10
-            df_interval['plot_10y'] = df_interval['ten_years'].astype(str) + '_' + df_interval['complete_plot']
-            df_10y = df_interval['grain'].groupby(by=df_interval['plot_10y']).mean().rename('average yield')
-            df_interval = pd.merge(df_interval, df_10y, on='plot_10y')
+            df_interval['strip_10y'] = df_interval['ten_years'].astype(str) + '_' + df_interval['complete_strip']
+            df_10y = df_interval['grain'].groupby(by=df_interval['strip_10y']).mean().rename('average yield')
+            df_interval = pd.merge(df_interval, df_10y, on='strip_10y')
 
-            df_group = df_interval.groupby(by=['plot_10y']).first().sort_values(by=['plot', 'sub_plot']).reset_index()
-            main_plot = px.line(data_frame=df_group,
+            df_group = df_interval.groupby(by=['strip_10y']).first().sort_values(by=['plot', 'sub_plot']).reset_index()
+            main_strip = px.line(data_frame=df_group,
                                 x='harvest_year',
-                                y='average yield', color='complete_plot', 
+                                y='average yield', color='complete_strip', 
                                 title='<b>First Chart</b>',
-                                range_y=[0, max_grain_size + 1],
+                                range_y=[0, max_grain_yield + 1],
                                 range_x=[down_year, up_year],
                                 line_group="plot", hover_name="plot",
                                 line_shape=shape, render_mode="svg"
             )
-            st.plotly_chart(main_plot)
+            st.plotly_chart(main_strip)
         
-        grain_size_by_fertilizer = (
+        grain_yield_by_fertilizer = (
             df_selection.groupby(by=['fertilizer_code']).mean()[['grain']].sort_values(by='grain')
         )
         
-        grain_size_by_fertilizer['grain'] = grain_size_by_fertilizer.round(2)
+        grain_yield_by_fertilizer['grain'] = grain_yield_by_fertilizer.round(2)
         
         
         fig_grain = px.bar(
-            grain_size_by_fertilizer,
+            grain_yield_by_fertilizer,
             x='grain',
-            y=grain_size_by_fertilizer.index,
-            labels={'grain': "Average grain size"},
+            y=grain_yield_by_fertilizer.index,
+            labels={'grain': "Average grain yield"},
             orientation='h',
             title="<b>Second Chart</b>",
             #color_discrete_sequence=[],
@@ -293,24 +312,24 @@ if (correct == True):
     
     with st.expander('Dataframe'):
         order = st.radio("Order by:",
-                         ['Plot name', 'Harvest year', 'Fertilizer', 'Cultivar', 'Grain size'],
+                         ['strip name', 'Harvest year', 'Fertilizer', 'Cultivar', 'Grain yield'],
                          horizontal=True)
         
-        if order == 'Plot name':
-            df_show = df_selection[['complete_plot', 'harvest_year', 'fertilizer_code', 'cultivar', 'grain']].copy()
-            df_show = df_show.sort_values(by=['complete_plot', 'harvest_year'])
+        if order == 'strip name':
+            df_show = df_selection[['complete_strip', 'harvest_year', 'fertilizer_code', 'cultivar', 'grain']].copy()
+            df_show = df_show.sort_values(by=['complete_strip', 'harvest_year'])
         elif order == 'Harvest year':
-            df_show = df_selection[['harvest_year', 'complete_plot', 'fertilizer_code', 'cultivar', 'grain']].copy()
-            df_show = df_show.sort_values(by=['harvest_year', 'complete_plot'])
+            df_show = df_selection[['harvest_year', 'complete_strip', 'fertilizer_code', 'cultivar', 'grain']].copy()
+            df_show = df_show.sort_values(by=['harvest_year', 'complete_strip'])
         elif order == 'Fertilizer':
-            df_show = df_selection[['fertilizer_code', 'complete_plot', 'harvest_year', 'cultivar', 'grain']].copy()
-            df_show = df_show.sort_values(by=['fertilizer_code', 'complete_plot', 'harvest_year'])
+            df_show = df_selection[['fertilizer_code', 'complete_strip', 'harvest_year', 'cultivar', 'grain']].copy()
+            df_show = df_show.sort_values(by=['fertilizer_code', 'complete_strip', 'harvest_year'])
         elif order == 'Cultivar':
-            df_show = df_selection[['cultivar', 'complete_plot', 'harvest_year', 'fertilizer_code', 'grain']].copy()
-            df_show = df_show.sort_values(by=['cultivar', 'complete_plot', 'harvest_year'])
-        elif order == 'Grain size':
-            df_show = df_selection[['grain', 'complete_plot', 'harvest_year', 'fertilizer_code', 'cultivar']].copy()
-            df_show = df_show.sort_values(by=['complete_plot', 'harvest_year'])
+            df_show = df_selection[['cultivar', 'complete_strip', 'harvest_year', 'fertilizer_code', 'grain']].copy()
+            df_show = df_show.sort_values(by=['cultivar', 'complete_strip', 'harvest_year'])
+        elif order == 'Grain yield':
+            df_show = df_selection[['grain', 'complete_strip', 'harvest_year', 'fertilizer_code', 'cultivar']].copy()
+            df_show = df_show.sort_values(by=['complete_strip', 'harvest_year'])
             desc = st.checkbox("Descending", False)
             df_show = df_show.sort_values(by=['grain'], ascending= not desc)
         df_show = df_show.reset_index(drop=True)
